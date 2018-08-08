@@ -1,0 +1,223 @@
+Our boat is the ProBoat Ragazza.
+
+The home page for version 1 of the boat:
+http://www.proboatmodels.com/Products/Default.aspx?ProdID=PRB07000
+
+The home page for version 2 of the boat:
+http://www.proboatmodels.com/Products/Default.aspx?ProdID=PRB07003
+
+The manual for version 1 of the boat:
+http://www.proboatmodels.com/ProdInfo/Files/PRB07000_Manual_English.pdf
+
+The manual for version 2 of the boat:
+http://www.proboatmodels.com/ProdInfo/Files/PRB07003_Manual_EN.pdf
+
+Version 2 differences:
+  It doesn't have a forestay.
+  It doesn't require a 1.5mm ball type hex wrench (only a 2.5mm).
+  It comes with a different transmitter.
+    which has a Winch Rate knob instead of a 50/50, 70/30 switch.
+  No spacer is required on the rudder post during assembly.
+  Spreaders?
+
+------------------------------------------------------------------------
+
+There is an International One Meter Class Association for sailboats with
+one meter hulls, so you can find a lot of videos on YouTube for boats in
+the class.  You can see them racing, etc.  Of particular interest are the
+videos which show how to tune them.  For example:
+
+https://www.youtube.com/watch?v=5JaeKpDvMl8(*)
+https://www.youtube.com/watch?v=_Dm9GPXBDGk(*)
+https://www.youtube.com/watch?v=roytVZ5GOO8
+https://www.youtube.com/watch?v=TybDkWjawkc
+https://www.youtube.com/watch?v=mwk8DTptrwY
+https://www.youtube.com/watch?v=kABopqOO08k
+https://www.youtube.com/watch?v=WoTCH9JjaGQ
+https://www.youtube.com/watch?v=u_Xn5QLUxA8
+
+Here's a hardware modification to wind the sheets in light wind:
+https://www.youtube.com/watch?v=XC7oTK0pX24
+
+I've read that the Ragazza does not conform to the rig/sail sizes for
+any of the three subclasses of IOM, but lies between two of them.  The
+class rules are at:
+
+http://www.iomclass.org/class-rules-2017/
+
+The Rigs and Sails Certification Control-Check List Form is found here:
+
+http://iomclass.org/doc-files/Measurement/2017/IOM_rigs&sails_check%20list%202017.pdf
+
+------------------------------------------------------------------------
+A note on the below experiments:
+
+"premature optimization is the root of all evil (or at least most of it)
+in programming."  (Donald Knuth)
+
+Spending a lot of time optimzing some boat functions can prevent us from
+finishing all the functionality of the boat in a timely manner.  Many of
+the proposed experiments come under this category, so we should consider
+them only after the boat is already performing all the tasks we want.
+
+Experiments to try:
+
+1.  Using a linear function to calculate mainsheet length for a given wind
+    angle is a good first approximation.  But the boom angle is not a
+    linear function of sheet length.  When we are ready to optimize things,
+    is the sheet too tight or too loose in the middle of the range of
+    travel?  Which way does the function actually curve?
+
+  Calculate the correspondence between sheet position and boom angle:
+  Origin is at the boom pivot point
+  x is the position of the hole in the deck through which the sheet passes
+  h is the height of the boom above the deck at the hole
+  r is the distance from the origin of the sheet attachment point on the boom
+  s is the sheet length
+  th, i.e. theta, is the boom angle
+
+  s^2 = (*r*cos(th)-x)^2 + (r*sin(th))^2 + h^2
+  s^2 = r^2 - 2*r*x*cos(th) + h^2
+  cos(th) = (r^2 + h^2 - s^2) / (2*r*x)
+
+  Since the sheet length doesn't have a zero origin, i.e. s = s0 + s', this
+  is probably best modeled as:
+
+  cos(th) = a + b*s + c*s^2
+
+  th and s can be measured on a real boat, and then fit with least squares
+  to determine (a,b,c).
+
+2.  I don't consider this next experiment just an optimization.  I view it
+    as being essential if we are to sail in 10kts of wind or more.
+
+    If we are determined to maintain a particular point of sail, then we
+    need to control the heel angle, by letting the sheets out if the boat
+    heels too much.  There are two different variables returned by the
+    accelerometer code that relate to heel angle: raw y-axis acceleration,
+    and a derived heel angle which is determined by the arctangent of the
+    ratio between the y-axis acceleration and the z-axis acceleration.  If
+    the boat is traveling at a constant velocity, then it doesn't matter
+    which variable we pick to control.  If the boat is bouncing around,
+    then its center of mass will be accelerating, and one of these variables
+    will probably be better to control than the other.  I really don't have
+    a theoretical basis for which one to pick.  I decided to choose the
+    raw y-axis acceleration, since it is measured directly by the device.
+    (Perhaps another experiment can be set up to show the difference
+    between the two possible control variables on a choppy day.)
+
+    Initially, I picked a target maximum heel angle of 30 degrees, which
+    corresponds to a y-axis acceleration of about 4.9m/s^2.  After watching
+    YouTube videos of 1-meter boats racing, I've decided to change the
+    target maximum heel angle of 45 degrees, which corresponds to a y-axis
+    acceleration of about 6.9m/s^2.
+
+    A PID controller is the best way to keep the boat from heeling too
+    much.  To understand what it is and how to implement it, I suggest
+    looking at:
+
+      https://www.youtube.com/watch?v=4Y7zG48uHRo
+
+    Here's another good one:
+
+      https://www.youtube.com/watch?v=fusr9eTceEo
+
+    Then visit the Wikipedia page:
+
+      https://en.wikipedia.org/wiki/PID_controller
+    
+    First, search in the page for section 10, "Pseudocode".  This shows
+    you how to implement it.  Then go back to section 5.4 "Manual tuning",
+    and section 5.5 "Zieglers-Nichols method".  After that, you're on your
+    own.  Depending on your math background, you can read the rest of the
+    Wiki article, or search the web for lots more information on the topic.
+
+    In my implementation, the PID controller modifies the target sheet
+    position that has been determined else where in the software.  I use
+    the error calculation:
+
+      error = measured_value - setpoint
+
+    The setpoint was initially 4.9, and the measured_value was the current
+    y-axis acceleration.  The error will be positive if the boat is heeling
+    too much, and negative if not.  Even if the error is negative, I still
+    calculate the "output", since it may be that a correction is necessary
+    to keep the error near zero.  If the output is negative, then rather than
+    trying to pull the sheets in to try to make the boat heel over farther,
+    I set the output to zero, and also make sure that the integral in the
+    pseudo code is also kept at zero.
+    
+    Initially, I used a Kp of 10, with Ki and Kd set to zero.  The output
+    of the PID controller was used as an addition to the sheet position.
+    I put the boat on the water on a stronger green flag day, and observed
+    that the boat's angle of heel wasn't very well controlled.  On a lighter
+    yellow flag day, I put the boat back on the water with a Kp of 20.  The
+    heel angle was better controlled, and this time I had better data logging.
+    The data logging captured the fact that there was an oscillation going on
+    where the boat was heeling too far, the sheets were let out, then the boat
+    wasn't heeling too far anymore, so the sheets were pulled in.  From the
+    plot of the track, I estimated that the period of the oscillation was
+    about three seconds.  At some point, I will collect the raw data from
+    the log and calculate a more precise figure.  This can then be used to
+    tune Kp, Ki, and Kd.  (I think I probably won't use Kd, since the
+    calculated error would probably be pretty noisy, which means that the
+    derivative will be all over the place.)
+
+    A PID controller could also be used to hold a heading, whether it
+    is a point of sail, a magnetic heading, or a GPS track.
+
+    Oh, one more thing about the pseudo code on the Wikipedia page.  It
+    needs to have statements to protect against integrator wind-up.  After
+    "integral" is calculated, it should have something like:
+
+      if (integral > integral_max) integral = integral_max;
+      else if (integral < integral_min) integral = integral_min;
+
+3.  To get the best compass readings, it would seem that it would be good
+    to do an on-the-water calibration of the magnetometer.  The boat could
+    be turned in a circle, while tabulating its extreme values.
+
+4.  Write code that reads the RC input pulses with interrupts instead of
+    pulseIn().  Right now, the code can spend up to 40ms in the two calls
+    to pulseIn(), and is the limiting factor in how long it takes to
+    complete one execution of the loop() function.
+
+5.  Figure out what the best sheet position is for any given point of sail.
+    The boat can be driven at a point of sail, while the sheet position is
+    pulled in, and then let out maybe 5 "degrees" at a time, every five
+    seconds, with the GPS position being logged to disk.  The log can be
+    examined to figure out what sheet position resulted in the best
+    velocity for any given point of sail.
+
+6.  Construct a polar diagram for the boat.  Plot the maximum velocity
+    as a radial distance from the origin in the direction of the relative
+    wind.  This is best done on a day with constant wind.  The polar
+    diagram will differ depending on the amount of wind.  The close-hauled
+    point on the diagram with be the point with the maximum up-wind
+    velocity.  The diagram should have points on it which are closer to
+    the wind than close hauled, to show how the boat performs when it is
+    "pinching".  Ideally, while this data is being collected, true course
+    will also be collected, so that leeway can be calculated for each point
+    of sail.
+
+    The above can be done on days with different wind speed, so that we will
+    have polar diagrams for each of those speeds.
+
+7.  Determine the best maximum rudder angle.  If the rudder were physically
+    able to point at 90 degrees, it would be useless to do so, since there
+    would be no turning force, and it would act as a brake.  You get a
+    similar situation with angles near 90 degrees.  Do the question is,
+    just because we can turn the rudder 60 degrees, should we use the
+    full range of the rudder?  I envision trying to turn away from the wind
+    from close hauled to close hauled, with the rudder set at various
+    positions to see what the differences are in angular velocity and
+    forward velocity.
+
+8.  Experiment to discover the best tacking technique.  We may not want to
+    limit the rudder position chosen by the previous experiment because it
+    might be best to achieve the highest angular velocity through the tack
+    rather than maintaining forward velocity.  (I'm thinking here about
+    tacking in wind/waves, which might reduce our forward velocity to zero,
+    but the tack will still succeed if the angular velocity is maintained.)
+    
+
