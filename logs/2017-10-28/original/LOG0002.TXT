@@ -1,0 +1,602 @@
+582, Scott's BoatCode Wind+GPS+Compass-10/28/17
+1071, @manual command mode
+1083, Wind Angle: -32	 Sail, from RC: 1335  angle out: 77  Rudder, from RC: 1471  angle out: 90
+1094, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1107, Roll raw value: -0.08, Roll in deg: -0.47, Actual heading: 73.28
+1120, 
+1158, Wind Angle: -33	 Sail, from RC: 1343  angle out: 78  Rudder, from RC: 1463  angle out: 90
+1171, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1189, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 71.01
+1202, 
+1224, Wind Angle: -32	 Sail, from RC: 1334  angle out: 77  Rudder, from RC: 1456  angle out: 89
+1238, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1251, Roll raw value: -0.08, Roll in deg: -0.47, Actual heading: 75.95
+1263, 
+1289, Wind Angle: -32	 Sail, from RC: 1337  angle out: 77  Rudder, from RC: 1469  angle out: 90
+1306, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1318, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 75.95
+1331, 
+1355, Wind Angle: -33	 Sail, from RC: 1343  angle out: 78  Rudder, from RC: 1472  angle out: 90
+1370, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1383, Roll raw value: -0.08, Roll in deg: -0.47, Actual heading: 74.32
+1397, 
+1422, Wind Angle: -33	 Sail, from RC: 1313  angle out: 75  Rudder, from RC: 1447  angle out: 87
+1435, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1448, Roll raw value: -0.04, Roll in deg: -0.23, Actual heading: 74.75
+1461, 
+1487, Wind Angle: -33	 Sail, from RC: 1337  angle out: 77  Rudder, from RC: 1469  angle out: 90
+1501, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1517, Roll raw value: 0.08, Roll in deg: 0.46, Actual heading: 75.98
+1539, 
+1575, Wind Angle: -33	 Sail, from RC: 1337  angle out: 77  Rudder, from RC: 1478  angle out: 91
+1589, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1602, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 73.32
+1614, 
+1641, Wind Angle: -32	 Sail, from RC: 1313  angle out: 75  Rudder, from RC: 1443  angle out: 87
+1657, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1671, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 75.25
+1682, 
+1707, Wind Angle: -33	 Sail, from RC: 1343  angle out: 78  Rudder, from RC: 1472  angle out: 90
+1721, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1734, Roll raw value: 0.04, Roll in deg: 0.23, Actual heading: 75.82
+1745, 
+1773, Wind Angle: -35	 Sail, from RC: 1337  angle out: 77  Rudder, from RC: 1478  angle out: 91
+1787, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1801, Roll raw value: 0.08, Roll in deg: 0.48, Actual heading: 74.42
+1812, 
+1839, Wind Angle: -22	 Sail, from RC: 1322  angle out: 76  Rudder, from RC: 1463  angle out: 90
+1852, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1868, Roll raw value: -0.04, Roll in deg: -0.23, Actual heading: 76.35
+1881, 
+1905, Wind Angle: -33	 Sail, from RC: 1343  angle out: 78  Rudder, from RC: 1472  angle out: 90
+1918, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+1932, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 76.39
+1944, 
+1970, Wind Angle: -33	 Sail, from RC: 1337  angle out: 77  Rudder, from RC: 1478  angle out: 91
+1984, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2000, Roll raw value: 0.04, Roll in deg: 0.23, Actual heading: 75.35
+2012, 
+2036, Wind Angle: -35	 Sail, from RC: 1343  angle out: 78  Rudder, from RC: 1463  angle out: 90
+2050, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2063, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 75.31
+2075, 
+2103, Wind Angle: -36	 Sail, from RC: 1313  angle out: 75  Rudder, from RC: 1441  angle out: 86
+2119, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2132, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 74.62
+2145, 
+2167, Wind Angle: -33	 Sail, from RC: 1336  angle out: 77  Rudder, from RC: 1478  angle out: 91
+2182, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2195, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 74.56
+2209, 
+2234, Wind Angle: -33	 Sail, from RC: 1343  angle out: 78  Rudder, from RC: 1463  angle out: 90
+2248, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2262, Roll raw value: -0.12, Roll in deg: 0.00, Actual heading: 75.77
+2273, 
+2299, Wind Angle: -32	 Sail, from RC: 1335  angle out: 77  Rudder, from RC: 1451  angle out: 88
+2313, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2329, Roll raw value: -0.08, Roll in deg: -0.48, Actual heading: 75.18
+2341, 
+2366, Wind Angle: -33	 Sail, from RC: 1337  angle out: 77  Rudder, from RC: 1469  angle out: 90
+2379, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2393, Roll raw value: 0.04, Roll in deg: 0.24, Actual heading: 72.30
+2405, 
+2432, Wind Angle: -33	 Sail, from RC: 1343  angle out: 78  Rudder, from RC: 1463  angle out: 90
+2449, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2462, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 77.06
+2473, 
+2497, Wind Angle: -28	 Sail, from RC: 1335  angle out: 77  Rudder, from RC: 1471  angle out: 90
+2511, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2525, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 74.09
+2551, 
+2586, Wind Angle: -33	 Sail, from RC: 1343  angle out: 78  Rudder, from RC: 1472  angle out: 90
+2599, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2613, Roll raw value: 0.00, Roll in deg: -0.24, Actual heading: 76.24
+2624, 
+2651, Wind Angle: -33	 Sail, from RC: 1334  angle out: 77  Rudder, from RC: 1478  angle out: 91
+2664, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2680, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 73.27
+2693, 
+2717, Wind Angle: -26	 Sail, from RC: 1337  angle out: 77  Rudder, from RC: 1470  angle out: 90
+2731, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2744, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 76.07
+2756, 
+2784, Wind Angle: -28	 Sail, from RC: 1331  angle out: 76  Rudder, from RC: 1430  angle out: 85
+2797, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599416   x = 0.00   y = 0.00  heading from start = 0
+2813, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 71.18
+2826, 
+2850, Wind Angle: -33	 Sail, from RC: 1335  angle out: 77  Rudder, from RC: 1478  angle out: 91
+2864, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+2877, Roll raw value: 0.04, Roll in deg: 0.24, Actual heading: 76.37
+2889, 
+2915, Wind Angle: -35	 Sail, from RC: 1337  angle out: 77  Rudder, from RC: 1470  angle out: 90
+2931, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+2945, Roll raw value: 0.00, Roll in deg: 0.70, Actual heading: 75.73
+2957, 
+2980, Wind Angle: -28	 Sail, from RC: 1313  angle out: 75  Rudder, from RC: 1451  angle out: 88
+2994, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3007, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 74.20
+3022, 
+3047, Wind Angle: -33	 Sail, from RC: 1335  angle out: 77  Rudder, from RC: 1478  angle out: 91
+3060, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3074, Roll raw value: 0.08, Roll in deg: 0.47, Actual heading: 76.50
+3086, 
+3112, Wind Angle: -33	 Sail, from RC: 1337  angle out: 77  Rudder, from RC: 1469  angle out: 90
+3127, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3142, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 74.73
+3154, 
+3178, Wind Angle: -26	 Sail, from RC: 1343  angle out: 78  Rudder, from RC: 1472  angle out: 90
+3191, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3205, Roll raw value: 0.04, Roll in deg: 0.24, Actual heading: 74.62
+3217, 
+3245, Wind Angle: -33	 Sail, from RC: 1335  angle out: 77  Rudder, from RC: 1456  angle out: 89
+3261, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3274, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 73.83
+3286, 
+3310, Wind Angle: -33	 Sail, from RC: 1337  angle out: 77  Rudder, from RC: 1470  angle out: 90
+3323, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3337, Roll raw value: -0.08, Roll in deg: -0.47, Actual heading: 76.08
+3351, 
+3376, Wind Angle: -33	 Sail, from RC: 1354  angle out: 79  Rudder, from RC: 1472  angle out: 90
+3390, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3403, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 76.25
+3415, 
+3442, Wind Angle: -33	 Sail, from RC: 1353  angle out: 79  Rudder, from RC: 1447  angle out: 87
+3456, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3472, Roll raw value: -0.08, Roll in deg: 0.00, Actual heading: 74.25
+3483, 
+3508, Wind Angle: -33	 Sail, from RC: 1377  angle out: 81  Rudder, from RC: 1469  angle out: 90
+3521, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3547, Roll raw value: 0.08, Roll in deg: 0.47, Actual heading: 74.61
+3558, 
+3596, Wind Angle: -33	 Sail, from RC: 1377  angle out: 81  Rudder, from RC: 1469  angle out: 90
+3612, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3625, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 79.49
+3637, 
+3661, Wind Angle: -25	 Sail, from RC: 1353  angle out: 79  Rudder, from RC: 1443  angle out: 87
+3675, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3688, Roll raw value: 0.04, Roll in deg: 0.24, Actual heading: 73.45
+3700, 
+3727, Wind Angle: -33	 Sail, from RC: 1375  angle out: 80  Rudder, from RC: 1472  angle out: 90
+3744, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3758, Roll raw value: 0.08, Roll in deg: 0.47, Actual heading: 74.27
+3769, 
+3793, Wind Angle: -31	 Sail, from RC: 1380  angle out: 81  Rudder, from RC: 1453  angle out: 88
+3808, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599433   x = 0.00   y = 0.19  heading from start = 0
+3823, Roll raw value: 0.08, Roll in deg: 0.47, Actual heading: 76.07
+3835, 
+3861, Wind Angle: -27	 Sail, from RC: 1387  angle out: 82  Rudder, from RC: 1463  angle out: 90
+3874, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+3888, Roll raw value: -0.08, Roll in deg: -0.47, Actual heading: 74.07
+3900, 
+3926, Wind Angle: -33	 Sail, from RC: 1435  angle out: 86  Rudder, from RC: 1471  angle out: 90
+3939, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+3955, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 75.44
+3968, 
+3991, Wind Angle: -33	 Sail, from RC: 1444  angle out: 86  Rudder, from RC: 1470  angle out: 90
+4005, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+4019, Roll raw value: -0.24, Roll in deg: -1.27, Actual heading: 80.14
+4030, 
+4057, Wind Angle: -33	 Sail, from RC: 1464  angle out: 89  Rudder, from RC: 1463  angle out: 90
+4073, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+4086, Roll raw value: 0.16, Roll in deg: 1.05, Actual heading: 73.18
+4099, 
+4123, Wind Angle: -36	 Sail, from RC: 1439  angle out: 86  Rudder, from RC: 1448  angle out: 87
+4136, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+4150, Roll raw value: 0.04, Roll in deg: 0.73, Actual heading: 72.77
+4165, 
+4189, Wind Angle: -33	 Sail, from RC: 1467  angle out: 89  Rudder, from RC: 1469  angle out: 90
+4202, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+4215, Roll raw value: -0.12, Roll in deg: -0.69, Actual heading: 69.49
+4228, 
+4254, Wind Angle: -33	 Sail, from RC: 1473  angle out: 90  Rudder, from RC: 1464  angle out: 90
+4269, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+4285, Roll raw value: 0.04, Roll in deg: 0.24, Actual heading: 71.16
+4296, 
+4321, Wind Angle: -25	 Sail, from RC: 1444  angle out: 86  Rudder, from RC: 1478  angle out: 91
+4334, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+4347, Roll raw value: -0.12, Roll in deg: -0.70, Actual heading: 73.48
+4360, 
+4386, Wind Angle: -33	 Sail, from RC: 1467  angle out: 89  Rudder, from RC: 1470  angle out: 90
+4403, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+4416, Roll raw value: 0.04, Roll in deg: 0.24, Actual heading: 68.80
+4428, 
+4452, Wind Angle: -33	 Sail, from RC: 1496  angle out: 92  Rudder, from RC: 1463  angle out: 90
+4466, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+4480, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 74.25
+4494, 
+4518, Wind Angle: -35	 Sail, from RC: 1503  angle out: 92  Rudder, from RC: 1478  angle out: 91
+4544, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+4557, Roll raw value: -0.04, Roll in deg: -0.21, Actual heading: 71.67
+4570, 
+4605, Wind Angle: -33	 Sail, from RC: 1515  angle out: 93  Rudder, from RC: 1472  angle out: 90
+4620, Fix: startpos = -710730400,423599416 currentpos = -710730383,423599350   x = -0.01   y = -0.74  heading from start = 181
+4726, Roll raw value: 0.12, Roll in deg: 0.74, Actual heading: 78.83
+4902, 
+5068, Wind Angle: -32	 Sail, from RC: 1589  angle out: 100  Rudder, from RC: 1478  angle out: 91
+5083, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5096, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 75.83
+5107, 
+5133, Wind Angle: -33	 Sail, from RC: 1628  angle out: 104  Rudder, from RC: 1470  angle out: 90
+5149, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5164, Roll raw value: -0.04, Roll in deg: -0.26, Actual heading: 75.91
+5175, 
+5199, Wind Angle: -22	 Sail, from RC: 1629  angle out: 104  Rudder, from RC: 1472  angle out: 90
+5213, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5227, Roll raw value: -0.20, Roll in deg: -1.16, Actual heading: 76.42
+5241, 
+5265, Wind Angle: -33	 Sail, from RC: 1641  angle out: 104  Rudder, from RC: 1456  angle out: 89
+5278, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5292, Roll raw value: 0.27, Roll in deg: 1.66, Actual heading: 75.72
+5304, 
+5330, Wind Angle: -33	 Sail, from RC: 1649  angle out: 105  Rudder, from RC: 1470  angle out: 90
+5345, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5361, Roll raw value: 0.20, Roll in deg: 1.17, Actual heading: 73.32
+5372, 
+5396, Wind Angle: -35	 Sail, from RC: 1647  angle out: 105  Rudder, from RC: 1471  angle out: 90
+5410, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5424, Roll raw value: -0.08, Roll in deg: -0.49, Actual heading: 76.27
+5435, 
+5463, Wind Angle: -33	 Sail, from RC: 1629  angle out: 104  Rudder, from RC: 1448  angle out: 87
+5479, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5492, Roll raw value: -0.12, Roll in deg: -0.70, Actual heading: 75.13
+5505, 
+5529, Wind Angle: -33	 Sail, from RC: 1649  angle out: 105  Rudder, from RC: 1464  angle out: 90
+5542, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5556, Roll raw value: 0.08, Roll in deg: 0.46, Actual heading: 77.16
+5570, 
+5594, Wind Angle: -33	 Sail, from RC: 1649  angle out: 105  Rudder, from RC: 1472  angle out: 90
+5608, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5621, Roll raw value: -0.04, Roll in deg: -0.23, Actual heading: 75.59
+5633, 
+5660, Wind Angle: -29	 Sail, from RC: 1630  angle out: 104  Rudder, from RC: 1478  angle out: 91
+5675, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5690, Roll raw value: -0.08, Roll in deg: -0.99, Actual heading: 76.65
+5702, 
+5727, Wind Angle: -36	 Sail, from RC: 1649  angle out: 105  Rudder, from RC: 1463  angle out: 90
+5740, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5753, Roll raw value: 0.20, Roll in deg: 1.14, Actual heading: 74.48
+5766, 
+5791, Wind Angle: -30	 Sail, from RC: 1625  angle out: 104  Rudder, from RC: 1459  angle out: 89
+5809, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599316   x = 0.02   y = -1.12  heading from start = 179
+5822, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 74.77
+5833, 
+5860, Wind Angle: -26	 Sail, from RC: 1651  angle out: 106  Rudder, from RC: 1478  angle out: 91
+5873, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+5886, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 77.10
+5899, 
+5946, Wind Angle: -33	 Sail, from RC: 1641  angle out: 104  Rudder, from RC: 1453  angle out: 88
+5963, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+5977, Roll raw value: 0.08, Roll in deg: 0.46, Actual heading: 76.21
+5988, 
+6011, Wind Angle: -33	 Sail, from RC: 1650  angle out: 106  Rudder, from RC: 1469  angle out: 90
+6026, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6042, Roll raw value: 0.04, Roll in deg: -0.46, Actual heading: 75.62
+6053, 
+6077, Wind Angle: -33	 Sail, from RC: 1649  angle out: 105  Rudder, from RC: 1464  angle out: 90
+6090, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6105, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 74.41
+6116, 
+6144, Wind Angle: -33	 Sail, from RC: 1620  angle out: 103  Rudder, from RC: 1444  angle out: 87
+6157, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6173, Roll raw value: -0.12, Roll in deg: -0.67, Actual heading: 75.55
+6185, 
+6210, Wind Angle: -33	 Sail, from RC: 1651  angle out: 106  Rudder, from RC: 1469  angle out: 90
+6223, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6237, Roll raw value: 0.04, Roll in deg: 0.24, Actual heading: 75.01
+6249, 
+6275, Wind Angle: -34	 Sail, from RC: 1649  angle out: 105  Rudder, from RC: 1471  angle out: 90
+6291, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6304, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 74.80
+6317, 
+6341, Wind Angle: -33	 Sail, from RC: 1622  angle out: 103  Rudder, from RC: 1472  angle out: 90
+6354, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6371, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 73.90
+6383, 
+6408, Wind Angle: -33	 Sail, from RC: 1651  angle out: 106  Rudder, from RC: 1469  angle out: 90
+6421, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6434, Roll raw value: 0.04, Roll in deg: 0.24, Actual heading: 73.41
+6447, 
+6472, Wind Angle: -33	 Sail, from RC: 1649  angle out: 105  Rudder, from RC: 1472  angle out: 90
+6487, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6503, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 74.46
+6514, 
+6539, Wind Angle: -28	 Sail, from RC: 1643  angle out: 105  Rudder, from RC: 1478  angle out: 91
+6553, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6566, Roll raw value: -0.04, Roll in deg: -0.23, Actual heading: 74.52
+6578, 
+6604, Wind Angle: -36	 Sail, from RC: 1651  angle out: 106  Rudder, from RC: 1470  angle out: 90
+6621, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6634, Roll raw value: -0.04, Roll in deg: -0.23, Actual heading: 73.59
+6646, 
+6671, Wind Angle: -33	 Sail, from RC: 1649  angle out: 105  Rudder, from RC: 1471  angle out: 90
+6684, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6697, Roll raw value: -0.04, Roll in deg: -0.23, Actual heading: 73.73
+6713, 
+6736, Wind Angle: -33	 Sail, from RC: 1643  angle out: 105  Rudder, from RC: 1478  angle out: 91
+6751, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6764, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 74.86
+6776, 
+6802, Wind Angle: -21	 Sail, from RC: 1601  angle out: 101  Rudder, from RC: 1432  angle out: 85
+6815, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599300   x = 0.02   y = -1.30  heading from start = 179
+6832, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 74.65
+6844, 
+6870, Wind Angle: -34	 Sail, from RC: 1649  angle out: 105  Rudder, from RC: 1471  angle out: 90
+6884, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+6897, Roll raw value: -0.04, Roll in deg: 0.47, Actual heading: 75.17
+6909, 
+6956, Wind Angle: -33	 Sail, from RC: 1657  angle out: 106  Rudder, from RC: 1469  angle out: 90
+6972, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+6985, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 74.49
+6998, 
+7022, Wind Angle: -28	 Sail, from RC: 1618  angle out: 103  Rudder, from RC: 1451  angle out: 88
+7035, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7049, Roll raw value: -0.12, Roll in deg: -0.71, Actual heading: 73.29
+7064, 
+7089, Wind Angle: -33	 Sail, from RC: 1664  angle out: 107  Rudder, from RC: 1471  angle out: 90
+7102, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7115, Roll raw value: -0.04, Roll in deg: -0.23, Actual heading: 75.17
+7128, 
+7153, Wind Angle: -33	 Sail, from RC: 1677  angle out: 108  Rudder, from RC: 1469  angle out: 90
+7168, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7184, Roll raw value: 0.08, Roll in deg: 0.47, Actual heading: 73.92
+7195, 
+7220, Wind Angle: -33	 Sail, from RC: 1667  angle out: 107  Rudder, from RC: 1471  angle out: 90
+7233, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7247, Roll raw value: 0.04, Roll in deg: 0.25, Actual heading: 74.70
+7259, 
+7285, Wind Angle: -33	 Sail, from RC: 1676  angle out: 108  Rudder, from RC: 1448  angle out: 87
+7302, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7315, Roll raw value: -0.12, Roll in deg: -0.71, Actual heading: 75.03
+7327, 
+7351, Wind Angle: -33	 Sail, from RC: 1685  angle out: 109  Rudder, from RC: 1463  angle out: 90
+7365, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7378, Roll raw value: -0.12, Roll in deg: -0.70, Actual heading: 76.23
+7393, 
+7417, Wind Angle: -36	 Sail, from RC: 1690  angle out: 109  Rudder, from RC: 1472  angle out: 90
+7432, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7445, Roll raw value: -0.08, Roll in deg: -0.46, Actual heading: 74.66
+7456, 
+7483, Wind Angle: -33	 Sail, from RC: 1679  angle out: 108  Rudder, from RC: 1449  angle out: 88
+7496, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7513, Roll raw value: -0.24, Roll in deg: -1.40, Actual heading: 74.46
+7525, 
+7549, Wind Angle: -33	 Sail, from RC: 1718  angle out: 111  Rudder, from RC: 1463  angle out: 90
+7563, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7576, Roll raw value: -0.24, Roll in deg: -1.92, Actual heading: 76.35
+7588, 
+7614, Wind Angle: -33	 Sail, from RC: 1726  angle out: 112  Rudder, from RC: 1472  angle out: 90
+7631, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7645, Roll raw value: -0.08, Roll in deg: -0.47, Actual heading: 74.12
+7656, 
+7681, Wind Angle: -25	 Sail, from RC: 1720  angle out: 112  Rudder, from RC: 1470  angle out: 90
+7695, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7708, Roll raw value: -0.12, Roll in deg: -0.70, Actual heading: 73.82
+7723, 
+7747, Wind Angle: -36	 Sail, from RC: 1743  angle out: 114  Rudder, from RC: 1463  angle out: 90
+7760, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7775, Roll raw value: -0.51, Roll in deg: -2.92, Actual heading: 73.90
+7786, 
+7813, Wind Angle: -29	 Sail, from RC: 1721  angle out: 112  Rudder, from RC: 1452  angle out: 88
+7826, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599316   x = 0.04   y = -1.12  heading from start = 178
+7842, Roll raw value: -0.12, Roll in deg: -0.66, Actual heading: 77.12
+7854, 
+7880, Wind Angle: -33	 Sail, from RC: 1759  angle out: 115  Rudder, from RC: 1470  angle out: 90
+7894, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+7908, Roll raw value: 0.04, Roll in deg: 1.43, Actual heading: 74.80
+7931, 
+7966, Wind Angle: -33	 Sail, from RC: 1788  angle out: 118  Rudder, from RC: 1457  angle out: 89
+7983, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+7996, Roll raw value: 0.08, Roll in deg: 0.51, Actual heading: 73.54
+8007, 
+8032, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1470  angle out: 90
+8046, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+8059, Roll raw value: 0.27, Roll in deg: 1.64, Actual heading: 73.30
+8071, 
+8098, Wind Angle: -33	 Sail, from RC: 1802  angle out: 119  Rudder, from RC: 1472  angle out: 90
+8112, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+8125, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 70.82
+8137, 
+8164, Wind Angle: -33	 Sail, from RC: 1773  angle out: 117  Rudder, from RC: 1447  angle out: 87
+8177, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+8194, Roll raw value: 0.24, Roll in deg: 1.31, Actual heading: 71.00
+8206, 
+8229, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1470  angle out: 90
+8244, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+8257, Roll raw value: -0.16, Roll in deg: 0.72, Actual heading: 75.00
+8269, 
+8295, Wind Angle: -34	 Sail, from RC: 1801  angle out: 119  Rudder, from RC: 1471  angle out: 90
+8309, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+8326, Roll raw value: 0.04, Roll in deg: 0.25, Actual heading: 75.47
+8337, 
+8361, Wind Angle: -33	 Sail, from RC: 1774  angle out: 117  Rudder, from RC: 1478  angle out: 91
+8375, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+8388, Roll raw value: 0.16, Roll in deg: 1.05, Actual heading: 71.51
+8400, 
+8428, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1470  angle out: 90
+8444, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+8458, Roll raw value: -0.04, Roll in deg: -0.26, Actual heading: 74.07
+8470, 
+8493, Wind Angle: -33	 Sail, from RC: 1797  angle out: 119  Rudder, from RC: 1472  angle out: 90
+8507, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+8523, Roll raw value: -0.12, Roll in deg: -0.71, Actual heading: 75.65
+8535, 
+8559, Wind Angle: -28	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1478  angle out: 91
+8573, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+8587, Roll raw value: -0.12, Roll in deg: -0.73, Actual heading: 74.58
+8598, 
+8626, Wind Angle: -36	 Sail, from RC: 1773  angle out: 117  Rudder, from RC: 1469  angle out: 90
+8639, Fix: startpos = -710730400,423599416 currentpos = -710730466,423599300   x = 0.04   y = -1.30  heading from start = 178
+8748, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 73.95
+8924, 
+9089, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1450  angle out: 88
+9102, Fix: startpos = -710730400,423599416 currentpos = -710730450,423599300   x = 0.03   y = -1.30  heading from start = 178
+9115, Roll raw value: 0.00, Roll in deg: 0.23, Actual heading: 74.42
+9127, 
+9152, Wind Angle: -33	 Sail, from RC: 1794  angle out: 118  Rudder, from RC: 1478  angle out: 91
+9177, Fix: startpos = -710730400,423599416 currentpos = -710730450,423599300   x = 0.03   y = -1.30  heading from start = 178
+9190, Roll raw value: 0.04, Roll in deg: 0.24, Actual heading: 74.29
+9201, 
+9240, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1472  angle out: 90
+9253, Fix: startpos = -710730400,423599416 currentpos = -710730450,423599300   x = 0.03   y = -1.30  heading from start = 178
+9267, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 74.05
+9282, 
+9307, Wind Angle: -33	 Sail, from RC: 1803  angle out: 119  Rudder, from RC: 1448  angle out: 87
+9320, Fix: startpos = -710730400,423599416 currentpos = -710730450,423599300   x = 0.03   y = -1.30  heading from start = 178
+9333, Roll raw value: 0.08, Roll in deg: 0.48, Actual heading: 73.91
+9358, 
+9394, Wind Angle: -33	 Sail, from RC: 1794  angle out: 118  Rudder, from RC: 1478  angle out: 91
+9407, Fix: startpos = -710730400,423599416 currentpos = -710730450,423599300   x = 0.03   y = -1.30  heading from start = 178
+9423, Roll raw value: -0.08, Roll in deg: -0.46, Actual heading: 73.79
+9436, 
+9460, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1470  angle out: 90
+9474, Fix: startpos = -710730400,423599416 currentpos = -710730450,423599300   x = 0.03   y = -1.30  heading from start = 178
+9487, Roll raw value: -0.12, Roll in deg: -0.72, Actual heading: 74.75
+9499, 
+9525, Wind Angle: -33	 Sail, from RC: 1779  angle out: 118  Rudder, from RC: 1472  angle out: 90
+9542, Fix: startpos = -710730400,423599416 currentpos = -710730450,423599300   x = 0.03   y = -1.30  heading from start = 178
+9555, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 74.03
+9567, 
+9591, Wind Angle: -35	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1478  angle out: 91
+9606, Fix: startpos = -710730400,423599416 currentpos = -710730450,423599300   x = 0.03   y = -1.30  heading from start = 178
+9619, Roll raw value: -0.12, Roll in deg: -0.69, Actual heading: 73.59
+9633, 
+9658, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1469  angle out: 90
+9671, Fix: startpos = -710730400,423599416 currentpos = -710730450,423599300   x = 0.03   y = -1.30  heading from start = 178
+9686, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 73.68
+9697, 
+9722, Wind Angle: -25	 Sail, from RC: 1765  angle out: 116  Rudder, from RC: 1451  angle out: 88
+9737, Fix: startpos = -710730400,423599416 currentpos = -710730450,423599300   x = 0.03   y = -1.30  heading from start = 178
+9753, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 75.45
+9764, 
+9789, Wind Angle: -28	 Sail, from RC: 1779  angle out: 118  Rudder, from RC: 1458  angle out: 89
+9803, Fix: startpos = -710730400,423599416 currentpos = -710730450,423599300   x = 0.03   y = -1.30  heading from start = 178
+9817, Roll raw value: -0.27, Roll in deg: -1.64, Actual heading: 74.43
+9829, 
+9857, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1470  angle out: 90
+9873, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+9886, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 75.39
+9897, 
+9921, Wind Angle: -25	 Sail, from RC: 1774  angle out: 117  Rudder, from RC: 1472  angle out: 90
+9934, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+9948, Roll raw value: 0.04, Roll in deg: 0.23, Actual heading: 75.01
+9963, 
+9988, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1456  angle out: 89
+10001, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10014, Roll raw value: 0.04, Roll in deg: 0.24, Actual heading: 75.66
+10027, 
+10052, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1470  angle out: 90
+10066, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10083, Roll raw value: 0.04, Roll in deg: 0.24, Actual heading: 73.70
+10094, 
+10119, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1472  angle out: 90
+10132, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10146, Roll raw value: -0.04, Roll in deg: -0.23, Actual heading: 74.18
+10158, 
+10184, Wind Angle: -33	 Sail, from RC: 1773  angle out: 117  Rudder, from RC: 1448  angle out: 87
+10201, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10214, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 76.37
+10226, 
+10250, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1469  angle out: 90
+10264, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10277, Roll raw value: -0.39, Roll in deg: -1.80, Actual heading: 72.18
+10292, 
+10316, Wind Angle: -35	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1472  angle out: 90
+10331, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10356, Roll raw value: -0.12, Roll in deg: -0.71, Actual heading: 73.24
+10368, 
+10403, Wind Angle: -33	 Sail, from RC: 1771  angle out: 117  Rudder, from RC: 1443  angle out: 87
+10418, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10434, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 72.61
+10445, 
+10470, Wind Angle: -36	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1471  angle out: 90
+10484, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10498, Roll raw value: 0.08, Roll in deg: -1.22, Actual heading: 74.31
+10509, 
+10535, Wind Angle: -34	 Sail, from RC: 1803  angle out: 119  Rudder, from RC: 1473  angle out: 90
+10552, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10565, Roll raw value: -0.04, Roll in deg: -0.23, Actual heading: 75.85
+10577, 
+10601, Wind Angle: -22	 Sail, from RC: 1780  angle out: 118  Rudder, from RC: 1463  angle out: 90
+10615, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10629, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 73.98
+10643, 
+10668, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1471  angle out: 90
+10682, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10695, Roll raw value: -0.12, Roll in deg: -0.70, Actual heading: 73.00
+10707, 
+10733, Wind Angle: -33	 Sail, from RC: 1803  angle out: 119  Rudder, from RC: 1478  angle out: 91
+10747, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10763, Roll raw value: 0.12, Roll in deg: 0.70, Actual heading: 75.26
+10775, 
+10800, Wind Angle: -26	 Sail, from RC: 1777  angle out: 117  Rudder, from RC: 1439  angle out: 86
+10814, Fix: startpos = -710730400,423599416 currentpos = -710730433,423599266   x = 0.02   y = -1.68  heading from start = 179
+10827, Roll raw value: 0.08, Roll in deg: 0.47, Actual heading: 74.75
+10839, 
+10866, Wind Angle: -33	 Sail, from RC: 1773  angle out: 117  Rudder, from RC: 1441  angle out: 86
+10883, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+10896, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 74.17
+10908, 
+10931, Wind Angle: -33	 Sail, from RC: 1803  angle out: 119  Rudder, from RC: 1469  angle out: 90
+10945, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+10958, Roll raw value: -0.31, Roll in deg: -1.80, Actual heading: 73.73
+10973, 
+10997, Wind Angle: -33	 Sail, from RC: 1801  angle out: 119  Rudder, from RC: 1464  angle out: 90
+11012, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11025, Roll raw value: 0.16, Roll in deg: 0.95, Actual heading: 73.78
+11036, 
+11063, Wind Angle: -33	 Sail, from RC: 1744  angle out: 114  Rudder, from RC: 1472  angle out: 90
+11076, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11092, Roll raw value: 0.39, Roll in deg: 1.95, Actual heading: 73.73
+11105, 
+11128, Wind Angle: -33	 Sail, from RC: 1803  angle out: 119  Rudder, from RC: 1470  angle out: 90
+11143, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11156, Roll raw value: -1.57, Roll in deg: -42.27, Actual heading: 74.70
+11168, 
+11194, Wind Angle: -36	 Sail, from RC: 1801  angle out: 119  Rudder, from RC: 1463  angle out: 90
+11210, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11225, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 78.14
+11236, 
+11260, Wind Angle: -29	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1472  angle out: 90
+11274, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11288, Roll raw value: 0.04, Roll in deg: 0.25, Actual heading: 73.40
+11302, 
+11327, Wind Angle: -33	 Sail, from RC: 1803  angle out: 119  Rudder, from RC: 1448  angle out: 87
+11353, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11366, Roll raw value: -0.16, Roll in deg: -0.48, Actual heading: 76.86
+11378, 
+11414, Wind Angle: -36	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1478  angle out: 91
+11427, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11444, Roll raw value: -0.12, Roll in deg: -0.69, Actual heading: 77.10
+11456, 
+11481, Wind Angle: -26	 Sail, from RC: 1803  angle out: 119  Rudder, from RC: 1470  angle out: 90
+11494, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11507, Roll raw value: 0.04, Roll in deg: 0.23, Actual heading: 77.07
+11520, 
+11545, Wind Angle: -33	 Sail, from RC: 1773  angle out: 117  Rudder, from RC: 1442  angle out: 87
+11563, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11576, Roll raw value: -0.04, Roll in deg: -0.23, Actual heading: 79.56
+11587, 
+11612, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1478  angle out: 91
+11626, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11639, Roll raw value: -0.04, Roll in deg: -0.24, Actual heading: 77.25
+11654, 
+11678, Wind Angle: -36	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1470  angle out: 90
+11692, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11705, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 78.06
+11717, 
+11744, Wind Angle: -25	 Sail, from RC: 1765  angle out: 116  Rudder, from RC: 1451  angle out: 88
+11757, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11773, Roll raw value: 0.08, Roll in deg: 0.47, Actual heading: 75.93
+11786, 
+11809, Wind Angle: -29	 Sail, from RC: 1778  angle out: 118  Rudder, from RC: 1458  angle out: 89
+11824, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11837, Roll raw value: 0.16, Roll in deg: 0.93, Actual heading: 77.04
+11848, 
+11877, Wind Angle: -34	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1469  angle out: 90
+11894, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11908, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 78.60
+11919, 
+11940, Wind Angle: -33	 Sail, from RC: 1795  angle out: 118  Rudder, from RC: 1471  angle out: 90
+11955, Fix: startpos = -710730400,423599416 currentpos = -710730400,423599250   x = 0.00   y = -1.85  heading from start = 180
+11968, Roll raw value: 0.00, Roll in deg: 0.00, Actual heading: 78.07
+11982, 

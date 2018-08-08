@@ -1,0 +1,356 @@
+GAS LISTING /tmp/ccT97ieF.s 			page 1
+
+
+   1               		.file	"ma3pulse.c"
+   2               	__SP_H__ = 0x3e
+   3               	__SP_L__ = 0x3d
+   4               	__SREG__ = 0x3f
+   5               	__RAMPZ__ = 0x3b
+   6               	__tmp_reg__ = 0
+   7               	__zero_reg__ = 1
+   8               	 ;  GNU C (GCC) version 4.9.2 (avr)
+   9               	 ; 	compiled by GNU C version 4.7.2, GMP version 5.0.2, MPFR version 3.0.0, MPC version 0.9
+  10               	 ;  GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+  11               	 ;  options passed: 
+  12               	 ;  -I /home/hemphill/arduino-1.8.4/hardware/arduino/avr/cores/arduino
+  13               	 ;  -I /home/hemphill/arduino-1.8.4/hardware/arduino/avr/variants/mega
+  14               	 ;  -imultilib avr6
+  15               	 ;  -iprefix /home/hemphill/arduino-1.8.4/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/
+  16               	 ;  -D__AVR_ATmega2560__ -D__AVR_DEVICE_NAME__=atmega2560
+  17               	 ;  -D F_CPU=16000000L -D ARDUINO=10804 -D ARDUINO_AVR_MEGA2560
+  18               	 ;  -D ARDUINO_ARCH_AVR ma3pulse.c -mn-flash=4 -mno-skip-bug -mmcu=avr6 -g
+  19               	 ;  -gstabs -O2 -w -std=gnu11 -ffunction-sections -fdata-sections
+  20               	 ;  -fverbose-asm
+  21               	 ;  options enabled:  -Wmisspelled-isr -faggressive-loop-optimizations
+  22               	 ;  -fauto-inc-dec -fbranch-count-reg -fcaller-saves
+  23               	 ;  -fcombine-stack-adjustments -fcommon -fcompare-elim -fcprop-registers
+  24               	 ;  -fcrossjumping -fcse-follow-jumps -fdata-sections -fdefer-pop
+  25               	 ;  -fdevirtualize -fdevirtualize-speculatively -fdwarf2-cfi-asm
+  26               	 ;  -fearly-inlining -feliminate-unused-debug-types
+  27               	 ;  -fexpensive-optimizations -fforward-propagate -ffunction-cse
+  28               	 ;  -ffunction-sections -fgcse -fgcse-lm -fgnu-runtime -fgnu-unique
+  29               	 ;  -fguess-branch-probability -fhoist-adjacent-loads -fident
+  30               	 ;  -fif-conversion -fif-conversion2 -findirect-inlining -finline
+  31               	 ;  -finline-atomics -finline-functions-called-once
+  32               	 ;  -finline-small-functions -fipa-cp -fipa-profile -fipa-pure-const
+  33               	 ;  -fipa-reference -fipa-sra -fira-hoist-pressure -fira-share-save-slots
+  34               	 ;  -fira-share-spill-slots -fisolate-erroneous-paths-dereference -fivopts
+  35               	 ;  -fkeep-static-consts -fleading-underscore -fmath-errno
+  36               	 ;  -fmerge-constants -fmerge-debug-strings -fmove-loop-invariants
+  37               	 ;  -fomit-frame-pointer -foptimize-sibling-calls -foptimize-strlen
+  38               	 ;  -fpartial-inlining -fpeephole -fpeephole2 -fprefetch-loop-arrays
+  39               	 ;  -freg-struct-return -freorder-blocks -freorder-functions
+  40               	 ;  -frerun-cse-after-loop -fsched-critical-path-heuristic
+  41               	 ;  -fsched-dep-count-heuristic -fsched-group-heuristic -fsched-interblock
+  42               	 ;  -fsched-last-insn-heuristic -fsched-rank-heuristic -fsched-spec
+  43               	 ;  -fsched-spec-insn-heuristic -fsched-stalled-insns-dep -fshow-column
+  44               	 ;  -fshrink-wrap -fsigned-zeros -fsplit-ivs-in-unroller -fsplit-wide-types
+  45               	 ;  -fstrict-aliasing -fstrict-overflow -fstrict-volatile-bitfields
+  46               	 ;  -fsync-libcalls -fthread-jumps -ftoplevel-reorder -ftrapping-math
+  47               	 ;  -ftree-bit-ccp -ftree-builtin-call-dce -ftree-ccp -ftree-ch
+  48               	 ;  -ftree-coalesce-vars -ftree-copy-prop -ftree-copyrename -ftree-dce
+  49               	 ;  -ftree-dominator-opts -ftree-dse -ftree-forwprop -ftree-fre
+  50               	 ;  -ftree-loop-if-convert -ftree-loop-im -ftree-loop-ivcanon
+  51               	 ;  -ftree-loop-optimize -ftree-parallelize-loops= -ftree-phiprop
+  52               	 ;  -ftree-pre -ftree-pta -ftree-reassoc -ftree-scev-cprop -ftree-sink
+  53               	 ;  -ftree-slsr -ftree-sra -ftree-switch-conversion -ftree-tail-merge
+  54               	 ;  -ftree-ter -ftree-vrp -funit-at-a-time -fverbose-asm
+  55               	 ;  -fzero-initialized-in-bss
+  56               	
+  58               		.text
+GAS LISTING /tmp/ccT97ieF.s 			page 2
+
+
+  59               	.Ltext0:
+ 165               		.section	.text.ma3pulse,"ax",@progbits
+ 168               	.global	ma3pulse
+ 170               	ma3pulse:
+   1:ma3pulse.c    **** #include <Arduino.h>
+   2:ma3pulse.c    **** 
+   3:ma3pulse.c    **** unsigned int ma3pulse(uint8_t pin)
+   4:ma3pulse.c    **** {
+ 172               	.LM0:
+ 173               	.LFBB1:
+ 174 0000 8F92      		push r8	 ; 	 ;  191	pushqi1/1	[length = 1]
+ 175 0002 9F92      		push r9	 ; 	 ;  192	pushqi1/1	[length = 1]
+ 176 0004 AF92      		push r10	 ; 	 ;  193	pushqi1/1	[length = 1]
+ 177 0006 BF92      		push r11	 ; 	 ;  194	pushqi1/1	[length = 1]
+ 178 0008 CF92      		push r12	 ; 	 ;  195	pushqi1/1	[length = 1]
+ 179 000a DF92      		push r13	 ; 	 ;  196	pushqi1/1	[length = 1]
+ 180 000c EF92      		push r14	 ; 	 ;  197	pushqi1/1	[length = 1]
+ 181 000e FF92      		push r15	 ; 	 ;  198	pushqi1/1	[length = 1]
+ 182 0010 CF93      		push r28	 ; 	 ;  199	pushqi1/1	[length = 1]
+ 183 0012 DF93      		push r29	 ; 	 ;  200	pushqi1/1	[length = 1]
+ 184               	/* prologue: function */
+ 185               	/* frame size = 0 */
+ 186               	/* stack size = 10 */
+ 187               	.L__stack_usage = 10
+ 188               	.LBB2:
+ 189               	.LBB3:
+   5:ma3pulse.c    ****   volatile uint8_t *port = portInputRegister(digitalPinToPort(pin));
+ 191               	.LM1:
+ 192 0014 90E0      		ldi r25,0	 ;  D.2257	 ;  188	movqi_insn/1	[length = 1]
+ 193 0016 FC01      		movw r30,r24	 ;  D.2258, D.2257	 ;  178	*movhi/1	[length = 1]
+ 194 0018 E050      		subi r30,lo8(-(digital_pin_to_port_PGM))	 ;  D.2258,	 ;  15	*addhi3/2	[length = 2]
+ 195 001a F040      		sbci r31,hi8(-(digital_pin_to_port_PGM))	 ;  D.2258,
+ 196               	/* #APP */
+ 197               	 ;  5 "ma3pulse.c" 1
+ 198 001c E491      		lpm r30, Z	 ;  __result
+ 199               		
+ 200               	 ;  0 "" 2
+ 201               	/* #NOAPP */
+ 202               	.LBE3:
+ 203 001e F0E0      		ldi r31,0	 ;  __result	 ;  190	movqi_insn/1	[length = 1]
+ 204 0020 EE0F      		lsl r30	 ;  D.2259	 ;  224	*ashlhi3_const/2	[length = 2]
+ 205 0022 FF1F      		rol r31	 ;  D.2259
+ 206 0024 E050      		subi r30,lo8(-(port_to_input_PGM))	 ;  __addr16,	 ;  21	*addhi3/2	[length = 2]
+ 207 0026 F040      		sbci r31,hi8(-(port_to_input_PGM))	 ;  __addr16,
+ 208               	/* #APP */
+ 209               	 ;  5 "ma3pulse.c" 1
+ 210 0028 A591      		lpm r26, Z+	 ;  __result
+ 211 002a B491      		lpm r27, Z	 ;  __result
+ 212               		
+ 213               	 ;  0 "" 2
+ 214               	/* #NOAPP */
+ 215               	.LBE2:
+ 216               	.LBB4:
+   6:ma3pulse.c    ****   uint8_t bit = digitalPinToBitMask(pin);
+ 218               	.LM2:
+ 219 002c FC01      		movw r30,r24	 ;  D.2258, D.2257	 ;  179	*movhi/1	[length = 1]
+ 220 002e E050      		subi r30,lo8(-(digital_pin_to_bit_mask_PGM))	 ;  D.2258,	 ;  26	*addhi3/2	[length = 2]
+GAS LISTING /tmp/ccT97ieF.s 			page 3
+
+
+ 221 0030 F040      		sbci r31,hi8(-(digital_pin_to_bit_mask_PGM))	 ;  D.2258,
+ 222               	/* #APP */
+ 223               	 ;  6 "ma3pulse.c" 1
+ 224 0032 E491      		lpm r30, Z	 ;  bit
+ 225               		
+ 226               	 ;  0 "" 2
+ 227               	/* #NOAPP */
+ 228               	.LBE4:
+   7:ma3pulse.c    ****   unsigned int toff, ton;
+   8:ma3pulse.c    ****   ton = *port;
+ 230               	.LM3:
+ 231 0034 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  29	movqi_insn/4	[length = 1]
+   9:ma3pulse.c    ****   ton = *port;
+ 233               	.LM4:
+ 234 0036 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  30	movqi_insn/4	[length = 1]
+  10:ma3pulse.c    ****   ton = 1;
+  11:ma3pulse.c    ****   while ((*port & bit) != 0) {
+ 236               	.LM5:
+ 237 0038 2BE4      		ldi r18,lo8(75)	 ;  D.2259,	 ;  4	*movhi/5	[length = 2]
+ 238 003a 34E0      		ldi r19,lo8(4)	 ;  D.2259,
+ 239 003c 00C0      		rjmp .L2	 ; 	 ;  235	jump	[length = 1]
+ 240               	.L4:
+ 241 003e 2150      		subi r18,1	 ;  D.2259,	 ;  34	addhi3_clobber/2	[length = 2]
+ 242 0040 3109      		sbc r19,__zero_reg__	 ;  D.2259
+  12:ma3pulse.c    ****     if (++ton == 1100) return 0;
+ 244               	.LM6:
+ 245 0042 01F4      		brne .+2	 ; 	 ;  36	branch	[length = 2]
+ 246 0044 00C0      		rjmp .L3	 ; 
+ 247               	.L2:
+  11:ma3pulse.c    ****     if (++ton == 1100) return 0;
+ 249               	.LM7:
+ 250 0046 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  39	movqi_insn/4	[length = 1]
+ 251 0048 8E23      		and r24,r30	 ;  D.2261, bit	 ;  41	andqi3/1	[length = 1]
+ 252 004a 01F4      		brne .L4	 ; ,	 ;  43	branch	[length = 1]
+  13:ma3pulse.c    ****   }
+  14:ma3pulse.c    ****   toff = *port;
+ 254               	.LM8:
+ 255 004c 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  45	movqi_insn/4	[length = 1]
+  15:ma3pulse.c    ****   toff = *port;
+ 257               	.LM9:
+ 258 004e 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  46	movqi_insn/4	[length = 1]
+  16:ma3pulse.c    ****   toff = 1;
+  17:ma3pulse.c    ****   while ((*port & bit) == 0) {
+ 260               	.LM10:
+ 261 0050 2BE4      		ldi r18,lo8(75)	 ;  D.2259,	 ;  5	*movhi/5	[length = 2]
+ 262 0052 34E0      		ldi r19,lo8(4)	 ;  D.2259,
+ 263 0054 00C0      		rjmp .L5	 ; 	 ;  237	jump	[length = 1]
+ 264               	.L6:
+ 265 0056 2150      		subi r18,1	 ;  D.2259,	 ;  50	addhi3_clobber/2	[length = 2]
+ 266 0058 3109      		sbc r19,__zero_reg__	 ;  D.2259
+  18:ma3pulse.c    ****     if (++toff == 1100) return 0;
+ 268               	.LM11:
+ 269 005a 01F4      		brne .+2	 ; 	 ;  52	branch	[length = 2]
+ 270 005c 00C0      		rjmp .L3	 ; 
+ 271               	.L5:
+  17:ma3pulse.c    ****     if (++toff == 1100) return 0;
+ 273               	.LM12:
+GAS LISTING /tmp/ccT97ieF.s 			page 4
+
+
+ 274 005e 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  55	movqi_insn/4	[length = 1]
+ 275 0060 8E23      		and r24,r30	 ;  D.2261, bit	 ;  57	andqi3/1	[length = 1]
+ 276 0062 01F0      		breq .L6	 ; ,	 ;  59	branch	[length = 1]
+  19:ma3pulse.c    ****   }
+  20:ma3pulse.c    ****   ton = *port;
+ 278               	.LM13:
+ 279 0064 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  61	movqi_insn/4	[length = 1]
+  21:ma3pulse.c    ****   ton = *port;
+ 281               	.LM14:
+ 282 0066 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  62	movqi_insn/4	[length = 1]
+  22:ma3pulse.c    ****   ton = 1;
+ 284               	.LM15:
+ 285 0068 41E0      		ldi r20,lo8(1)	 ;  ton,	 ;  6	*movhi/5	[length = 2]
+ 286 006a 50E0      		ldi r21,0	 ;  ton
+  23:ma3pulse.c    ****   while ((*port & bit) != 0) {
+ 288               	.LM16:
+ 289 006c 00C0      		rjmp .L7	 ; 	 ;  239	jump	[length = 1]
+ 290               	.L8:
+  24:ma3pulse.c    ****     if (++ton == 1100) return 0;
+ 292               	.LM17:
+ 293 006e 4F5F      		subi r20,-1	 ;  ton,	 ;  66	addhi3_clobber/2	[length = 2]
+ 294 0070 5F4F      		sbci r21,-1	 ;  ton,
+ 295 0072 4C34      		cpi r20,76	 ;  ton,	 ;  67	*cmphi/7	[length = 3]
+ 296 0074 84E0      		ldi r24,4	 ; ,
+ 297 0076 5807      		cpc r21,r24	 ;  ton,
+ 298 0078 01F4      		brne .+2	 ; 	 ;  68	branch	[length = 2]
+ 299 007a 00C0      		rjmp .L13	 ; 
+ 300               	.L7:
+  23:ma3pulse.c    ****   while ((*port & bit) != 0) {
+ 302               	.LM18:
+ 303 007c 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  71	movqi_insn/4	[length = 1]
+ 304 007e 8E23      		and r24,r30	 ;  D.2261, bit	 ;  73	andqi3/1	[length = 1]
+ 305 0080 01F4      		brne .L8	 ; ,	 ;  75	branch	[length = 1]
+  25:ma3pulse.c    ****   }
+  26:ma3pulse.c    ****   toff = *port;
+ 307               	.LM19:
+ 308 0082 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  77	movqi_insn/4	[length = 1]
+  27:ma3pulse.c    ****   toff = *port;
+ 310               	.LM20:
+ 311 0084 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  78	movqi_insn/4	[length = 1]
+  28:ma3pulse.c    ****   toff = 1;
+ 313               	.LM21:
+ 314 0086 C1E0      		ldi r28,lo8(1)	 ;  toff,	 ;  7	*movhi/5	[length = 2]
+ 315 0088 D0E0      		ldi r29,0	 ;  toff
+  29:ma3pulse.c    ****   while ((*port & bit) == 0) {
+ 317               	.LM22:
+ 318 008a 00C0      		rjmp .L9	 ; 	 ;  241	jump	[length = 1]
+ 319               	.L10:
+  30:ma3pulse.c    ****     if (++toff == 1100) return 0;
+ 321               	.LM23:
+ 322 008c 2196      		adiw r28,1	 ;  toff,	 ;  82	addhi3_clobber/1	[length = 1]
+ 323 008e CC34      		cpi r28,76	 ;  toff,	 ;  83	*cmphi/7	[length = 3]
+ 324 0090 84E0      		ldi r24,4	 ; ,
+ 325 0092 D807      		cpc r29,r24	 ;  toff,
+ 326 0094 01F4      		brne .+2	 ; 	 ;  84	branch	[length = 2]
+ 327 0096 00C0      		rjmp .L13	 ; 
+ 328               	.L9:
+GAS LISTING /tmp/ccT97ieF.s 			page 5
+
+
+  29:ma3pulse.c    ****   while ((*port & bit) == 0) {
+ 330               	.LM24:
+ 331 0098 8C91      		ld r24,X	 ;  D.2261, *port_18	 ;  87	movqi_insn/4	[length = 1]
+ 332 009a 8E23      		and r24,r30	 ;  D.2261, bit	 ;  89	andqi3/1	[length = 1]
+ 333 009c 01F0      		breq .L10	 ; ,	 ;  91	branch	[length = 1]
+  31:ma3pulse.c    ****   }
+  32:ma3pulse.c    ****   unsigned long numer = (1024L*ton-toff)*360L;
+  33:ma3pulse.c    ****   unsigned long denom = (ton+toff)*1024L;
+ 335               	.LM25:
+ 336 009e 6E01      		movw r12,r28	 ;  D.2259, toff	 ;  180	*movhi/1	[length = 1]
+ 337 00a0 C40E      		add r12,r20	 ;  D.2259, ton	 ;  94	*addhi3/1	[length = 2]
+ 338 00a2 D51E      		adc r13,r21	 ;  D.2259, ton
+ 339 00a4 E12C      		mov r14,__zero_reg__	 ;  D.2259	 ;  184	*movhi/2	[length = 2]
+ 340 00a6 F12C      		mov r15,__zero_reg__	 ;  D.2259
+ 341 00a8 8AE0      		ldi r24,10	 ; ,	 ;  221	*ashlsi3_const/4	[length = 7]
+ 342               		1:
+ 343 00aa CC0C      		lsl r12	 ;  denom
+ 344 00ac DD1C      		rol r13	 ;  denom
+ 345 00ae EE1C      		rol r14	 ;  denom
+ 346 00b0 FF1C      		rol r15	 ;  denom
+ 347 00b2 8A95      		dec r24	 ; 
+ 348 00b4 01F4      		brne 1b
+  34:ma3pulse.c    ****   unsigned int retval = (numer+denom/2)/denom;
+ 350               	.LM26:
+ 351 00b6 4601      		movw r8,r12	 ;  D.2263, denom	 ;  181	*movsi/1	[length = 2]
+ 352 00b8 5701      		movw r10,r14	 ;  D.2263, denom
+ 353 00ba B694      		lsr r11	 ;  D.2263	 ;  222	*lshrsi3_const/2	[length = 4]
+ 354 00bc A794      		ror r10	 ;  D.2263
+ 355 00be 9794      		ror r9	 ;  D.2263
+ 356 00c0 8794      		ror r8	 ;  D.2263
+  32:ma3pulse.c    ****   unsigned long denom = (ton+toff)*1024L;
+ 358               	.LM27:
+ 359 00c2 60E0      		ldi r22,0	 ;  ton	 ;  186	*movhi/2	[length = 2]
+ 360 00c4 70E0      		ldi r23,0	 ;  ton
+ 361 00c6 2AE0      		ldi r18,10	 ; ,	 ;  223	*ashlsi3_const/4	[length = 7]
+ 362               		1:
+ 363 00c8 440F      		lsl r20	 ;  D.2262
+ 364 00ca 551F      		rol r21	 ;  D.2262
+ 365 00cc 661F      		rol r22	 ;  D.2262
+ 366 00ce 771F      		rol r23	 ;  D.2262
+ 367 00d0 2A95      		dec r18	 ; 
+ 368 00d2 01F4      		brne 1b
+ 369 00d4 9A01      		movw r18,r20	 ;  D.2262, D.2262	 ;  182	*movsi/1	[length = 2]
+ 370 00d6 AB01      		movw r20,r22	 ;  D.2262, D.2262
+ 371 00d8 2C1B      		sub r18,r28	 ;  D.2262, toff	 ;  102	*subsi3_zero_extend.hi	[length = 4]
+ 372 00da 3D0B      		sbc r19,r29	 ;  D.2262, toff
+ 373 00dc 4109      		sbc r20,__zero_reg__	 ;  D.2262
+ 374 00de 5109      		sbc r21,__zero_reg__	 ;  D.2262
+ 375 00e0 A8E6      		ldi r26,lo8(104)	 ; ,	 ;  166	*movhi/5	[length = 2]
+ 376 00e2 B1E0      		ldi r27,lo8(1)	 ; ,
+ 377 00e4 0E94 0000 		call __muluhisi3	 ;  168	*muluhisi3_call	[length = 2]
+ 379               	.LM28:
+ 380 00e8 680D      		add r22,r8	 ;  D.2263, D.2263	 ;  105	addsi3/1	[length = 4]
+ 381 00ea 791D      		adc r23,r9	 ;  D.2263, D.2263
+ 382 00ec 8A1D      		adc r24,r10	 ;  D.2263, D.2263
+ 383 00ee 9B1D      		adc r25,r11	 ;  D.2263, D.2263
+ 384 00f0 A701      		movw r20,r14	 ; , denom	 ;  171	*movsi/1	[length = 2]
+GAS LISTING /tmp/ccT97ieF.s 			page 6
+
+
+ 385 00f2 9601      		movw r18,r12	 ; , denom
+ 386 00f4 0E94 0000 		call __udivmodsi4	 ;  172	*udivmodsi4_call	[length = 2]
+  35:ma3pulse.c    ****   return retval == 360 ? 0 : retval;
+ 388               	.LM29:
+ 389 00f8 2836      		cpi r18,104	 ;  D.2263,	 ;  108	*cmphi/7	[length = 3]
+ 390 00fa 81E0      		ldi r24,1	 ; ,
+ 391 00fc 3807      		cpc r19,r24	 ;  D.2263,
+ 392 00fe 01F0      		breq .L13	 ; ,	 ;  109	branch	[length = 1]
+ 393               	.L3:
+  36:ma3pulse.c    **** }
+ 395               	.LM30:
+ 396 0100 C901      		movw r24,r18	 ; , D.2259	 ;  117	*movhi/1	[length = 1]
+ 397               	/* epilogue start */
+ 398 0102 DF91      		pop r29	 ; 	 ;  203	popqi	[length = 1]
+ 399 0104 CF91      		pop r28	 ; 	 ;  204	popqi	[length = 1]
+ 400 0106 FF90      		pop r15	 ; 	 ;  205	popqi	[length = 1]
+ 401 0108 EF90      		pop r14	 ; 	 ;  206	popqi	[length = 1]
+ 402 010a DF90      		pop r13	 ; 	 ;  207	popqi	[length = 1]
+ 403 010c CF90      		pop r12	 ; 	 ;  208	popqi	[length = 1]
+ 404 010e BF90      		pop r11	 ; 	 ;  209	popqi	[length = 1]
+ 405 0110 AF90      		pop r10	 ; 	 ;  210	popqi	[length = 1]
+ 406 0112 9F90      		pop r9	 ; 	 ;  211	popqi	[length = 1]
+ 407 0114 8F90      		pop r8	 ; 	 ;  212	popqi	[length = 1]
+ 408 0116 0895      		ret	 ;  213	return_from_epilogue	[length = 1]
+ 409               	.L13:
+  35:ma3pulse.c    ****   return retval == 360 ? 0 : retval;
+ 411               	.LM31:
+ 412 0118 20E0      		ldi r18,0	 ;  D.2259	 ;  9	*movhi/2	[length = 2]
+ 413 011a 30E0      		ldi r19,0	 ;  D.2259
+ 414 011c 00C0      		rjmp .L3	 ; 	 ;  243	jump	[length = 1]
+ 425               	.Lscope1:
+ 448               		.text
+ 450               	.Letext0:
+ 451               		.ident	"GCC: (GNU) 4.9.2"
+GAS LISTING /tmp/ccT97ieF.s 			page 7
+
+
+DEFINED SYMBOLS
+                            *ABS*:0000000000000000 ma3pulse.c
+     /tmp/ccT97ieF.s:2      *ABS*:000000000000003e __SP_H__
+     /tmp/ccT97ieF.s:3      *ABS*:000000000000003d __SP_L__
+     /tmp/ccT97ieF.s:4      *ABS*:000000000000003f __SREG__
+     /tmp/ccT97ieF.s:5      *ABS*:000000000000003b __RAMPZ__
+     /tmp/ccT97ieF.s:6      *ABS*:0000000000000000 __tmp_reg__
+     /tmp/ccT97ieF.s:7      *ABS*:0000000000000001 __zero_reg__
+     /tmp/ccT97ieF.s:170    .text.ma3pulse:0000000000000000 ma3pulse
+
+UNDEFINED SYMBOLS
+digital_pin_to_port_PGM
+port_to_input_PGM
+digital_pin_to_bit_mask_PGM
+__muluhisi3
+__udivmodsi4

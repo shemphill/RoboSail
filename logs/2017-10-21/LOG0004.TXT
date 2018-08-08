@@ -1,0 +1,2890 @@
+122, @manual command mode
+140, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+159, Roll raw value: 1.22Roll in deg: 7.21,              Heading: 359.65
+178, 
+200, Wind Angle: 20	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+214, Roll raw value: 0.98Roll in deg: 6.20,              Heading: 359.87
+226, 
+266, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+279, Roll raw value: 1.14Roll in deg: 6.75,              Heading: 359.42
+293, 
+332, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+346, Roll raw value: 1.14Roll in deg: 6.64,              Heading: 359.82
+357, 
+397, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+411, Roll raw value: 1.14Roll in deg: 6.86,              Heading: 359.46
+422, 
+463, Wind Angle: 17	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1465  angle out: 90
+477, Roll raw value: 1.22Roll in deg: 7.27,              Heading: 358.48
+492, 
+530, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+543, Roll raw value: 1.22Roll in deg: 7.39,              Heading: 358.60
+556, 
+595, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+609, Roll raw value: 1.02Roll in deg: 6.29,              Heading: 359.32
+620, 
+661, Wind Angle: 27	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1474  angle out: 91
+675, Roll raw value: 1.06Roll in deg: 6.34,              Heading: 0.14
+690, 
+728, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+741, Roll raw value: 0.98Roll in deg: 6.02,              Heading: 358.73
+753, 
+793, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+806, Roll raw value: 1.06Roll in deg: 7.44,              Heading: 0.58
+818, 
+860, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+875, Roll raw value: 1.06Roll in deg: 6.34,              Heading: 359.73
+887, 
+924, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1480  angle out: 92
+937, Roll raw value: 1.14Roll in deg: 6.72,              Heading: 359.40
+950, 
+991, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+1004, Roll raw value: 1.26Roll in deg: 7.35,              Heading: 358.19
+1016, 
+1057, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+1074, Roll raw value: 1.22Roll in deg: 7.24,              Heading: 359.00
+1085, 
+1122, Wind Angle: 20	 Sail, from RC: 1530  angle out: 95  Rudder, from RC: 1481  angle out: 93
+1136, Roll raw value: 1.06Roll in deg: 7.30,              Heading: 359.75
+1147, 
+1188, Wind Angle: 17	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+1202, Roll raw value: 1.06Roll in deg: 6.50,              Heading: 0.05
+1214, 
+1254, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+1270, Roll raw value: 1.22Roll in deg: 7.21,              Heading: 359.24
+1282, 
+1320, Wind Angle: 31	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1501  angle out: 96
+1334, Roll raw value: 1.10Roll in deg: 6.68,              Heading: 359.68
+1345, 
+1386, Wind Angle: 20	 Sail, from RC: 1562  angle out: 98  Rudder, from RC: 1502  angle out: 96
+1400, Roll raw value: 1.10Roll in deg: 6.65,              Heading: 358.67
+1412, 
+1452, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+1476, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 0.58
+1491, 
+1518, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+1531, Roll raw value: 1.22Roll in deg: 7.39,              Heading: 359.68
+1544, 
+1584, Wind Angle: 20	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1472  angle out: 91
+1598, Roll raw value: 1.18Roll in deg: 7.10,              Heading: 359.04
+1609, 
+1649, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+1659, Roll raw value: 0.94Roll in deg: 7.70,              Heading: 359.03
+1671, 
+1693, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+1708, Roll raw value: 1.10Roll in deg: 6.74,              Heading: 359.05
+1719, 
+1760, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+1773, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.24
+1788, 
+1825, Wind Angle: 19	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1480  angle out: 92
+1839, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 0.76
+1850, 
+1892, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+1905, Roll raw value: 1.10Roll in deg: 6.71,              Heading: 359.21
+1916, 
+1956, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+1971, Roll raw value: 1.10Roll in deg: 6.60,              Heading: 0.27
+1985, 
+2023, Wind Angle: 18	 Sail, from RC: 1529  angle out: 95  Rudder, from RC: 1481  angle out: 93
+2036, Roll raw value: 1.06Roll in deg: 6.37,              Heading: 0.19
+2049, 
+2089, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+2103, Roll raw value: 1.14Roll in deg: 6.75,              Heading: 358.79
+2114, 
+2154, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1495  angle out: 95
+2168, Roll raw value: 1.14Roll in deg: 6.95,              Heading: 359.38
+2183, 
+2221, Wind Angle: 28	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+2234, Roll raw value: 1.06Roll in deg: 6.31,              Heading: 358.88
+2246, 
+2286, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+2299, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 358.80
+2312, 
+2353, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+2369, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 359.47
+2380, 
+2418, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+2433, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.64
+2444, 
+2484, Wind Angle: 17	 Sail, from RC: 1543  angle out: 97  Rudder, from RC: 1465  angle out: 90
+2497, Roll raw value: 1.10Roll in deg: 6.57,              Heading: 358.83
+2509, 
+2550, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+2567, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 359.01
+2578, 
+2615, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+2629, Roll raw value: 1.26Roll in deg: 7.38,              Heading: 1.91
+2640, 
+2681, Wind Angle: 20	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1487  angle out: 93
+2695, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.50
+2707, 
+2748, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+2764, Roll raw value: 1.22Roll in deg: 7.24,              Heading: 358.89
+2788, 
+2813, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+2827, Roll raw value: 1.10Roll in deg: 6.39,              Heading: 359.51
+2838, 
+2879, Wind Angle: 27	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+2893, Roll raw value: 1.18Roll in deg: 6.82,              Heading: 359.62
+2905, 
+2946, Wind Angle: 17	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1480  angle out: 92
+2962, Roll raw value: 1.26Roll in deg: 7.56,              Heading: 358.96
+2974, 
+3011, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+3024, Roll raw value: 0.98Roll in deg: 7.01,              Heading: 359.54
+3037, 
+3078, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+3091, Roll raw value: 1.10Roll in deg: 6.60,              Heading: 0.02
+3105, 
+3142, Wind Angle: 27	 Sail, from RC: 1529  angle out: 95  Rudder, from RC: 1481  angle out: 93
+3155, Roll raw value: 1.18Roll in deg: 7.15,              Heading: 359.49
+3168, 
+3209, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+3222, Roll raw value: 1.18Roll in deg: 7.07,              Heading: 359.23
+3234, 
+3275, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+3289, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 358.63
+3303, 
+3340, Wind Angle: 20	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+3354, Roll raw value: 1.06Roll in deg: 6.29,              Heading: 359.50
+3365, 
+3406, Wind Angle: 18	 Sail, from RC: 1558  angle out: 98  Rudder, from RC: 1480  angle out: 92
+3420, Roll raw value: 1.10Roll in deg: 6.47,              Heading: 358.99
+3432, 
+3472, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+3485, Roll raw value: 1.02Roll in deg: 6.06,              Heading: 359.88
+3500, 
+3538, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+3552, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 0.22
+3563, 
+3604, Wind Angle: 19	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1471  angle out: 91
+3618, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 359.26
+3630, 
+3670, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+3686, Roll raw value: 1.14Roll in deg: 6.98,              Heading: 359.10
+3697, 
+3736, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+3749, Roll raw value: 1.26Roll in deg: 7.38,              Heading: 358.97
+3761, 
+3802, Wind Angle: 19	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+3816, Roll raw value: 1.02Roll in deg: 6.08,              Heading: 358.62
+3827, 
+3867, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+3884, Roll raw value: 1.26Roll in deg: 7.44,              Heading: 359.16
+3896, 
+3934, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+3947, Roll raw value: 1.22Roll in deg: 7.30,              Heading: 359.61
+3959, 
+3999, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+4013, Roll raw value: 1.14Roll in deg: 6.72,              Heading: 359.59
+4024, 
+4065, Wind Angle: 20	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1482  angle out: 93
+4081, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 358.74
+4106, 
+4131, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1503  angle out: 96
+4145, Roll raw value: 1.14Roll in deg: 6.75,              Heading: 359.44
+4157, 
+4197, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+4210, Roll raw value: 1.14Roll in deg: 7.04,              Heading: 359.73
+4222, 
+4262, Wind Angle: 27	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1475  angle out: 92
+4280, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 359.83
+4291, 
+4328, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+4342, Roll raw value: 1.29Roll in deg: 7.61,              Heading: 0.10
+4354, 
+4395, Wind Angle: 18	 Sail, from RC: 1565  angle out: 99  Rudder, from RC: 1502  angle out: 96
+4408, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 359.63
+4420, 
+4461, Wind Angle: 25	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+4474, Roll raw value: 1.10Roll in deg: 6.47,              Heading: 0.28
+4486, 
+4526, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1480  angle out: 92
+4540, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 359.88
+4551, 
+4592, Wind Angle: 18	 Sail, from RC: 1562  angle out: 98  Rudder, from RC: 1502  angle out: 96
+4605, Roll raw value: 1.18Roll in deg: 6.84,              Heading: 359.45
+4621, 
+4659, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+4672, Roll raw value: 1.10Roll in deg: 6.63,              Heading: 359.47
+4684, 
+4724, Wind Angle: 19	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1472  angle out: 91
+4738, Roll raw value: 1.14Roll in deg: 6.95,              Heading: 359.83
+4749, 
+4790, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+4804, Roll raw value: 1.18Roll in deg: 7.40,              Heading: 0.20
+4818, 
+4855, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+4869, Roll raw value: 1.29Roll in deg: 7.58,              Heading: 359.57
+4881, 
+4922, Wind Angle: 31	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+4935, Roll raw value: 1.18Roll in deg: 7.10,              Heading: 359.69
+4946, 
+4987, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+5002, Roll raw value: 1.14Roll in deg: 6.98,              Heading: 358.33
+5016, 
+5053, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+5066, Roll raw value: 1.14Roll in deg: 6.13,              Heading: 0.19
+5079, 
+5120, Wind Angle: 27	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+5133, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.85
+5145, 
+5185, Wind Angle: 20	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1465  angle out: 90
+5201, Roll raw value: 1.18Roll in deg: 7.13,              Heading: 359.84
+5213, 
+5251, Wind Angle: 19	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+5265, Roll raw value: 1.37Roll in deg: 8.03,              Heading: 359.55
+5276, 
+5317, Wind Angle: 18	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+5330, Roll raw value: 1.22Roll in deg: 7.18,              Heading: 359.67
+5343, 
+5383, Wind Angle: 20	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1481  angle out: 93
+5399, Roll raw value: 1.02Roll in deg: 6.18,              Heading: 0.33
+5423, 
+5448, Wind Angle: 19	 Sail, from RC: 1565  angle out: 99  Rudder, from RC: 1495  angle out: 95
+5463, Roll raw value: 1.22Roll in deg: 7.36,              Heading: 358.63
+5474, 
+5515, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+5528, Roll raw value: 1.06Roll in deg: 6.29,              Heading: 359.12
+5540, 
+5580, Wind Angle: 25	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1502  angle out: 96
+5597, Roll raw value: 1.06Roll in deg: 6.29,              Heading: 359.83
+5608, 
+5647, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1474  angle out: 91
+5660, Roll raw value: 1.26Roll in deg: 7.27,              Heading: 359.80
+5671, 
+5711, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+5726, Roll raw value: 1.06Roll in deg: 6.47,              Heading: 0.12
+5737, 
+5778, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+5794, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 359.39
+5807, 
+5844, Wind Angle: 20	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1474  angle out: 91
+5858, Roll raw value: 1.14Roll in deg: 6.70,              Heading: 359.27
+5870, 
+5910, Wind Angle: 20	 Sail, from RC: 1558  angle out: 98  Rudder, from RC: 1502  angle out: 96
+5923, Roll raw value: 1.10Roll in deg: 7.66,              Heading: 359.26
+6028, 
+6217, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+6360, Roll raw value: 1.10Roll in deg: 6.57,              Heading: 359.50
+6371, 
+6392, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+6406, Roll raw value: 1.06Roll in deg: 6.39,              Heading: 359.76
+6418, 
+6459, Wind Angle: 17	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+6472, Roll raw value: 1.18Roll in deg: 6.98,              Heading: 359.48
+6487, 
+6525, Wind Angle: 20	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1465  angle out: 90
+6539, Roll raw value: 1.10Roll in deg: 6.65,              Heading: 359.85
+6550, 
+6590, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+6604, Roll raw value: 0.98Roll in deg: 8.07,              Heading: 359.16
+6616, 
+6657, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+6670, Roll raw value: 1.22Roll in deg: 7.15,              Heading: 0.89
+6685, 
+6722, Wind Angle: 30	 Sail, from RC: 1545  angle out: 97  Rudder, from RC: 1495  angle out: 95
+6735, Roll raw value: 1.06Roll in deg: 6.31,              Heading: 0.63
+6747, 
+6789, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+6802, Roll raw value: 1.10Roll in deg: 6.52,              Heading: 359.12
+6813, 
+6854, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+6871, Roll raw value: 1.10Roll in deg: 6.52,              Heading: 359.84
+6883, 
+6920, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+6933, Roll raw value: 1.18Roll in deg: 7.07,              Heading: 359.82
+6945, 
+6986, Wind Angle: 20	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1466  angle out: 90
+7000, Roll raw value: 1.29Roll in deg: 7.83,              Heading: 359.79
+7011, 
+7051, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+7067, Roll raw value: 1.10Roll in deg: 6.68,              Heading: 359.11
+7088, 
+7117, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+7131, Roll raw value: 1.29Roll in deg: 7.73,              Heading: 358.74
+7143, 
+7184, Wind Angle: 22	 Sail, from RC: 1530  angle out: 95  Rudder, from RC: 1481  angle out: 93
+7197, Roll raw value: 1.14Roll in deg: 6.75,              Heading: 359.47
+7209, 
+7249, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+7266, Roll raw value: 1.33Roll in deg: 7.90,              Heading: 359.81
+7277, 
+7315, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+7329, Roll raw value: 1.22Roll in deg: 7.27,              Heading: 358.73
+7341, 
+7382, Wind Angle: 29	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+7395, Roll raw value: 1.14Roll in deg: 6.70,              Heading: 359.93
+7407, 
+7447, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1480  angle out: 92
+7463, Roll raw value: 1.10Roll in deg: 6.24,              Heading: 0.06
+7475, 
+7514, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+7527, Roll raw value: 0.98Roll in deg: 5.92,              Heading: 358.81
+7538, 
+7578, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+7592, Roll raw value: 1.18Roll in deg: 6.98,              Heading: 358.61
+7604, 
+7645, Wind Angle: 17	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1472  angle out: 91
+7658, Roll raw value: 1.06Roll in deg: 6.37,              Heading: 359.97
+7670, 
+7711, Wind Angle: 19	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+7725, Roll raw value: 1.14Roll in deg: 7.03,              Heading: 0.46
+7736, 
+7776, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+7790, Roll raw value: 1.18Roll in deg: 6.93,              Heading: 358.39
+7804, 
+7842, Wind Angle: 19	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+7856, Roll raw value: 1.14Roll in deg: 6.86,              Heading: 359.02
+7868, 
+7908, Wind Angle: 19	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+7921, Roll raw value: 1.26Roll in deg: 7.44,              Heading: 359.50
+7933, 
+7974, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+7988, Roll raw value: 1.18Roll in deg: 6.93,              Heading: 359.76
+8002, 
+8040, Wind Angle: 27	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+8054, Roll raw value: 1.18Roll in deg: 6.95,              Heading: 359.62
+8066, 
+8105, Wind Angle: 18	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1465  angle out: 90
+8119, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 359.58
+8131, 
+8172, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+8185, Roll raw value: 1.26Roll in deg: 7.38,              Heading: 0.71
+8200, 
+8238, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+8251, Roll raw value: 1.18Roll in deg: 7.07,              Heading: 0.08
+8262, 
+8303, Wind Angle: 24	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1475  angle out: 92
+8317, Roll raw value: 1.06Roll in deg: 6.01,              Heading: 0.60
+8329, 
+8370, Wind Angle: 17	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+8386, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 0.59
+8406, 
+8435, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+8449, Roll raw value: 1.26Roll in deg: 7.35,              Heading: 0.67
+8460, 
+8501, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+8515, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 0.17
+8526, 
+8567, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1480  angle out: 92
+8584, Roll raw value: 1.18Roll in deg: 7.04,              Heading: 358.91
+8596, 
+8633, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+8646, Roll raw value: 1.06Roll in deg: 6.09,              Heading: 359.86
+8658, 
+8699, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+8713, Roll raw value: 1.18Roll in deg: 7.13,              Heading: 359.65
+8724, 
+8764, Wind Angle: 27	 Sail, from RC: 1529  angle out: 95  Rudder, from RC: 1481  angle out: 93
+8780, Roll raw value: 1.14Roll in deg: 6.92,              Heading: 358.72
+8793, 
+8830, Wind Angle: 18	 Sail, from RC: 1563  angle out: 98  Rudder, from RC: 1502  angle out: 96
+8844, Roll raw value: 1.02Roll in deg: 6.23,              Heading: 0.72
+8856, 
+8897, Wind Angle: 19	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+8910, Roll raw value: 1.02Roll in deg: 6.18,              Heading: 0.19
+8922, 
+8962, Wind Angle: 31	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+8978, Roll raw value: 1.18Roll in deg: 6.95,              Heading: 359.60
+8990, 
+9028, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+9042, Roll raw value: 1.02Roll in deg: 6.48,              Heading: 0.49
+9054, 
+9094, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+9107, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 0.18
+9119, 
+9160, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+9174, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 0.25
+9185, 
+9226, Wind Angle: 19	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1471  angle out: 91
+9240, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 0.12
+9251, 
+9291, Wind Angle: 17	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+9305, Roll raw value: 1.06Roll in deg: 6.42,              Heading: 359.32
+9320, 
+9358, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+9371, Roll raw value: 1.18Roll in deg: 6.93,              Heading: 1.06
+9382, 
+9423, Wind Angle: 20	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+9437, Roll raw value: 1.02Roll in deg: 6.03,              Heading: 359.26
+9448, 
+9489, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+9503, Roll raw value: 1.18Roll in deg: 6.26,              Heading: 359.36
+9518, 
+9555, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+9569, Roll raw value: 1.18Roll in deg: 6.93,              Heading: 359.08
+9581, 
+9621, Wind Angle: 27	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1502  angle out: 96
+9634, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 358.61
+9646, 
+9687, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1474  angle out: 91
+9701, Roll raw value: 1.18Roll in deg: 6.95,              Heading: 359.89
+9723, 
+9753, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+9766, Roll raw value: 1.10Roll in deg: 6.68,              Heading: 359.85
+9779, 
+9819, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1502  angle out: 96
+9832, Roll raw value: 1.26Roll in deg: 7.53,              Heading: 359.13
+9844, 
+9885, Wind Angle: 20	 Sail, from RC: 1535  angle out: 96  Rudder, from RC: 1475  angle out: 92
+9902, Roll raw value: 1.10Roll in deg: 6.63,              Heading: 359.60
+9913, 
+9950, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+9964, Roll raw value: 1.18Roll in deg: 7.10,              Heading: 3.96
+9975, 
+10016, Wind Angle: 17	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1502  angle out: 96
+10030, Roll raw value: 1.26Roll in deg: 7.63,              Heading: 358.69
+10042, 
+10083, Wind Angle: 31	 Sail, from RC: 1545  angle out: 97  Rudder, from RC: 1495  angle out: 95
+10099, Roll raw value: 1.10Roll in deg: 6.57,              Heading: 0.05
+10110, 
+10147, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1480  angle out: 92
+10162, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 2.86
+10173, 
+10214, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+10228, Roll raw value: 1.18Roll in deg: 6.98,              Heading: 359.78
+10240, 
+10280, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+10297, Roll raw value: 1.26Roll in deg: 7.44,              Heading: 0.64
+10308, 
+10346, Wind Angle: 20	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1472  angle out: 91
+10359, Roll raw value: 1.14Roll in deg: 6.89,              Heading: 358.61
+10371, 
+10412, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+10426, Roll raw value: 0.98Roll in deg: 6.02,              Heading: 359.90
+10437, 
+10477, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+10490, Roll raw value: 1.18Roll in deg: 7.04,              Heading: 359.77
+10503, 
+10544, Wind Angle: 19	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+10557, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 359.11
+10569, 
+10610, Wind Angle: 19	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+10624, Roll raw value: 1.10Roll in deg: 6.42,              Heading: 359.58
+10638, 
+10675, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+10689, Roll raw value: 0.98Roll in deg: 5.78,              Heading: 358.98
+10700, 
+10741, Wind Angle: 25	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+10755, Roll raw value: 1.18Roll in deg: 7.07,              Heading: 359.30
+10767, 
+10807, Wind Angle: 20	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1471  angle out: 91
+10820, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.11
+10834, 
+10872, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+10887, Roll raw value: 1.10Roll in deg: 6.42,              Heading: 358.63
+10898, 
+10939, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+10952, Roll raw value: 1.18Roll in deg: 7.10,              Heading: 0.16
+10964, 
+11004, Wind Angle: 27	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1475  angle out: 92
+11021, Roll raw value: 0.98Roll in deg: 6.07,              Heading: 359.24
+11040, 
+11071, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+11084, Roll raw value: 0.90Roll in deg: 5.61,              Heading: 359.71
+11096, 
+11137, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+11151, Roll raw value: 1.22Roll in deg: 7.21,              Heading: 359.97
+11162, 
+11202, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+11218, Roll raw value: 1.18Roll in deg: 6.37,              Heading: 359.34
+11231, 
+11269, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1474  angle out: 91
+11282, Roll raw value: 1.26Roll in deg: 7.47,              Heading: 359.74
+11294, 
+11333, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+11347, Roll raw value: 0.98Roll in deg: 5.87,              Heading: 359.80
+11359, 
+11400, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+11416, Roll raw value: 1.06Roll in deg: 6.37,              Heading: 359.25
+11428, 
+11466, Wind Angle: 18	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1465  angle out: 90
+11480, Roll raw value: 1.10Roll in deg: 6.71,              Heading: 0.75
+11492, 
+11532, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+11545, Roll raw value: 1.06Roll in deg: 6.53,              Heading: 1.43
+11559, 
+11597, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+11612, Roll raw value: 1.29Roll in deg: 7.61,              Heading: 359.87
+11623, 
+11663, Wind Angle: 28	 Sail, from RC: 1545  angle out: 97  Rudder, from RC: 1495  angle out: 95
+11676, Roll raw value: 1.10Roll in deg: 6.52,              Heading: 359.91
+11688, 
+11729, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+11743, Roll raw value: 1.06Roll in deg: 6.21,              Heading: 358.75
+11757, 
+11796, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+11809, Roll raw value: 1.06Roll in deg: 6.26,              Heading: 359.76
+11821, 
+11860, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+11875, Roll raw value: 1.06Roll in deg: 6.39,              Heading: 359.22
+11886, 
+11927, Wind Angle: 18	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1471  angle out: 91
+11943, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 0.34
+11955, 
+11993, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+12006, Roll raw value: 1.22Roll in deg: 7.36,              Heading: 359.61
+12018, 
+12058, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1496  angle out: 95
+12072, Roll raw value: 1.14Roll in deg: 6.55,              Heading: 359.30
+12084, 
+12125, Wind Angle: 25	 Sail, from RC: 1530  angle out: 95  Rudder, from RC: 1482  angle out: 93
+12141, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 359.29
+12153, 
+12190, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+12204, Roll raw value: 1.18Roll in deg: 7.10,              Heading: 359.28
+12216, 
+12257, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+12270, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 358.80
+12281, 
+12321, Wind Angle: 27	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+12430, Roll raw value: 1.10Roll in deg: 6.44,              Heading: 0.03
+12606, 
+12783, Wind Angle: 30	 Sail, from RC: 1545  angle out: 97  Rudder, from RC: 1495  angle out: 95
+12797, Roll raw value: 1.06Roll in deg: 6.31,              Heading: 359.91
+12809, 
+12849, Wind Angle: 18	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1496  angle out: 95
+12862, Roll raw value: 1.10Roll in deg: 6.71,              Heading: 0.52
+12874, 
+12915, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+12929, Roll raw value: 1.10Roll in deg: 6.78,              Heading: 358.55
+12941, 
+12982, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+12995, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 359.27
+13006, 
+13046, Wind Angle: 20	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1465  angle out: 90
+13061, Roll raw value: 1.18Roll in deg: 7.04,              Heading: 0.72
+13075, 
+13113, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+13126, Roll raw value: 1.45Roll in deg: 8.73,              Heading: 358.96
+13138, 
+13178, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+13192, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 0.49
+13203, 
+13245, Wind Angle: 20	 Sail, from RC: 1545  angle out: 97  Rudder, from RC: 1496  angle out: 95
+13258, Roll raw value: 1.10Roll in deg: 6.65,              Heading: 359.61
+13273, 
+13310, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+13325, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 359.50
+13336, 
+13376, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+13389, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 359.75
+13402, 
+13443, Wind Angle: 27	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+13459, Roll raw value: 1.10Roll in deg: 6.63,              Heading: 359.35
+13470, 
+13507, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1481  angle out: 93
+13521, Roll raw value: 1.22Roll in deg: 7.30,              Heading: 0.00
+13533, 
+13574, Wind Angle: 17	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+13588, Roll raw value: 1.22Roll in deg: 7.18,              Heading: 0.28
+13599, 
+13640, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+13657, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.86
+13668, 
+13706, Wind Angle: 27	 Sail, from RC: 1529  angle out: 95  Rudder, from RC: 1481  angle out: 93
+13719, Roll raw value: 1.10Roll in deg: 6.57,              Heading: 359.61
+13730, 
+13771, Wind Angle: 20	 Sail, from RC: 1565  angle out: 99  Rudder, from RC: 1496  angle out: 95
+13786, Roll raw value: 1.22Roll in deg: 6.34,              Heading: 2.23
+13797, 
+13838, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1495  angle out: 95
+13854, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 359.72
+13867, 
+13903, Wind Angle: 20	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1502  angle out: 96
+13917, Roll raw value: 1.02Roll in deg: 6.08,              Heading: 359.45
+13929, 
+13970, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1473  angle out: 91
+13983, Roll raw value: 1.10Roll in deg: 6.44,              Heading: 2.91
+13998, 
+14034, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1496  angle out: 95
+14049, Roll raw value: 1.02Roll in deg: 6.26,              Heading: 359.59
+14060, 
+14101, Wind Angle: 18	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+14114, Roll raw value: 1.14Roll in deg: 6.72,              Heading: 359.24
+14127, 
+14168, Wind Angle: 20	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1465  angle out: 90
+14181, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 0.07
+14195, 
+14232, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+14246, Roll raw value: 1.14Roll in deg: 6.98,              Heading: 0.73
+14258, 
+14299, Wind Angle: 17	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+14313, Roll raw value: 1.37Roll in deg: 8.03,              Heading: 0.66
+14324, 
+14364, Wind Angle: 31	 Sail, from RC: 1545  angle out: 97  Rudder, from RC: 1495  angle out: 95
+14377, Roll raw value: 1.02Roll in deg: 6.13,              Heading: 359.93
+14392, 
+14431, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+14444, Roll raw value: 1.22Roll in deg: 7.21,              Heading: 359.14
+14455, 
+14496, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+14511, Roll raw value: 1.06Roll in deg: 6.37,              Heading: 359.93
+14522, 
+14562, Wind Angle: 17	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+14578, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.76
+14590, 
+14628, Wind Angle: 20	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1471  angle out: 91
+14642, Roll raw value: 1.14Roll in deg: 6.31,              Heading: 359.78
+14654, 
+14693, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+14707, Roll raw value: 1.33Roll in deg: 7.90,              Heading: 359.90
+14718, 
+14759, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+14776, Roll raw value: 1.22Roll in deg: 7.21,              Heading: 359.04
+14788, 
+14826, Wind Angle: 18	 Sail, from RC: 1530  angle out: 95  Rudder, from RC: 1482  angle out: 93
+14839, Roll raw value: 1.14Roll in deg: 6.70,              Heading: 359.57
+14852, 
+14892, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+14905, Roll raw value: 1.14Roll in deg: 6.75,              Heading: 359.26
+14916, 
+14957, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+14973, Roll raw value: 1.02Roll in deg: 7.04,              Heading: 359.31
+14986, 
+15024, Wind Angle: 28	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+15037, Roll raw value: 1.02Roll in deg: 6.13,              Heading: 359.77
+15049, 
+15089, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1480  angle out: 92
+15102, Roll raw value: 1.18Roll in deg: 7.07,              Heading: 359.31
+15117, 
+15156, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+15169, Roll raw value: 0.94Roll in deg: 5.83,              Heading: 0.38
+15180, 
+15220, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+15235, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 359.24
+15246, 
+15287, Wind Angle: 17	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1471  angle out: 91
+15300, Roll raw value: 1.10Roll in deg: 6.63,              Heading: 359.89
+15315, 
+15353, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+15367, Roll raw value: 1.10Roll in deg: 6.42,              Heading: 359.95
+15379, 
+15418, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+15432, Roll raw value: 1.14Roll in deg: 6.62,              Heading: 359.80
+15443, 
+15484, Wind Angle: 20	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+15501, Roll raw value: 1.18Roll in deg: 6.39,              Heading: 359.03
+15513, 
+15550, Wind Angle: 19	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+15563, Roll raw value: 1.14Roll in deg: 6.62,              Heading: 359.09
+15576, 
+15617, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+15630, Roll raw value: 1.10Roll in deg: 6.39,              Heading: 359.64
+15641, 
+15682, Wind Angle: 27	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+15698, Roll raw value: 1.22Roll in deg: 7.13,              Heading: 359.62
+15711, 
+15748, Wind Angle: 18	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1466  angle out: 90
+15761, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 359.29
+15773, 
+15814, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+15827, Roll raw value: 1.18Roll in deg: 7.07,              Heading: 0.54
+15840, 
+15880, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+15896, Roll raw value: 1.33Roll in deg: 7.74,              Heading: 359.86
+15907, 
+15945, Wind Angle: 27	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1475  angle out: 92
+15960, Roll raw value: 1.02Roll in deg: 6.13,              Heading: 359.89
+15971, 
+16012, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+16025, Roll raw value: 1.10Roll in deg: 6.52,              Heading: 358.81
+16040, 
+16077, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+16091, Roll raw value: 1.26Roll in deg: 7.29,              Heading: 0.06
+16102, 
+16143, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+16157, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 359.77
+16168, 
+16209, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1480  angle out: 92
+16224, Roll raw value: 1.22Roll in deg: 7.39,              Heading: 0.23
+16238, 
+16275, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+16288, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 0.53
+16301, 
+16342, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+16355, Roll raw value: 1.22Roll in deg: 6.86,              Heading: 359.14
+16366, 
+16406, Wind Angle: 21	 Sail, from RC: 1530  angle out: 95  Rudder, from RC: 1482  angle out: 93
+16420, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 359.65
+16435, 
+16473, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+16486, Roll raw value: 1.14Roll in deg: 6.75,              Heading: 358.98
+16498, 
+16539, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+16552, Roll raw value: 1.18Roll in deg: 6.90,              Heading: 359.86
+16565, 
+16605, Wind Angle: 30	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+16621, Roll raw value: 1.10Roll in deg: 6.47,              Heading: 0.00
+16632, 
+16670, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+16685, Roll raw value: 1.06Roll in deg: 6.29,              Heading: 359.23
+16696, 
+16736, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+16749, Roll raw value: 1.14Roll in deg: 6.86,              Heading: 359.32
+16761, 
+16802, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+16819, Roll raw value: 1.06Roll in deg: 6.26,              Heading: 359.29
+16830, 
+16868, Wind Angle: 20	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1471  angle out: 91
+16882, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 358.92
+16893, 
+16933, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+16948, Roll raw value: 1.06Roll in deg: 6.37,              Heading: 358.62
+16959, 
+17000, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+17016, Roll raw value: 1.18Roll in deg: 7.24,              Heading: 359.58
+17028, 
+17065, Wind Angle: 20	 Sail, from RC: 1540  angle out: 97  Rudder, from RC: 1502  angle out: 96
+17079, Roll raw value: 1.06Roll in deg: 6.29,              Heading: 359.70
+17090, 
+17131, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+17145, Roll raw value: 1.06Roll in deg: 6.42,              Heading: 358.52
+17160, 
+17198, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+17211, Roll raw value: 0.98Roll in deg: 6.52,              Heading: 359.88
+17223, 
+17263, Wind Angle: 27	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+17276, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.87
+17289, 
+17330, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1474  angle out: 91
+17343, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 359.88
+17357, 
+17394, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+17409, Roll raw value: 1.18Roll in deg: 7.10,              Heading: 359.24
+17420, 
+17461, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+17474, Roll raw value: 1.29Roll in deg: 7.58,              Heading: 0.04
+17486, 
+17527, Wind Angle: 20	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1475  angle out: 92
+17544, Roll raw value: 1.02Roll in deg: 6.37,              Heading: 359.21
+17555, 
+17592, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+17606, Roll raw value: 1.02Roll in deg: 6.37,              Heading: 359.55
+17617, 
+17658, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1502  angle out: 96
+17672, Roll raw value: 1.18Roll in deg: 6.84,              Heading: 359.22
+17684, 
+17724, Wind Angle: 20	 Sail, from RC: 1545  angle out: 97  Rudder, from RC: 1495  angle out: 95
+17740, Roll raw value: 1.10Roll in deg: 6.81,              Heading: 359.34
+17752, 
+17790, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1480  angle out: 92
+17804, Roll raw value: 1.06Roll in deg: 6.26,              Heading: 0.20
+17815, 
+17856, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1502  angle out: 96
+17870, Roll raw value: 1.02Roll in deg: 6.13,              Heading: 359.60
+17882, 
+17922, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+17938, Roll raw value: 1.14Roll in deg: 6.75,              Heading: 359.76
+17950, 
+17988, Wind Angle: 20	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1472  angle out: 91
+18001, Roll raw value: 1.22Roll in deg: 7.15,              Heading: 0.02
+18014, 
+18055, Wind Angle: 20	 Sail, from RC: 1561  angle out: 98  Rudder, from RC: 1502  angle out: 96
+18068, Roll raw value: 1.22Roll in deg: 7.27,              Heading: 0.02
+18079, 
+18119, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+18134, Roll raw value: 1.33Roll in deg: 7.74,              Heading: 358.85
+18145, 
+18186, Wind Angle: 17	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1501  angle out: 96
+18199, Roll raw value: 1.06Roll in deg: 6.26,              Heading: 0.31
+18211, 
+18251, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+18265, Roll raw value: 1.02Roll in deg: 6.23,              Heading: 359.38
+18279, 
+18317, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+18331, Roll raw value: 1.06Roll in deg: 6.50,              Heading: 359.53
+18342, 
+18383, Wind Angle: 25	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+18398, Roll raw value: 1.10Roll in deg: 5.71,              Heading: 0.33
+18409, 
+18449, Wind Angle: 20	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1465  angle out: 90
+18462, Roll raw value: 1.14Roll in deg: 6.92,              Heading: 359.67
+18477, 
+18515, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+18529, Roll raw value: 1.06Roll in deg: 6.47,              Heading: 1.85
+18540, 
+18580, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+18594, Roll raw value: 1.14Roll in deg: 6.67,              Heading: 359.77
+18606, 
+18647, Wind Angle: 25	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1475  angle out: 92
+18755, Roll raw value: 1.02Roll in deg: 6.31,              Heading: 359.39
+18930, 
+19086, Wind Angle: 30	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1502  angle out: 96
+19099, Roll raw value: 1.06Roll in deg: 6.72,              Heading: 359.23
+19110, 
+19151, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+19166, Roll raw value: 1.26Roll in deg: 7.38,              Heading: 358.83
+19177, 
+19218, Wind Angle: 17	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+19234, Roll raw value: 1.10Roll in deg: 6.60,              Heading: 359.94
+19247, 
+19283, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+19297, Roll raw value: 1.14Roll in deg: 6.75,              Heading: 359.72
+19309, 
+19349, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1474  angle out: 91
+19363, Roll raw value: 1.18Roll in deg: 7.15,              Heading: 0.49
+19375, 
+19415, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1502  angle out: 96
+19431, Roll raw value: 0.94Roll in deg: 7.32,              Heading: 1.30
+19443, 
+19481, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+19494, Roll raw value: 1.26Roll in deg: 7.13,              Heading: 2.63
+19507, 
+19548, Wind Angle: 20	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1475  angle out: 92
+19561, Roll raw value: 1.10Roll in deg: 6.47,              Heading: 359.46
+19575, 
+19612, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+19627, Roll raw value: 0.98Roll in deg: 6.02,              Heading: 359.08
+19638, 
+19679, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1502  angle out: 96
+19692, Roll raw value: 1.18Roll in deg: 6.93,              Heading: 0.44
+19704, 
+19745, Wind Angle: 31	 Sail, from RC: 1565  angle out: 99  Rudder, from RC: 1496  angle out: 95
+19763, Roll raw value: 1.14Roll in deg: 5.82,              Heading: 0.67
+19777, 
+19811, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1480  angle out: 92
+19824, Roll raw value: 1.22Roll in deg: 7.51,              Heading: 359.70
+19835, 
+19876, Wind Angle: 20	 Sail, from RC: 1561  angle out: 98  Rudder, from RC: 1502  angle out: 96
+19891, Roll raw value: 1.06Roll in deg: 6.61,              Heading: 359.39
+19902, 
+19942, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+19955, Roll raw value: 1.10Roll in deg: 6.60,              Heading: 0.05
+19970, 
+20008, Wind Angle: 19	 Sail, from RC: 1537  angle out: 96  Rudder, from RC: 1472  angle out: 91
+20022, Roll raw value: 1.14Roll in deg: 6.86,              Heading: 359.20
+20034, 
+20074, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+20088, Roll raw value: 1.06Roll in deg: 6.44,              Heading: 2.28
+20100, 
+20140, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+20156, Roll raw value: 1.26Roll in deg: 7.35,              Heading: 359.85
+20168, 
+20206, Wind Angle: 17	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1502  angle out: 96
+20219, Roll raw value: 1.02Roll in deg: 6.08,              Heading: 359.63
+20232, 
+20272, Wind Angle: 20	 Sail, from RC: 1565  angle out: 99  Rudder, from RC: 1496  angle out: 95
+20285, Roll raw value: 1.18Roll in deg: 6.16,              Heading: 359.54
+20296, 
+20337, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+20354, Roll raw value: 1.06Roll in deg: 6.37,              Heading: 359.20
+20366, 
+20404, Wind Angle: 25	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+20417, Roll raw value: 1.06Roll in deg: 6.34,              Heading: 359.55
+20429, 
+20469, Wind Angle: 20	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1471  angle out: 91
+20483, Roll raw value: 1.02Roll in deg: 6.13,              Heading: 359.59
+20495, 
+20536, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+20552, Roll raw value: 1.14Roll in deg: 6.86,              Heading: 358.82
+20563, 
+20600, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+20615, Roll raw value: 1.14Roll in deg: 7.38,              Heading: 0.28
+20626, 
+20667, Wind Angle: 25	 Sail, from RC: 1535  angle out: 96  Rudder, from RC: 1481  angle out: 93
+20680, Roll raw value: 1.10Roll in deg: 6.52,              Heading: 359.60
+20696, 
+20733, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+20747, Roll raw value: 1.37Roll in deg: 7.94,              Heading: 0.14
+20758, 
+20798, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+20812, Roll raw value: 1.06Roll in deg: 6.29,              Heading: 359.35
+20824, 
+20865, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+20879, Roll raw value: 1.18Roll in deg: 7.04,              Heading: 0.01
+20893, 
+20930, Wind Angle: 18	 Sail, from RC: 1565  angle out: 99  Rudder, from RC: 1474  angle out: 91
+20943, Roll raw value: 1.06Roll in deg: 6.45,              Heading: 359.12
+20956, 
+20997, Wind Angle: 20	 Sail, from RC: 1558  angle out: 98  Rudder, from RC: 1502  angle out: 96
+21010, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 0.05
+21021, 
+21062, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+21083, Roll raw value: 1.22Roll in deg: 7.24,              Heading: 359.23
+21095, 
+21128, Wind Angle: 18	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1475  angle out: 92
+21141, Roll raw value: 0.98Roll in deg: 6.45,              Heading: 359.72
+21153, 
+21194, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1502  angle out: 96
+21208, Roll raw value: 1.14Roll in deg: 6.49,              Heading: 359.33
+21220, 
+21261, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+21277, Roll raw value: 1.22Roll in deg: 7.13,              Heading: 359.41
+21288, 
+21325, Wind Angle: 30	 Sail, from RC: 1545  angle out: 97  Rudder, from RC: 1495  angle out: 95
+21340, Roll raw value: 1.10Roll in deg: 6.57,              Heading: 359.46
+21351, 
+21392, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+21405, Roll raw value: 1.14Roll in deg: 7.13,              Heading: 359.74
+21417, 
+21457, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+21474, Roll raw value: 1.14Roll in deg: 6.65,              Heading: 358.59
+21485, 
+21524, Wind Angle: 20	 Sail, from RC: 1565  angle out: 99  Rudder, from RC: 1496  angle out: 95
+21537, Roll raw value: 1.18Roll in deg: 6.87,              Heading: 0.05
+21549, 
+21590, Wind Angle: 20	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1472  angle out: 91
+21604, Roll raw value: 1.18Roll in deg: 7.07,              Heading: 0.48
+21615, 
+21655, Wind Angle: 17	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+21668, Roll raw value: 1.49Roll in deg: 8.48,              Heading: 359.74
+21681, 
+21722, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1496  angle out: 95
+21735, Roll raw value: 1.22Roll in deg: 7.18,              Heading: 1.31
+21746, 
+21786, Wind Angle: 19	 Sail, from RC: 1529  angle out: 95  Rudder, from RC: 1490  angle out: 94
+21800, Roll raw value: 1.14Roll in deg: 6.92,              Heading: 359.80
+21815, 
+21853, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+21866, Roll raw value: 1.18Roll in deg: 6.95,              Heading: 359.89
+21878, 
+21919, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1495  angle out: 95
+21933, Roll raw value: 1.18Roll in deg: 6.93,              Heading: 357.06
+21945, 
+21985, Wind Angle: 27	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+21998, Roll raw value: 1.18Roll in deg: 7.04,              Heading: 359.45
+22012, 
+22050, Wind Angle: 20	 Sail, from RC: 1565  angle out: 99  Rudder, from RC: 1471  angle out: 91
+22065, Roll raw value: 1.14Roll in deg: 6.86,              Heading: 359.60
+22076, 
+22117, Wind Angle: 17	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1491  angle out: 94
+22130, Roll raw value: 1.14Roll in deg: 7.19,              Heading: 1.44
+22142, 
+22182, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1495  angle out: 95
+22199, Roll raw value: 1.26Roll in deg: 7.38,              Heading: 359.68
+22210, 
+22248, Wind Angle: 19	 Sail, from RC: 1536  angle out: 96  Rudder, from RC: 1443  angle out: 88
+22262, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 0.23
+22274, 
+22313, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1419  angle out: 84
+22328, Roll raw value: 1.14Roll in deg: 8.20,              Heading: 2.97
+22339, 
+22380, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1376  angle out: 78
+22401, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.85
+22412, 
+22446, Wind Angle: 20	 Sail, from RC: 1539  angle out: 96  Rudder, from RC: 1336  angle out: 71
+22459, Roll raw value: 1.10Roll in deg: 6.47,              Heading: 359.15
+22470, 
+22511, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1276  angle out: 62
+22525, Roll raw value: 1.41Roll in deg: 8.82,              Heading: 4.63
+22537, 
+22578, Wind Angle: 18	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1256  angle out: 59
+22594, Roll raw value: 1.37Roll in deg: 8.33,              Heading: 0.61
+22606, 
+22643, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1245  angle out: 58
+22657, Roll raw value: 1.02Roll in deg: 6.11,              Heading: 359.92
+22669, 
+22709, Wind Angle: 20	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1197  angle out: 50
+22723, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.94
+22737, 
+22774, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1233  angle out: 56
+22789, Roll raw value: 1.37Roll in deg: 8.20,              Heading: 0.74
+22800, 
+22841, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1253  angle out: 59
+22854, Roll raw value: 1.37Roll in deg: 8.00,              Heading: 359.95
+22866, 
+22907, Wind Angle: 27	 Sail, from RC: 1545  angle out: 97  Rudder, from RC: 1348  angle out: 73
+22921, Roll raw value: 1.06Roll in deg: 6.26,              Heading: 359.77
+22935, 
+22972, Wind Angle: 20	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1463  angle out: 90
+22986, Roll raw value: 1.22Roll in deg: 7.01,              Heading: 0.20
+22998, 
+23038, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1490  angle out: 94
+23052, Roll raw value: 1.10Roll in deg: 6.82,              Heading: 0.19
+23064, 
+23105, Wind Angle: 27	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1490  angle out: 94
+23118, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 2.47
+23133, 
+23171, Wind Angle: 20	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1482  angle out: 93
+23184, Roll raw value: 1.10Roll in deg: 7.27,              Heading: 0.13
+23195, 
+23236, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1490  angle out: 94
+23250, Roll raw value: 1.18Roll in deg: 6.90,              Heading: 359.36
+23262, 
+23303, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1491  angle out: 94
+23319, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 359.59
+23331, 
+23368, Wind Angle: 27	 Sail, from RC: 1529  angle out: 95  Rudder, from RC: 1496  angle out: 95
+23382, Roll raw value: 1.10Roll in deg: 6.68,              Heading: 0.21
+23393, 
+23434, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1555  angle out: 104
+23448, Roll raw value: 1.10Roll in deg: 6.47,              Heading: 359.56
+23459, 
+23500, Wind Angle: 18	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1595  angle out: 110
+23517, Roll raw value: 0.71Roll in deg: 8.69,              Heading: 0.32
+23529, 
+23566, Wind Angle: 20	 Sail, from RC: 1547  angle out: 97  Rudder, from RC: 1649  angle out: 118
+23579, Roll raw value: 0.98Roll in deg: 5.83,              Heading: 359.78
+23591, 
+23632, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1658  angle out: 120
+23646, Roll raw value: 0.98Roll in deg: 5.87,              Heading: 359.65
+23657, 
+23697, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1705  angle out: 127
+23717, Roll raw value: 1.26Roll in deg: 7.41,              Heading: 359.62
+23730, 
+23763, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1722  angle out: 129
+23777, Roll raw value: 1.26Roll in deg: 7.47,              Heading: 358.87
+23789, 
+23830, Wind Angle: 20	 Sail, from RC: 1544  angle out: 97  Rudder, from RC: 1689  angle out: 124
+23843, Roll raw value: 1.02Roll in deg: 6.03,              Heading: 0.19
+23858, 
+23895, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1720  angle out: 129
+23909, Roll raw value: 1.29Roll in deg: 7.77,              Heading: 1.15
+23920, 
+23961, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1694  angle out: 125
+23975, Roll raw value: 0.98Roll in deg: 5.92,              Heading: 359.90
+23987, 
+24027, Wind Angle: 28	 Sail, from RC: 1545  angle out: 97  Rudder, from RC: 1599  angle out: 111
+24040, Roll raw value: 1.10Roll in deg: 5.92,              Heading: 359.46
+24054, 
+24093, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1495  angle out: 95
+24107, Roll raw value: 1.41Roll in deg: 8.39,              Heading: 359.76
+24118, 
+24159, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1499  angle out: 95
+24173, Roll raw value: 1.37Roll in deg: 8.16,              Heading: 359.30
+24184, 
+24224, Wind Angle: 18	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+24241, Roll raw value: 1.26Roll in deg: 7.53,              Heading: 360.00
+24253, 
+24291, Wind Angle: 20	 Sail, from RC: 1538  angle out: 96  Rudder, from RC: 1470  angle out: 91
+24304, Roll raw value: 1.02Roll in deg: 6.16,              Heading: 359.87
+24316, 
+24356, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1500  angle out: 95
+24370, Roll raw value: 1.26Roll in deg: 7.35,              Heading: 359.10
+24381, 
+24422, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+24438, Roll raw value: 1.22Roll in deg: 7.13,              Heading: 359.37
+24451, 
+24488, Wind Angle: 25	 Sail, from RC: 1530  angle out: 95  Rudder, from RC: 1480  angle out: 92
+24502, Roll raw value: 1.02Roll in deg: 6.23,              Heading: 0.10
+24514, 
+24554, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1500  angle out: 95
+24567, Roll raw value: 1.26Roll in deg: 7.69,              Heading: 358.80
+24579, 
+24620, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+24636, Roll raw value: 1.18Roll in deg: 6.95,              Heading: 0.37
+24648, 
+24685, Wind Angle: 25	 Sail, from RC: 1559  angle out: 98  Rudder, from RC: 1501  angle out: 96
+24698, Roll raw value: 1.14Roll in deg: 7.03,              Heading: 0.13
+24711, 
+24752, Wind Angle: 19	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1479  angle out: 92
+24765, Roll raw value: 1.02Roll in deg: 5.94,              Heading: 358.71
+24779, 
+24818, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1495  angle out: 95
+24832, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 358.68
+24843, 
+24883, Wind Angle: 20	 Sail, from RC: 1560  angle out: 98  Rudder, from RC: 1501  angle out: 96
+24897, Roll raw value: 1.06Roll in deg: 6.78,              Heading: 359.72
+24908, 
+24949, Wind Angle: 18	 Sail, from RC: 1529  angle out: 95  Rudder, from RC: 1480  angle out: 92
+24963, Roll raw value: 1.02Roll in deg: 6.13,              Heading: 359.31
+25069, 
+25279, Wind Angle: 20	 Sail, from RC: 1519  angle out: 94  Rudder, from RC: 1501  angle out: 96
+25427, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 358.79
+25439, 
+25477, Wind Angle: 20	 Sail, from RC: 1379  angle out: 81  Rudder, from RC: 1501  angle out: 96
+25490, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 359.41
+25502, 
+25542, Wind Angle: 20	 Sail, from RC: 1299  angle out: 74  Rudder, from RC: 1501  angle out: 96
+25555, Roll raw value: 1.22Roll in deg: 7.42,              Heading: 359.43
+25578, 
+25608, Wind Angle: 20	 Sail, from RC: 1191  angle out: 64  Rudder, from RC: 1495  angle out: 95
+25622, Roll raw value: 1.26Roll in deg: 7.59,              Heading: 359.28
+25633, 
+25673, Wind Angle: 18	 Sail, from RC: 1113  angle out: 57  Rudder, from RC: 1501  angle out: 96
+25687, Roll raw value: 1.53Roll in deg: 8.40,              Heading: 359.34
+25699, 
+25740, Wind Angle: 20	 Sail, from RC: 1086  angle out: 55  Rudder, from RC: 1501  angle out: 96
+25756, Roll raw value: 0.75Roll in deg: 9.88,              Heading: 358.98
+25767, 
+25804, Wind Angle: 20	 Sail, from RC: 1084  angle out: 55  Rudder, from RC: 1495  angle out: 95
+25819, Roll raw value: 0.43Roll in deg: 2.64,              Heading: 359.17
+25830, 
+25848, Wind Angle: 20	 Sail, from RC: 1054  angle out: 55  Rudder, from RC: 1474  angle out: 91
+25863, Roll raw value: 1.57Roll in deg: 8.62,              Heading: 358.82
+25874, 
+25915, Wind Angle: 20	 Sail, from RC: 1085  angle out: 55  Rudder, from RC: 1494  angle out: 95
+25931, Roll raw value: 1.37Roll in deg: 8.00,              Heading: 0.05
+25944, 
+25980, Wind Angle: 18	 Sail, from RC: 1085  angle out: 55  Rudder, from RC: 1501  angle out: 96
+25994, Roll raw value: 0.75Roll in deg: 4.45,              Heading: 0.20
+26006, 
+26024, Wind Angle: 17	 Sail, from RC: 1084  angle out: 55  Rudder, from RC: 1501  angle out: 96
+26038, Roll raw value: 1.57Roll in deg: 8.85,              Heading: 359.79
+26050, 
+26091, Wind Angle: 20	 Sail, from RC: 1084  angle out: 55  Rudder, from RC: 1443  angle out: 88
+26107, Roll raw value: 1.41Roll in deg: 8.07,              Heading: 358.41
+26119, 
+26157, Wind Angle: 19	 Sail, from RC: 1085  angle out: 55  Rudder, from RC: 1494  angle out: 95
+26170, Roll raw value: 1.26Roll in deg: 7.21,              Heading: 359.92
+26181, 
+26222, Wind Angle: 20	 Sail, from RC: 1085  angle out: 55  Rudder, from RC: 1501  angle out: 96
+26235, Roll raw value: 0.78Roll in deg: 4.84,              Heading: 359.37
+26251, 
+26289, Wind Angle: 23	 Sail, from RC: 1054  angle out: 55  Rudder, from RC: 1474  angle out: 91
+26302, Roll raw value: 0.43Roll in deg: 2.44,              Heading: 359.73
+26314, 
+26354, Wind Angle: 20	 Sail, from RC: 1084  angle out: 55  Rudder, from RC: 1494  angle out: 95
+26368, Roll raw value: 1.53Roll in deg: 9.19,              Heading: 359.00
+26379, 
+26420, Wind Angle: 20	 Sail, from RC: 1084  angle out: 55  Rudder, from RC: 1501  angle out: 96
+26434, Roll raw value: 0.86Roll in deg: 8.40,              Heading: 0.28
+26448, 
+26485, Wind Angle: 25	 Sail, from RC: 1085  angle out: 55  Rudder, from RC: 1495  angle out: 95
+26499, Roll raw value: 1.14Roll in deg: 6.54,              Heading: 359.54
+26511, 
+26529, Wind Angle: 20	 Sail, from RC: 1058  angle out: 55  Rudder, from RC: 1471  angle out: 91
+26544, Roll raw value: 0.59Roll in deg: 3.48,              Heading: 359.74
+26555, 
+26596, Wind Angle: 18	 Sail, from RC: 1084  angle out: 55  Rudder, from RC: 1495  angle out: 95
+26612, Roll raw value: 1.06Roll in deg: 5.03,              Heading: 359.95
+26625, 
+26661, Wind Angle: 20	 Sail, from RC: 1085  angle out: 55  Rudder, from RC: 1501  angle out: 96
+26679, Roll raw value: 1.06Roll in deg: 6.19,              Heading: 0.38
+26690, 
+26727, Wind Angle: 30	 Sail, from RC: 1058  angle out: 55  Rudder, from RC: 1501  angle out: 96
+26741, Roll raw value: 1.18Roll in deg: 7.07,              Heading: 359.51
+26753, 
+26793, Wind Angle: 20	 Sail, from RC: 1084  angle out: 55  Rudder, from RC: 1494  angle out: 95
+26810, Roll raw value: 1.49Roll in deg: 9.71,              Heading: 359.83
+26822, 
+26859, Wind Angle: 18	 Sail, from RC: 1085  angle out: 55  Rudder, from RC: 1501  angle out: 96
+26872, Roll raw value: 1.45Roll in deg: 7.98,              Heading: 359.15
+26885, 
+26926, Wind Angle: 20	 Sail, from RC: 1078  angle out: 55  Rudder, from RC: 1501  angle out: 96
+26939, Roll raw value: 1.53Roll in deg: 9.23,              Heading: 359.23
+26950, 
+26991, Wind Angle: 20	 Sail, from RC: 1084  angle out: 55  Rudder, from RC: 1473  angle out: 91
+27008, Roll raw value: 0.67Roll in deg: 4.00,              Heading: 0.14
+27020, 
+27057, Wind Angle: 18	 Sail, from RC: 1084  angle out: 55  Rudder, from RC: 1501  angle out: 96
+27070, Roll raw value: 0.82Roll in deg: 5.26,              Heading: 359.59
+27082, 
+27123, Wind Angle: 20	 Sail, from RC: 1078  angle out: 55  Rudder, from RC: 1501  angle out: 96
+27137, Roll raw value: 0.59Roll in deg: 3.55,              Heading: 0.07
+27151, 
+27188, Wind Angle: 27	 Sail, from RC: 1053  angle out: 55  Rudder, from RC: 1474  angle out: 91
+27202, Roll raw value: 1.02Roll in deg: 6.59,              Heading: 359.39
+27213, 
+27254, Wind Angle: 20	 Sail, from RC: 1083  angle out: 55  Rudder, from RC: 1501  angle out: 96
+27269, Roll raw value: 1.26Roll in deg: 6.52,              Heading: 359.40
+27280, 
+27321, Wind Angle: 18	 Sail, from RC: 1083  angle out: 55  Rudder, from RC: 1501  angle out: 96
+27334, Roll raw value: 1.96Roll in deg: 11.82,              Heading: 0.38
+27348, 
+27386, Wind Angle: 27	 Sail, from RC: 1083  angle out: 55  Rudder, from RC: 1495  angle out: 95
+27400, Roll raw value: 1.10Roll in deg: 7.06,              Heading: 358.97
+27412, 
+27452, Wind Angle: 20	 Sail, from RC: 1083  angle out: 55  Rudder, from RC: 1479  angle out: 92
+27466, Roll raw value: 0.71Roll in deg: 7.05,              Heading: 0.18
+27478, 
+27517, Wind Angle: 18	 Sail, from RC: 1077  angle out: 55  Rudder, from RC: 1501  angle out: 96
+27531, Roll raw value: 1.61Roll in deg: 9.06,              Heading: 0.29
+27546, 
+27584, Wind Angle: 20	 Sail, from RC: 1085  angle out: 55  Rudder, from RC: 1495  angle out: 95
+27597, Roll raw value: 1.53Roll in deg: 9.62,              Heading: 358.46
+27610, 
+27651, Wind Angle: 20	 Sail, from RC: 1063  angle out: 55  Rudder, from RC: 1471  angle out: 91
+27664, Roll raw value: 1.02Roll in deg: 7.75,              Heading: 359.60
+27675, 
+27715, Wind Angle: 20	 Sail, from RC: 1078  angle out: 55  Rudder, from RC: 1501  angle out: 96
+27731, Roll raw value: 0.43Roll in deg: 3.31,              Heading: 359.71
+27744, 
+27782, Wind Angle: 18	 Sail, from RC: 1084  angle out: 55  Rudder, from RC: 1495  angle out: 95
+27795, Roll raw value: 0.86Roll in deg: 5.24,              Heading: 359.03
+27807, 
+27847, Wind Angle: 20	 Sail, from RC: 1063  angle out: 55  Rudder, from RC: 1501  angle out: 96
+27860, Roll raw value: 1.45Roll in deg: 8.32,              Heading: 0.36
+27872, 
+27891, Wind Angle: 19	 Sail, from RC: 1092  angle out: 55  Rudder, from RC: 1479  angle out: 92
+27908, Roll raw value: 1.22Roll in deg: 7.24,              Heading: 359.33
+27919, 
+27958, Wind Angle: 20	 Sail, from RC: 1187  angle out: 64  Rudder, from RC: 1501  angle out: 96
+27975, Roll raw value: 1.18Roll in deg: 7.46,              Heading: 359.01
+27986, 
+28023, Wind Angle: 20	 Sail, from RC: 1379  angle out: 81  Rudder, from RC: 1495  angle out: 95
+28038, Roll raw value: 1.45Roll in deg: 8.52,              Heading: 359.46
+28049, 
+28089, Wind Angle: 25	 Sail, from RC: 1451  angle out: 88  Rudder, from RC: 1481  angle out: 93
+28105, Roll raw value: 0.78Roll in deg: 4.57,              Heading: 359.49
+28118, 
+28155, Wind Angle: 20	 Sail, from RC: 1568  angle out: 99  Rudder, from RC: 1501  angle out: 96
+28169, Roll raw value: 0.78Roll in deg: 4.71,              Heading: 359.75
+28181, 
+28222, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1494  angle out: 95
+28235, Roll raw value: 1.57Roll in deg: 9.05,              Heading: 0.37
+28250, 
+28286, Wind Angle: 20	 Sail, from RC: 1571  angle out: 99  Rudder, from RC: 1501  angle out: 96
+28301, Roll raw value: 0.98Roll in deg: 6.02,              Heading: 359.67
+28312, 
+28353, Wind Angle: 18	 Sail, from RC: 1597  angle out: 101  Rudder, from RC: 1479  angle out: 92
+28366, Roll raw value: 1.26Roll in deg: 7.47,              Heading: 359.48
+28379, 
+28420, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1495  angle out: 95
+28433, Roll raw value: 0.78Roll in deg: 5.12,              Heading: 359.77
+28447, 
+28484, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+28498, Roll raw value: 1.22Roll in deg: 6.99,              Heading: 359.55
+28510, 
+28551, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1471  angle out: 91
+28564, Roll raw value: 1.29Roll in deg: 7.80,              Heading: 359.69
+28576, 
+28616, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1495  angle out: 95
+28633, Roll raw value: 1.26Roll in deg: 7.21,              Heading: 0.01
+28644, 
+28683, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+28696, Roll raw value: 0.78Roll in deg: 4.45,              Heading: 359.58
+28707, 
+28748, Wind Angle: 20	 Sail, from RC: 1567  angle out: 99  Rudder, from RC: 1501  angle out: 96
+28763, Roll raw value: 0.90Roll in deg: 5.32,              Heading: 359.75
+28774, 
+28814, Wind Angle: 18	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1495  angle out: 95
+28830, Roll raw value: 1.49Roll in deg: 3.49,              Heading: 359.90
+28843, 
+28880, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+28894, Roll raw value: 1.26Roll in deg: 7.32,              Heading: 359.57
+28906, 
+28947, Wind Angle: 27	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+28960, Roll raw value: 0.78Roll in deg: 4.82,              Heading: 359.40
+28972, 
+29011, Wind Angle: 20	 Sail, from RC: 1573  angle out: 99  Rudder, from RC: 1464  angle out: 90
+29028, Roll raw value: 0.24Roll in deg: 1.31,              Heading: 359.89
+29040, 
+29078, Wind Angle: 18	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1500  angle out: 95
+29091, Roll raw value: 1.06Roll in deg: 6.24,              Heading: 0.52
+29104, 
+29144, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+29157, Roll raw value: 1.14Roll in deg: 6.95,              Heading: 359.76
+29171, 
+29209, Wind Angle: 27	 Sail, from RC: 1564  angle out: 98  Rudder, from RC: 1474  angle out: 91
+29223, Roll raw value: 0.51Roll in deg: 3.10,              Heading: 0.01
+29235, 
+29276, Wind Angle: 17	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+29297, Roll raw value: 1.26Roll in deg: 7.04,              Heading: 359.00
+29309, 
+29341, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+29355, Roll raw value: 1.06Roll in deg: 6.67,              Heading: 358.99
+29369, 
+29408, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1494  angle out: 95
+29421, Roll raw value: 1.57Roll in deg: 8.78,              Heading: 359.78
+29432, 
+29472, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1479  angle out: 92
+29487, Roll raw value: 1.61Roll in deg: 9.73,              Heading: 359.98
+29498, 
+29539, Wind Angle: 18	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1501  angle out: 96
+29555, Roll raw value: 1.37Roll in deg: 8.54,              Heading: 359.66
+29568, 
+29605, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1494  angle out: 95
+29619, Roll raw value: 1.61Roll in deg: 9.28,              Heading: 359.17
+29631, 
+29670, Wind Angle: 20	 Sail, from RC: 1558  angle out: 98  Rudder, from RC: 1480  angle out: 92
+29684, Roll raw value: 1.26Roll in deg: 6.95,              Heading: 359.58
+29696, 
+29736, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+29753, Roll raw value: 0.78Roll in deg: 4.69,              Heading: 359.92
+29765, 
+29802, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1495  angle out: 95
+29815, Roll raw value: 1.26Roll in deg: 7.66,              Heading: 359.56
+29828, 
+29869, Wind Angle: 31	 Sail, from RC: 1567  angle out: 99  Rudder, from RC: 1501  angle out: 96
+29882, Roll raw value: 1.33Roll in deg: 7.93,              Heading: 359.76
+29893, 
+29934, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+29950, Roll raw value: 1.22Roll in deg: 7.64,              Heading: 359.19
+29963, 
+30000, Wind Angle: 18	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1494  angle out: 95
+30013, Roll raw value: 0.90Roll in deg: 5.06,              Heading: 358.89
+30025, 
+30066, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+30080, Roll raw value: 1.22Roll in deg: 7.27,              Heading: 359.69
+30094, 
+30133, Wind Angle: 20	 Sail, from RC: 1573  angle out: 99  Rudder, from RC: 1465  angle out: 90
+30146, Roll raw value: 1.02Roll in deg: 6.39,              Heading: 359.31
+30157, 
+30197, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1495  angle out: 95
+30212, Roll raw value: 1.22Roll in deg: 6.72,              Heading: 359.51
+30223, 
+30264, Wind Angle: 18	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+30277, Roll raw value: 1.10Roll in deg: 5.06,              Heading: 0.65
+30291, 
+30329, Wind Angle: 20	 Sail, from RC: 1563  angle out: 98  Rudder, from RC: 1478  angle out: 92
+30343, Roll raw value: 0.55Roll in deg: 4.35,              Heading: 0.19
+30354, 
+30395, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1494  angle out: 95
+30409, Roll raw value: 1.06Roll in deg: 6.61,              Heading: 359.41
+30420, 
+30461, Wind Angle: 18	 Sail, from RC: 1587  angle out: 100  Rudder, from RC: 1501  angle out: 96
+30475, Roll raw value: 1.22Roll in deg: 7.24,              Heading: 358.25
+30485, 
+30504, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+30519, Roll raw value: 1.33Roll in deg: 8.34,              Heading: 359.70
+30530, 
+30594, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1501  angle out: 96
+30619, Roll raw value: 1.22Roll in deg: 7.27,              Heading: 359.81
+30630, 
+30658, Wind Angle: 20	 Sail, from RC: 1587  angle out: 100  Rudder, from RC: 1501  angle out: 96
+30674, Roll raw value: 1.26Roll in deg: 7.18,              Heading: 359.48
+30687, 
+30725, Wind Angle: 18	 Sail, from RC: 1591  angle out: 101  Rudder, from RC: 1501  angle out: 96
+30738, Roll raw value: 1.10Roll in deg: 6.88,              Heading: 359.65
+30750, 
+30791, Wind Angle: 20	 Sail, from RC: 1564  angle out: 98  Rudder, from RC: 1474  angle out: 91
+30804, Roll raw value: 0.90Roll in deg: 5.61,              Heading: 359.48
+30817, 
+30856, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+30873, Roll raw value: 1.10Roll in deg: 6.34,              Heading: 4.23
+30884, 
+30922, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1495  angle out: 95
+30937, Roll raw value: 1.37Roll in deg: 7.79,              Heading: 0.24
+30948, 
+30989, Wind Angle: 28	 Sail, from RC: 1573  angle out: 99  Rudder, from RC: 1495  angle out: 95
+31002, Roll raw value: 1.10Roll in deg: 6.74,              Heading: 359.62
+31014, 
+31054, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1479  angle out: 92
+31068, Roll raw value: 1.10Roll in deg: 6.65,              Heading: 4.44
+31079, 
+31120, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1495  angle out: 95
+31134, Roll raw value: 0.98Roll in deg: 5.83,              Heading: 359.25
+31145, 
+31185, Wind Angle: 18	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1494  angle out: 95
+31199, Roll raw value: 1.18Roll in deg: 6.90,              Heading: 0.63
+31305, 
+31494, Wind Angle: 18	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1479  angle out: 92
+31639, Roll raw value: 1.14Roll in deg: 7.03,              Heading: 359.20
+31650, 
+31690, Wind Angle: 27	 Sail, from RC: 1557  angle out: 98  Rudder, from RC: 1480  angle out: 92
+31705, Roll raw value: 1.06Roll in deg: 6.31,              Heading: 359.52
+31716, 
+31757, Wind Angle: 18	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1501  angle out: 96
+31770, Roll raw value: 1.14Roll in deg: 7.01,              Heading: 359.02
+31785, 
+31823, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1494  angle out: 95
+31837, Roll raw value: 1.10Roll in deg: 6.49,              Heading: 0.29
+31849, 
+31889, Wind Angle: 31	 Sail, from RC: 1567  angle out: 99  Rudder, from RC: 1501  angle out: 96
+31902, Roll raw value: 1.06Roll in deg: 6.72,              Heading: 0.11
+31913, 
+31954, Wind Angle: 20	 Sail, from RC: 1591  angle out: 101  Rudder, from RC: 1500  angle out: 95
+31971, Roll raw value: 1.18Roll in deg: 6.87,              Heading: 358.65
+31983, 
+32020, Wind Angle: 18	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1495  angle out: 95
+32033, Roll raw value: 1.10Roll in deg: 6.44,              Heading: 359.82
+32046, 
+32087, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+32100, Roll raw value: 1.26Roll in deg: 7.13,              Heading: 358.69
+32112, 
+32152, Wind Angle: 20	 Sail, from RC: 1566  angle out: 99  Rudder, from RC: 1471  angle out: 91
+32168, Roll raw value: 1.06Roll in deg: 6.37,              Heading: 359.83
+32181, 
+32218, Wind Angle: 17	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1495  angle out: 95
+32232, Roll raw value: 1.18Roll in deg: 7.28,              Heading: 0.55
+32243, 
+32284, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+32306, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 0.33
+32321, 
+32350, Wind Angle: 20	 Sail, from RC: 1567  angle out: 99  Rudder, from RC: 1501  angle out: 96
+32366, Roll raw value: 1.06Roll in deg: 6.29,              Heading: 359.60
+32377, 
+32415, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1494  angle out: 95
+32430, Roll raw value: 1.26Roll in deg: 7.13,              Heading: 359.06
+32441, 
+32482, Wind Angle: 18	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1500  angle out: 95
+32495, Roll raw value: 1.10Roll in deg: 6.47,              Heading: 359.60
+32510, 
+32547, Wind Angle: 27	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+32561, Roll raw value: 1.06Roll in deg: 6.34,              Heading: 359.29
+32573, 
+32614, Wind Angle: 20	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1473  angle out: 91
+32627, Roll raw value: 1.22Roll in deg: 7.24,              Heading: 359.70
+32638, 
+32679, Wind Angle: 20	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1501  angle out: 96
+32694, Roll raw value: 1.14Roll in deg: 6.70,              Heading: 359.77
+32708, 
+32745, Wind Angle: 18	 Sail, from RC: 1605  angle out: 102  Rudder, from RC: 1501  angle out: 96
+32758, Roll raw value: 1.10Roll in deg: 7.63,              Heading: 358.86
+32771, 
+32812, Wind Angle: 20	 Sail, from RC: 1669  angle out: 108  Rudder, from RC: 1474  angle out: 91
+32825, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 358.90
+32836, 
+32877, Wind Angle: 20	 Sail, from RC: 1745  angle out: 115  Rudder, from RC: 1501  angle out: 96
+32893, Roll raw value: 0.71Roll in deg: 4.25,              Heading: 359.01
+32906, 
+32943, Wind Angle: 18	 Sail, from RC: 1746  angle out: 115  Rudder, from RC: 1501  angle out: 96
+32956, Roll raw value: 1.37Roll in deg: 7.50,              Heading: 359.25
+32968, 
+33009, @returning to automatic command 0
+33021, Wind Angle: 30	 Sail, from RC: 1851  angle out: 55  Rudder, from RC: 1495  angle out: 95
+33033, Roll raw value: 1.02Roll in deg: 6.37,              Heading: 359.93
+33045, 
+33075, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 76
+33091, Roll raw value: 0.86Roll in deg: 5.07,              Heading: 0.06
+33102, 
+33140, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 76
+33155, Roll raw value: 2.16Roll in deg: 12.26,              Heading: 359.80
+33166, 
+33207, Wind Angle: 18	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1494  angle out: 75
+33220, Roll raw value: 1.26Roll in deg: 7.07,              Heading: 359.96
+33235, 
+33272, Wind Angle: 20	 Sail, from RC: 1851  angle out: 55  Rudder, from RC: 1471  angle out: 71
+33286, Roll raw value: 0.24Roll in deg: 1.86,              Heading: 359.02
+33298, 
+33338, sculling right
+33351, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1500  angle out: 115
+33362, Roll raw value: 1.53Roll in deg: 8.90,              Heading: 358.74
+33374, 
+33404, sculling left
+33418, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1495  angle out: 75
+33431, Roll raw value: 0.90Roll in deg: 6.16,              Heading: 359.58
+33443, 
+33470, Wind Angle: 27	 Sail, from RC: 1821  angle out: 55  Rudder, from RC: 1500  angle out: 75
+33483, Roll raw value: 1.84Roll in deg: 10.65,              Heading: 359.17
+33496, 
+33537, Wind Angle: 20	 Sail, from RC: 1879  angle out: 55  Rudder, from RC: 1494  angle out: 75
+33558, Roll raw value: 1.02Roll in deg: 6.56,              Heading: 359.97
+33573, 
+33601, sculling right
+33614, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1495  angle out: 115
+33629, Roll raw value: 1.49Roll in deg: 6.88,              Heading: 359.42
+33640, 
+33668, Wind Angle: 25	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+33681, Roll raw value: 0.98Roll in deg: 6.66,              Heading: 358.82
+33693, 
+33734, Wind Angle: 20	 Sail, from RC: 1878  angle out: 55  Rudder, from RC: 1443  angle out: 108
+33747, Roll raw value: 0.82Roll in deg: 4.27,              Heading: 359.67
+33762, 
+33800, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1494  angle out: 115
+33813, Roll raw value: 1.14Roll in deg: 7.51,              Heading: 359.20
+33824, 
+33865, sculling left
+33879, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 76
+33890, Roll raw value: 1.29Roll in deg: 6.89,              Heading: 359.46
+33901, 
+33931, Wind Angle: 18	 Sail, from RC: 1848  angle out: 55  Rudder, from RC: 1474  angle out: 71
+33944, Roll raw value: 1.33Roll in deg: 8.34,              Heading: 359.39
+33959, 
+33997, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1495  angle out: 75
+34011, Roll raw value: 0.55Roll in deg: 3.59,              Heading: 0.26
+34022, 
+34063, sculling right
+34076, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+34087, Roll raw value: 1.26Roll in deg: 7.24,              Heading: 0.20
+34099, 
+34128, Wind Angle: 18	 Sail, from RC: 1869  angle out: 55  Rudder, from RC: 1495  angle out: 115
+34145, Roll raw value: 1.18Roll in deg: 5.32,              Heading: 0.15
+34157, 
+34195, Wind Angle: 20	 Sail, from RC: 1873  angle out: 55  Rudder, from RC: 1473  angle out: 111
+34208, Roll raw value: 1.14Roll in deg: 6.25,              Heading: 359.95
+34221, 
+34260, sculling left
+34274, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 76
+34285, Roll raw value: 1.61Roll in deg: 9.65,              Heading: 359.69
+34299, 
+34326, Wind Angle: 20	 Sail, from RC: 1879  angle out: 55  Rudder, from RC: 1497  angle out: 75
+34340, Roll raw value: 1.06Roll in deg: 5.93,              Heading: 359.34
+34352, 
+34393, Wind Angle: 18	 Sail, from RC: 1850  angle out: 55  Rudder, from RC: 1464  angle out: 70
+34406, Roll raw value: 0.86Roll in deg: 5.42,              Heading: 0.71
+34418, 
+34458, sculling right
+34470, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+34482, Roll raw value: 1.26Roll in deg: 9.54,              Heading: 0.75
+34496, 
+34525, Wind Angle: 20	 Sail, from RC: 1878  angle out: 55  Rudder, from RC: 1495  angle out: 115
+34538, Roll raw value: 1.26Roll in deg: 6.94,              Heading: 359.92
+34549, 
+34590, Wind Angle: 18	 Sail, from RC: 1852  angle out: 55  Rudder, from RC: 1495  angle out: 115
+34605, Roll raw value: 1.37Roll in deg: 10.18,              Heading: 359.15
+34616, 
+34656, sculling left
+34668, Wind Angle: 20	 Sail, from RC: 1873  angle out: 55  Rudder, from RC: 1501  angle out: 76
+34682, Roll raw value: 1.10Roll in deg: 7.00,              Heading: 1.10
+34694, 
+34722, Wind Angle: 20	 Sail, from RC: 1878  angle out: 55  Rudder, from RC: 1495  angle out: 75
+34744, Roll raw value: 1.10Roll in deg: 6.63,              Heading: 359.59
+34774, 
+34809, Wind Angle: 30	 Sail, from RC: 1852  angle out: 55  Rudder, from RC: 1501  angle out: 96
+34823, Roll raw value: 1.22Roll in deg: 1.30,              Heading: 0.62
+34835, 
+34875, sculling right
+34888, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1495  angle out: 115
+34903, Roll raw value: 1.29Roll in deg: 8.69,              Heading: 358.93
+34914, 
+34941, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+34956, Roll raw value: 0.90Roll in deg: 5.04,              Heading: 0.19
+34967, 
+35007, sculling left
+35019, Wind Angle: 18	 Sail, from RC: 1873  angle out: 55  Rudder, from RC: 1501  angle out: 76
+35031, Roll raw value: 0.78Roll in deg: 4.65,              Heading: 359.42
+35046, 
+35074, Wind Angle: 20	 Sail, from RC: 1850  angle out: 55  Rudder, from RC: 1464  angle out: 70
+35087, Roll raw value: 0.71Roll in deg: 4.20,              Heading: 359.74
+35099, 
+35138, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 76
+35152, Roll raw value: 1.10Roll in deg: 6.71,              Heading: 0.32
+35164, 
+35205, sculling right
+35218, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+35231, Roll raw value: 1.61Roll in deg: 9.54,              Heading: 359.67
+35244, 
+35271, Wind Angle: 25	 Sail, from RC: 1852  angle out: 55  Rudder, from RC: 1495  angle out: 115
+35284, Roll raw value: 0.63Roll in deg: 4.42,              Heading: 0.60
+35297, 
+35337, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+35350, Roll raw value: 0.12Roll in deg: 0.72,              Heading: 0.68
+35361, 
+35402, sculling left
+35416, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 76
+35430, Roll raw value: 1.33Roll in deg: 7.37,              Heading: 0.28
+35441, 
+35468, Wind Angle: 25	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1495  angle out: 75
+35481, Roll raw value: 1.06Roll in deg: 7.43,              Heading: 0.12
+35493, 
+35534, Wind Angle: 20	 Sail, from RC: 1873  angle out: 55  Rudder, from RC: 1480  angle out: 72
+35548, Roll raw value: 1.06Roll in deg: 10.55,              Heading: 0.03
+35560, 
+35600, sculling right
+35613, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+35624, Roll raw value: 0.94Roll in deg: 6.65,              Heading: 359.99
+35636, 
+35665, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1494  angle out: 115
+35680, Roll raw value: 0.98Roll in deg: 6.71,              Heading: 358.94
+35691, 
+35732, Wind Angle: 18	 Sail, from RC: 1842  angle out: 55  Rudder, from RC: 1480  angle out: 112
+35745, Roll raw value: 1.18Roll in deg: 7.04,              Heading: 359.62
+35761, 
+35799, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+35812, Roll raw value: 0.24Roll in deg: 1.58,              Heading: 359.06
+35824, 
+35863, sculling left
+35876, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1495  angle out: 75
+35888, Roll raw value: 0.51Roll in deg: 3.10,              Heading: 0.71
+35899, 
+35930, Wind Angle: 28	 Sail, from RC: 1852  angle out: 55  Rudder, from RC: 1501  angle out: 76
+35954, Roll raw value: 1.22Roll in deg: 7.71,              Heading: 359.54
+35972, 
+35995, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 76
+36009, Roll raw value: 0.86Roll in deg: 4.34,              Heading: 359.65
+36021, 
+36061, sculling right
+36074, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1495  angle out: 115
+36085, Roll raw value: 0.90Roll in deg: 5.64,              Heading: 0.37
+36097, 
+36127, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1500  angle out: 115
+36144, Roll raw value: 1.02Roll in deg: 6.53,              Heading: 358.63
+36156, 
+36193, Wind Angle: 18	 Sail, from RC: 1850  angle out: 55  Rudder, from RC: 1471  angle out: 111
+36206, Roll raw value: 0.78Roll in deg: 4.27,              Heading: 0.47
+36218, 
+36259, sculling left
+36272, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1494  angle out: 75
+36283, Roll raw value: 1.37Roll in deg: 8.20,              Heading: 359.36
+36297, 
+36326, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 76
+36339, Roll raw value: 1.06Roll in deg: 7.18,              Heading: 358.85
+36350, 
+36390, Wind Angle: 27	 Sail, from RC: 1851  angle out: 55  Rudder, from RC: 1501  angle out: 76
+36404, Roll raw value: 2.43Roll in deg: 17.39,              Heading: 359.32
+36416, 
+36457, sculling right
+36469, Wind Angle: 18	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1495  angle out: 115
+36484, Roll raw value: 1.33Roll in deg: 7.81,              Heading: 358.80
+36496, 
+36523, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+36536, Roll raw value: 0.98Roll in deg: 7.93,              Heading: 358.65
+36548, 
+36588, Wind Angle: 27	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+36602, Roll raw value: 1.06Roll in deg: 6.64,              Heading: 359.81
+36614, 
+36655, sculling left
+36668, Wind Angle: 18	 Sail, from RC: 1851  angle out: 55  Rudder, from RC: 1465  angle out: 70
+36681, Roll raw value: 1.53Roll in deg: 9.38,              Heading: 1.45
+36694, 
+36720, Wind Angle: 20	 Sail, from RC: 1873  angle out: 55  Rudder, from RC: 1501  angle out: 76
+36733, Roll raw value: 1.02Roll in deg: 6.13,              Heading: 359.06
+36746, 
+36787, Wind Angle: 20	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1502  angle out: 76
+36800, Roll raw value: 1.69Roll in deg: 9.88,              Heading: 1.16
+36814, 
+36851, sculling right
+36865, Wind Angle: 22	 Sail, from RC: 1842  angle out: 55  Rudder, from RC: 1474  angle out: 111
+36876, Roll raw value: 2.08Roll in deg: 11.61,              Heading: 359.45
+36887, 
+36918, Wind Angle: 22	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+36931, Roll raw value: 1.06Roll in deg: 6.37,              Heading: 359.34
+36943, 
+36984, Wind Angle: 28	 Sail, from RC: 1872  angle out: 55  Rudder, from RC: 1501  angle out: 116
+36998, Roll raw value: 0.78Roll in deg: 5.83,              Heading: 359.48
+37012, 
+37049, Wind Angle: 33	 Sail, from RC: 1872  angle out: 57  Rudder, from RC: 1495  angle out: 95
+37063, Roll raw value: 1.06Roll in deg: 6.26,              Heading: 358.75
+37074, 
+37115, Wind Angle: 36	 Sail, from RC: 1872  angle out: 59  Rudder, from RC: 1479  angle out: 92
+37129, Roll raw value: 0.90Roll in deg: 5.17,              Heading: 0.52
+37141, 
+37181, Wind Angle: 43	 Sail, from RC: 1872  angle out: 65  Rudder, from RC: 1501  angle out: 96
+37197, Roll raw value: 1.26Roll in deg: 7.47,              Heading: 359.03
+37209, 
+37248, Wind Angle: 48	 Sail, from RC: 1872  angle out: 69  Rudder, from RC: 1494  angle out: 95
+37261, Roll raw value: 1.69Roll in deg: 8.82,              Heading: 0.06
+37272, 
+37313, Wind Angle: 52	 Sail, from RC: 1820  angle out: 72  Rudder, from RC: 1480  angle out: 92
+37327, Roll raw value: 0.67Roll in deg: 4.61,              Heading: 359.77
+37339, 
+37379, Wind Angle: 55	 Sail, from RC: 1872  angle out: 74  Rudder, from RC: 1501  angle out: 96
+37487, Roll raw value: 1.37Roll in deg: 6.45,              Heading: 359.64
+37663, 
+37818, Wind Angle: 84	 Sail, from RC: 1872  angle out: 97  Rudder, from RC: 1501  angle out: 96
+37832, Roll raw value: 1.22Roll in deg: 6.53,              Heading: 0.36
+37843, 
+37883, Wind Angle: 85	 Sail, from RC: 1872  angle out: 97  Rudder, from RC: 1495  angle out: 95
+37897, Roll raw value: 1.02Roll in deg: 5.67,              Heading: 0.25
+37909, 
+37950, Wind Angle: 91	 Sail, from RC: 1872  angle out: 102  Rudder, from RC: 1501  angle out: 96
+37975, Roll raw value: 1.29Roll in deg: 7.83,              Heading: 0.09
+37986, 
+38016, Wind Angle: 94	 Sail, from RC: 1872  angle out: 104  Rudder, from RC: 1479  angle out: 92
+38030, Roll raw value: 0.35Roll in deg: 2.05,              Heading: 0.21
+38041, 
+38081, Wind Angle: 95	 Sail, from RC: 1872  angle out: 105  Rudder, from RC: 1495  angle out: 95
+38094, Roll raw value: 0.90Roll in deg: 5.79,              Heading: 0.21
+38110, 
+38148, Wind Angle: 99	 Sail, from RC: 1872  angle out: 108  Rudder, from RC: 1501  angle out: 96
+38161, Roll raw value: 1.10Roll in deg: 6.34,              Heading: 0.62
+38173, 
+38213, Wind Angle: 103	 Sail, from RC: 1841  angle out: 111  Rudder, from RC: 1495  angle out: 95
+38226, Roll raw value: 0.90Roll in deg: 5.34,              Heading: 359.63
+38238, 
+38279, Wind Angle: 107	 Sail, from RC: 1872  angle out: 114  Rudder, from RC: 1495  angle out: 95
+38293, Roll raw value: 0.43Roll in deg: 2.59,              Heading: 359.85
+38307, 
+38345, Wind Angle: 107	 Sail, from RC: 1872  angle out: 114  Rudder, from RC: 1501  angle out: 96
+38359, Roll raw value: 1.49Roll in deg: 8.75,              Heading: 359.09
+38371, 
+38411, Wind Angle: 119	 Sail, from RC: 1852  angle out: 124  Rudder, from RC: 1501  angle out: 96
+38424, Roll raw value: 0.98Roll in deg: 8.86,              Heading: 359.71
+38436, 
+38476, Wind Angle: 108	 Sail, from RC: 1872  angle out: 115  Rudder, from RC: 1494  angle out: 95
+38494, Roll raw value: 0.35Roll in deg: 2.01,              Heading: 359.90
+38505, 
+38543, Wind Angle: 102	 Sail, from RC: 1872  angle out: 111  Rudder, from RC: 1501  angle out: 96
+38557, Roll raw value: 1.18Roll in deg: 6.95,              Heading: 359.83
+38568, 
+38608, Wind Angle: 100	 Sail, from RC: 1872  angle out: 109  Rudder, from RC: 1501  angle out: 96
+38622, Roll raw value: 0.82Roll in deg: 4.88,              Heading: 0.64
+38634, 
+38675, Wind Angle: 99	 Sail, from RC: 1850  angle out: 108  Rudder, from RC: 1465  angle out: 90
+38691, Roll raw value: 1.18Roll in deg: 7.24,              Heading: 359.16
+38703, 
+38739, Wind Angle: 96	 Sail, from RC: 1872  angle out: 106  Rudder, from RC: 1501  angle out: 96
+38754, Roll raw value: 1.33Roll in deg: 8.49,              Heading: 359.58
+38765, 
+38806, Wind Angle: 91	 Sail, from RC: 1872  angle out: 102  Rudder, from RC: 1500  angle out: 95
+38819, Roll raw value: 1.10Roll in deg: 6.34,              Heading: 0.18
+38832, 
+38873, Wind Angle: 95	 Sail, from RC: 1842  angle out: 105  Rudder, from RC: 1474  angle out: 91
+38893, Roll raw value: 1.14Roll in deg: 6.36,              Heading: 359.74
+38905, 
+38938, Wind Angle: 87	 Sail, from RC: 1872  angle out: 99  Rudder, from RC: 1501  angle out: 96
+38951, Roll raw value: 1.18Roll in deg: 6.95,              Heading: 359.34
+38963, 
+39004, Wind Angle: 84	 Sail, from RC: 1872  angle out: 97  Rudder, from RC: 1501  angle out: 96
+39018, Roll raw value: 1.29Roll in deg: 7.46,              Heading: 1.03
+39032, 
+39069, Wind Angle: 88	 Sail, from RC: 1872  angle out: 100  Rudder, from RC: 1494  angle out: 95
+39083, Roll raw value: 1.57Roll in deg: 9.09,              Heading: 359.40
+39095, 
+39136, Wind Angle: 85	 Sail, from RC: 1872  angle out: 97  Rudder, from RC: 1479  angle out: 92
+39149, Roll raw value: 0.75Roll in deg: 4.62,              Heading: 359.77
+39161, 
+39201, Wind Angle: 87	 Sail, from RC: 1872  angle out: 99  Rudder, from RC: 1501  angle out: 96
+39216, Roll raw value: 0.43Roll in deg: 2.68,              Heading: 0.80
+39230, 
+39267, Wind Angle: 88	 Sail, from RC: 1872  angle out: 100  Rudder, from RC: 1495  angle out: 95
+39281, Roll raw value: 1.29Roll in deg: 7.89,              Heading: 359.77
+39292, 
+39333, Wind Angle: 90	 Sail, from RC: 1820  angle out: 101  Rudder, from RC: 1480  angle out: 92
+39347, Roll raw value: 0.82Roll in deg: 4.57,              Heading: 359.61
+39359, 
+39399, Wind Angle: 95	 Sail, from RC: 1872  angle out: 105  Rudder, from RC: 1501  angle out: 96
+39415, Roll raw value: 0.51Roll in deg: 3.31,              Heading: 358.97
+39427, 
+39464, Wind Angle: 98	 Sail, from RC: 1872  angle out: 107  Rudder, from RC: 1495  angle out: 95
+39479, Roll raw value: 1.49Roll in deg: 9.03,              Heading: 0.33
+39490, 
+39531, Wind Angle: 98	 Sail, from RC: 1852  angle out: 107  Rudder, from RC: 1501  angle out: 96
+39544, Roll raw value: 1.37Roll in deg: 8.51,              Heading: 0.05
+39557, 
+39597, Wind Angle: 100	 Sail, from RC: 1872  angle out: 109  Rudder, from RC: 1479  angle out: 92
+39613, Roll raw value: 0.90Roll in deg: 7.23,              Heading: 359.73
+39624, 
+39663, Wind Angle: 103	 Sail, from RC: 1872  angle out: 111  Rudder, from RC: 1495  angle out: 95
+39676, Roll raw value: 0.47Roll in deg: 2.82,              Heading: 1.66
+39688, 
+39729, Wind Angle: 106	 Sail, from RC: 1872  angle out: 114  Rudder, from RC: 1501  angle out: 96
+39743, Roll raw value: 1.33Roll in deg: 7.51,              Heading: 359.61
+39754, 
+39794, Wind Angle: 105	 Sail, from RC: 1851  angle out: 113  Rudder, from RC: 1471  angle out: 91
+39811, Roll raw value: 0.78Roll in deg: 4.48,              Heading: 0.37
+39822, 
+39861, Wind Angle: 109	 Sail, from RC: 1872  angle out: 116  Rudder, from RC: 1495  angle out: 95
+39874, Roll raw value: 1.18Roll in deg: 7.53,              Heading: 359.24
+39886, 
+39925, Wind Angle: 111	 Sail, from RC: 1872  angle out: 118  Rudder, from RC: 1501  angle out: 96
+39940, Roll raw value: 1.10Roll in deg: 6.63,              Heading: 359.44
+39954, 
+39992, Wind Angle: 109	 Sail, from RC: 1821  angle out: 116  Rudder, from RC: 1501  angle out: 96
+40005, Roll raw value: 1.14Roll in deg: 7.06,              Heading: 359.47
+40017, 
+40058, Wind Angle: 107	 Sail, from RC: 1872  angle out: 114  Rudder, from RC: 1495  angle out: 95
+40072, Roll raw value: 1.33Roll in deg: 7.26,              Heading: 359.70
+40084, 
+40124, Wind Angle: 107	 Sail, from RC: 1872  angle out: 114  Rudder, from RC: 1501  angle out: 96
+40137, Roll raw value: 0.75Roll in deg: 4.60,              Heading: 359.66
+40152, 
+40189, Wind Angle: 103	 Sail, from RC: 1872  angle out: 111  Rudder, from RC: 1501  angle out: 96
+40204, Roll raw value: 1.14Roll in deg: 6.34,              Heading: 359.64
+40215, 
+40255, Wind Angle: 98	 Sail, from RC: 1872  angle out: 107  Rudder, from RC: 1473  angle out: 91
+40268, Roll raw value: 1.10Roll in deg: 6.05,              Heading: 359.24
+40281, 
+40322, Wind Angle: 95	 Sail, from RC: 1872  angle out: 105  Rudder, from RC: 1501  angle out: 96
+40338, Roll raw value: 1.06Roll in deg: 6.84,              Heading: 359.57
+40349, 
+40388, Wind Angle: 94	 Sail, from RC: 1878  angle out: 104  Rudder, from RC: 1501  angle out: 96
+40401, Roll raw value: 1.41Roll in deg: 8.23,              Heading: 3.34
+40413, 
+40453, Wind Angle: 98	 Sail, from RC: 1842  angle out: 107  Rudder, from RC: 1474  angle out: 91
+40467, Roll raw value: 1.10Roll in deg: 6.36,              Heading: 359.76
+40478, 
+40519, Wind Angle: 86	 Sail, from RC: 1872  angle out: 98  Rudder, from RC: 1501  angle out: 96
+40536, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 359.51
+40548, 
+40586, Wind Angle: 85	 Sail, from RC: 1878  angle out: 97  Rudder, from RC: 1500  angle out: 95
+40599, Roll raw value: 1.26Roll in deg: 8.02,              Heading: 3.00
+40610, 
+40650, Wind Angle: 82	 Sail, from RC: 1851  angle out: 95  Rudder, from RC: 1494  angle out: 95
+40665, Roll raw value: 1.33Roll in deg: 8.23,              Heading: 359.07
+40676, 
+40717, Wind Angle: 77	 Sail, from RC: 1872  angle out: 91  Rudder, from RC: 1480  angle out: 92
+40733, Roll raw value: 1.73Roll in deg: 9.98,              Heading: 358.84
+40745, 
+40782, Wind Angle: 74	 Sail, from RC: 1872  angle out: 89  Rudder, from RC: 1501  angle out: 96
+40796, Roll raw value: 1.69Roll in deg: 9.61,              Heading: 0.68
+40808, 
+40849, Wind Angle: 74	 Sail, from RC: 1872  angle out: 89  Rudder, from RC: 1495  angle out: 95
+40862, Roll raw value: 1.37Roll in deg: 8.92,              Heading: 359.09
+40877, 
+40914, Wind Angle: 71	 Sail, from RC: 1850  angle out: 86  Rudder, from RC: 1471  angle out: 91
+40929, Roll raw value: 1.02Roll in deg: 6.39,              Heading: 358.87
+40940, 
+40980, Wind Angle: 67	 Sail, from RC: 1872  angle out: 83  Rudder, from RC: 1501  angle out: 96
+40993, Roll raw value: 0.67Roll in deg: 3.97,              Heading: 359.84
+41006, 
+41047, Wind Angle: 65	 Sail, from RC: 1872  angle out: 82  Rudder, from RC: 1495  angle out: 95
+41060, Roll raw value: 1.41Roll in deg: 8.23,              Heading: 359.49
+41074, 
+41112, Wind Angle: 64	 Sail, from RC: 1851  angle out: 81  Rudder, from RC: 1501  angle out: 96
+41125, Roll raw value: 1.65Roll in deg: 9.35,              Heading: 359.04
+41137, 
+41178, Wind Angle: 62	 Sail, from RC: 1878  angle out: 79  Rudder, from RC: 1496  angle out: 95
+41192, Roll raw value: 1.10Roll in deg: 6.27,              Heading: 359.63
+41203, 
+41244, Wind Angle: 58	 Sail, from RC: 1872  angle out: 76  Rudder, from RC: 1494  angle out: 95
+41257, Roll raw value: 1.53Roll in deg: 9.62,              Heading: 359.38
+41273, 
+41310, Wind Angle: 58	 Sail, from RC: 1872  angle out: 76  Rudder, from RC: 1501  angle out: 96
+41323, Roll raw value: 0.75Roll in deg: 3.99,              Heading: 358.33
+41335, 
+41375, Wind Angle: 57	 Sail, from RC: 1878  angle out: 76  Rudder, from RC: 1459  angle out: 90
+41390, Roll raw value: 1.65Roll in deg: 10.05,              Heading: 359.49
+41401, 
+41442, Wind Angle: 52	 Sail, from RC: 1872  angle out: 72  Rudder, from RC: 1494  angle out: 95
+41458, Roll raw value: 0.71Roll in deg: 4.29,              Heading: 359.66
+41470, 
+41507, Wind Angle: 51	 Sail, from RC: 1872  angle out: 71  Rudder, from RC: 1500  angle out: 95
+41521, Roll raw value: 1.29Roll in deg: 7.55,              Heading: 359.30
+41533, 
+41574, Wind Angle: 52	 Sail, from RC: 1848  angle out: 72  Rudder, from RC: 1474  angle out: 91
+41587, Roll raw value: 1.65Roll in deg: 9.69,              Heading: 358.61
+41598, 
+41638, Wind Angle: 51	 Sail, from RC: 1872  angle out: 71  Rudder, from RC: 1494  angle out: 95
+41655, Roll raw value: 1.37Roll in deg: 8.58,              Heading: 359.48
+41667, 
+41705, Wind Angle: 47	 Sail, from RC: 1872  angle out: 68  Rudder, from RC: 1501  angle out: 96
+41718, Roll raw value: 1.10Roll in deg: 6.49,              Heading: 359.49
+41731, 
+41772, Wind Angle: 59	 Sail, from RC: 1876  angle out: 77  Rudder, from RC: 1494  angle out: 95
+41785, Roll raw value: 0.90Roll in deg: 5.41,              Heading: 359.62
+41797, 
+41837, Wind Angle: 48	 Sail, from RC: 1872  angle out: 69  Rudder, from RC: 1473  angle out: 91
+41853, Roll raw value: 1.26Roll in deg: 6.86,              Heading: 358.68
+41865, 
+41903, Wind Angle: 46	 Sail, from RC: 1872  angle out: 67  Rudder, from RC: 1501  angle out: 96
+41917, Roll raw value: 1.45Roll in deg: 8.22,              Heading: 359.23
+41928, 
+41968, Wind Angle: 43	 Sail, from RC: 1878  angle out: 65  Rudder, from RC: 1501  angle out: 96
+41981, Roll raw value: 0.75Roll in deg: 4.62,              Heading: 0.76
+41997, 
+42056, Wind Angle: 45	 Sail, from RC: 1872  angle out: 66  Rudder, from RC: 1494  angle out: 95
+42071, Roll raw value: 1.29Roll in deg: 7.77,              Heading: 0.10
+42082, 
+42122, Wind Angle: 42	 Sail, from RC: 1878  angle out: 64  Rudder, from RC: 1495  angle out: 95
+42135, Roll raw value: 0.47Roll in deg: 2.79,              Heading: 358.89
+42147, 
+42188, Wind Angle: 44	 Sail, from RC: 1872  angle out: 65  Rudder, from RC: 1495  angle out: 95
+42202, Roll raw value: 1.18Roll in deg: 6.84,              Heading: 359.37
+42216, 
+42255, Wind Angle: 44	 Sail, from RC: 1820  angle out: 65  Rudder, from RC: 1480  angle out: 92
+42268, Roll raw value: 0.98Roll in deg: 5.76,              Heading: 359.19
+42279, 
+42319, Wind Angle: 42	 Sail, from RC: 1872  angle out: 64  Rudder, from RC: 1495  angle out: 95
+42334, Roll raw value: 1.26Roll in deg: 7.63,              Heading: 358.91
+42345, 
+42386, Wind Angle: 42	 Sail, from RC: 1872  angle out: 64  Rudder, from RC: 1495  angle out: 95
+42402, Roll raw value: 1.57Roll in deg: 9.99,              Heading: 359.24
+42414, 
+42452, Wind Angle: 44	 Sail, from RC: 1851  angle out: 65  Rudder, from RC: 1500  angle out: 95
+42466, Roll raw value: 1.33Roll in deg: 8.00,              Heading: 359.07
+42477, 
+42517, Wind Angle: 44	 Sail, from RC: 1879  angle out: 65  Rudder, from RC: 1495  angle out: 95
+42531, Roll raw value: 0.75Roll in deg: 4.74,              Heading: 359.62
+42543, 
+42584, Wind Angle: 42	 Sail, from RC: 1872  angle out: 64  Rudder, from RC: 1501  angle out: 96
+42600, Roll raw value: 0.51Roll in deg: 3.38,              Heading: 358.98
+42612, 
+42649, Wind Angle: 44	 Sail, from RC: 1872  angle out: 65  Rudder, from RC: 1501  angle out: 96
+42662, Roll raw value: 0.82Roll in deg: 5.85,              Heading: 358.63
+42675, 
+42716, Wind Angle: 45	 Sail, from RC: 1850  angle out: 66  Rudder, from RC: 1464  angle out: 90
+42729, Roll raw value: 0.75Roll in deg: 4.33,              Heading: 359.73
+42740, 
+42781, Wind Angle: 45	 Sail, from RC: 1872  angle out: 66  Rudder, from RC: 1501  angle out: 96
+42798, Roll raw value: 0.55Roll in deg: 3.21,              Heading: 0.34
+42810, 
+42847, Wind Angle: 43	 Sail, from RC: 1872  angle out: 65  Rudder, from RC: 1501  angle out: 96
+42860, Roll raw value: 1.33Roll in deg: 5.59,              Heading: 359.58
+42872, 
+42913, Wind Angle: 54	 Sail, from RC: 1821  angle out: 73  Rudder, from RC: 1494  angle out: 95
+42927, Roll raw value: 1.22Roll in deg: 7.71,              Heading: 359.98
+42941, 
+42978, Wind Angle: 46	 Sail, from RC: 1872  angle out: 67  Rudder, from RC: 1494  angle out: 95
+42992, Roll raw value: 1.22Roll in deg: 7.48,              Heading: 0.02
+43003, 
+43044, Wind Angle: 45	 Sail, from RC: 1873  angle out: 66  Rudder, from RC: 1501  angle out: 96
+43058, Roll raw value: 1.10Roll in deg: 6.74,              Heading: 359.26
+43070, 
+43111, Wind Angle: 48	 Sail, from RC: 1872  angle out: 69  Rudder, from RC: 1494  angle out: 95
+43124, Roll raw value: 1.10Roll in deg: 6.60,              Heading: 359.00
+43139, 
+43176, Wind Angle: 48	 Sail, from RC: 1872  angle out: 69  Rudder, from RC: 1480  angle out: 92
+43190, Roll raw value: 1.06Roll in deg: 6.39,              Heading: 359.37
+43201, 
+43242, Wind Angle: 49	 Sail, from RC: 1872  angle out: 69  Rudder, from RC: 1501  angle out: 96
+43256, Roll raw value: 1.06Roll in deg: 6.34,              Heading: 0.15
+43268, 
+43309, Wind Angle: 48	 Sail, from RC: 1872  angle out: 69  Rudder, from RC: 1495  angle out: 95
+43322, Roll raw value: 1.29Roll in deg: 7.58,              Heading: 359.44
+43337, 
+43374, Wind Angle: 50	 Sail, from RC: 1842  angle out: 70  Rudder, from RC: 1481  angle out: 93
+43387, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 0.42
+43399, 
+43441, Wind Angle: 51	 Sail, from RC: 1872  angle out: 71  Rudder, from RC: 1501  angle out: 96
+43454, Roll raw value: 1.26Roll in deg: 7.29,              Heading: 0.22
+43465, 
+43505, Wind Angle: 50	 Sail, from RC: 1872  angle out: 70  Rudder, from RC: 1495  angle out: 95
+43522, Roll raw value: 1.02Roll in deg: 6.01,              Heading: 359.95
+43534, 
+43572, Wind Angle: 58	 Sail, from RC: 1851  angle out: 76  Rudder, from RC: 1501  angle out: 96
+43585, Roll raw value: 1.10Roll in deg: 6.37,              Heading: 358.63
+43597, 
+43638, Wind Angle: 54	 Sail, from RC: 1872  angle out: 73  Rudder, from RC: 1479  angle out: 92
+43652, Roll raw value: 1.18Roll in deg: 7.18,              Heading: 359.60
+43663, 
+43703, Wind Angle: 55	 Sail, from RC: 1872  angle out: 74  Rudder, from RC: 1495  angle out: 95
+43812, Roll raw value: 1.06Roll in deg: 6.47,              Heading: 0.22
+43987, 
+44143, Wind Angle: 58	 Sail, from RC: 1878  angle out: 76  Rudder, from RC: 1494  angle out: 95
+44156, Roll raw value: 1.02Roll in deg: 6.29,              Heading: 359.27
+44169, 
+44209, Wind Angle: 61	 Sail, from RC: 1872  angle out: 79  Rudder, from RC: 1494  angle out: 95
+44222, Roll raw value: 0.98Roll in deg: 7.56,              Heading: 0.29
+44233, 
+44274, Wind Angle: 62	 Sail, from RC: 1842  angle out: 79  Rudder, from RC: 1480  angle out: 92
+44291, Roll raw value: 1.22Roll in deg: 7.84,              Heading: 359.87
+44303, 
+44340, Wind Angle: 61	 Sail, from RC: 1878  angle out: 79  Rudder, from RC: 1495  angle out: 95
+44353, Roll raw value: 0.86Roll in deg: 5.05,              Heading: 359.88
+44365, 
+44406, Wind Angle: 63	 Sail, from RC: 1872  angle out: 80  Rudder, from RC: 1501  angle out: 96
+44420, Roll raw value: 0.94Roll in deg: 5.36,              Heading: 359.95
+44434, 
+44472, Wind Angle: 75	 Sail, from RC: 1851  angle out: 90  Rudder, from RC: 1501  angle out: 96
+44486, Roll raw value: 1.02Roll in deg: 6.90,              Heading: 359.42
+44497, 
+44537, Wind Angle: 63	 Sail, from RC: 1872  angle out: 80  Rudder, from RC: 1473  angle out: 91
+44556, Roll raw value: 1.65Roll in deg: 9.46,              Heading: 359.95
+44567, 
+44604, Wind Angle: 63	 Sail, from RC: 1872  angle out: 80  Rudder, from RC: 1495  angle out: 95
+44617, Roll raw value: 1.29Roll in deg: 8.49,              Heading: 3.97
+44632, 
+44669, Wind Angle: 66	 Sail, from RC: 1872  angle out: 83  Rudder, from RC: 1501  angle out: 96
+44683, Roll raw value: 1.18Roll in deg: 7.31,              Heading: 359.60
+44695, 
+44735, Wind Angle: 67	 Sail, from RC: 1850  angle out: 83  Rudder, from RC: 1465  angle out: 90
+44749, Roll raw value: 1.18Roll in deg: 7.84,              Heading: 359.98
+44761, 
+44802, Wind Angle: 65	 Sail, from RC: 1872  angle out: 82  Rudder, from RC: 1494  angle out: 95
+44818, Roll raw value: 0.98Roll in deg: 6.73,              Heading: 0.78
+44830, 
+44867, Wind Angle: 68	 Sail, from RC: 1872  angle out: 84  Rudder, from RC: 1501  angle out: 96
+44880, Roll raw value: 1.14Roll in deg: 6.98,              Heading: 0.73
+44893, 
+44934, Wind Angle: 69	 Sail, from RC: 1853  angle out: 85  Rudder, from RC: 1494  angle out: 95
+44947, Roll raw value: 0.82Roll in deg: 5.06,              Heading: 359.88
+44958, 
+44998, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1495  angle out: 95
+45015, Roll raw value: 1.45Roll in deg: 8.26,              Heading: 0.03
+45027, 
+45065, Wind Angle: 68	 Sail, from RC: 1872  angle out: 84  Rudder, from RC: 1501  angle out: 96
+45078, Roll raw value: 0.86Roll in deg: 4.95,              Heading: 359.83
+45090, 
+45131, Wind Angle: 78	 Sail, from RC: 1879  angle out: 92  Rudder, from RC: 1495  angle out: 95
+45145, Roll raw value: 1.26Roll in deg: 7.59,              Heading: 359.71
+45156, 
+45196, Wind Angle: 71	 Sail, from RC: 1851  angle out: 86  Rudder, from RC: 1470  angle out: 91
+45212, Roll raw value: 1.49Roll in deg: 7.78,              Heading: 359.01
+45224, 
+45262, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1501  angle out: 96
+45276, Roll raw value: 1.45Roll in deg: 9.14,              Heading: 358.79
+45288, 
+45329, Wind Angle: 69	 Sail, from RC: 1878  angle out: 85  Rudder, from RC: 1495  angle out: 95
+45342, Roll raw value: 1.33Roll in deg: 7.39,              Heading: 359.19
+45355, 
+45394, Wind Angle: 79	 Sail, from RC: 1842  angle out: 93  Rudder, from RC: 1480  angle out: 92
+45408, Roll raw value: 0.78Roll in deg: 6.78,              Heading: 359.32
+45419, 
+45460, Wind Angle: 72	 Sail, from RC: 1872  angle out: 87  Rudder, from RC: 1501  angle out: 96
+45474, Roll raw value: 1.29Roll in deg: 6.30,              Heading: 359.81
+45486, 
+45526, Wind Angle: 70	 Sail, from RC: 1878  angle out: 86  Rudder, from RC: 1495  angle out: 95
+45539, Roll raw value: 1.45Roll in deg: 8.80,              Heading: 359.44
+45554, 
+45592, Wind Angle: 72	 Sail, from RC: 1872  angle out: 87  Rudder, from RC: 1501  angle out: 96
+45605, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 358.91
+45618, 
+45658, Wind Angle: 73	 Sail, from RC: 1872  angle out: 88  Rudder, from RC: 1479  angle out: 92
+45672, Roll raw value: 1.29Roll in deg: 7.86,              Heading: 359.37
+45683, 
+45723, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1495  angle out: 95
+45737, Roll raw value: 0.82Roll in deg: 5.24,              Heading: 359.43
+45752, 
+45790, Wind Angle: 70	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1501  angle out: 96
+45803, Roll raw value: 1.22Roll in deg: 6.80,              Heading: 358.47
+45815, 
+45855, Wind Angle: 73	 Sail, from RC: 1820  angle out: 88  Rudder, from RC: 1480  angle out: 92
+45873, Roll raw value: 1.22Roll in deg: 6.99,              Heading: 359.50
+45885, 
+45921, Wind Angle: 73	 Sail, from RC: 1872  angle out: 88  Rudder, from RC: 1495  angle out: 95
+45937, Roll raw value: 0.82Roll in deg: 4.92,              Heading: 0.21
+45949, 
+45987, Wind Angle: 70	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1501  angle out: 96
+46001, Roll raw value: 1.26Roll in deg: 7.21,              Heading: 359.42
+46013, 
+46053, Wind Angle: 81	 Sail, from RC: 1852  angle out: 94  Rudder, from RC: 1501  angle out: 96
+46066, Roll raw value: 1.02Roll in deg: 6.06,              Heading: 359.18
+46078, 
+46119, Wind Angle: 73	 Sail, from RC: 1872  angle out: 88  Rudder, from RC: 1495  angle out: 95
+46136, Roll raw value: 0.94Roll in deg: 8.04,              Heading: 359.31
+46147, 
+46185, Wind Angle: 73	 Sail, from RC: 1872  angle out: 88  Rudder, from RC: 1501  angle out: 96
+46199, Roll raw value: 0.75Roll in deg: 4.18,              Heading: 359.32
+46211, 
+46251, Wind Angle: 70	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1501  angle out: 96
+46264, Roll raw value: 1.10Roll in deg: 6.37,              Heading: 0.28
+46276, 
+46317, Wind Angle: 73	 Sail, from RC: 1851  angle out: 88  Rudder, from RC: 1465  angle out: 90
+46333, Roll raw value: 1.22Roll in deg: 7.18,              Heading: 358.90
+46345, 
+46382, Wind Angle: 73	 Sail, from RC: 1872  angle out: 88  Rudder, from RC: 1501  angle out: 96
+46396, Roll raw value: 1.02Roll in deg: 6.03,              Heading: 0.34
+46407, 
+46448, Wind Angle: 70	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1501  angle out: 96
+46462, Roll raw value: 1.26Roll in deg: 7.32,              Heading: 359.76
+46477, 
+46515, Wind Angle: 70	 Sail, from RC: 1842  angle out: 86  Rudder, from RC: 1474  angle out: 91
+46528, Roll raw value: 0.98Roll in deg: 5.73,              Heading: 0.26
+46540, 
+46580, Wind Angle: 72	 Sail, from RC: 1872  angle out: 87  Rudder, from RC: 1501  angle out: 96
+46594, Roll raw value: 1.18Roll in deg: 6.95,              Heading: 358.80
+46605, 
+46646, Wind Angle: 72	 Sail, from RC: 1872  angle out: 87  Rudder, from RC: 1501  angle out: 96
+46660, Roll raw value: 1.22Roll in deg: 7.39,              Heading: 360.00
+46674, 
+46711, Wind Angle: 77	 Sail, from RC: 1872  angle out: 91  Rudder, from RC: 1495  angle out: 95
+46725, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 0.26
+46737, 
+46778, Wind Angle: 72	 Sail, from RC: 1872  angle out: 87  Rudder, from RC: 1479  angle out: 92
+46791, Roll raw value: 0.98Roll in deg: 6.10,              Heading: 359.81
+46803, 
+46844, Wind Angle: 72	 Sail, from RC: 1872  angle out: 87  Rudder, from RC: 1501  angle out: 96
+46858, Roll raw value: 1.02Roll in deg: 6.13,              Heading: 359.50
+46867, 
+46887, Wind Angle: 72	 Sail, from RC: 1872  angle out: 87  Rudder, from RC: 1501  angle out: 96
+46901, Roll raw value: 1.18Roll in deg: 7.10,              Heading: 359.47
+46912, 
+46953, Wind Angle: 72	 Sail, from RC: 1851  angle out: 87  Rudder, from RC: 1495  angle out: 95
+46967, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 359.56
+46979, 
+47020, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1495  angle out: 95
+47036, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 358.78
+47048, 
+47085, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1501  angle out: 96
+47098, Roll raw value: 1.14Roll in deg: 7.19,              Heading: 358.61
+47111, 
+47151, Wind Angle: 79	 Sail, from RC: 1879  angle out: 93  Rudder, from RC: 1495  angle out: 95
+47177, Roll raw value: 1.06Roll in deg: 5.80,              Heading: 1.51
+47188, 
+47216, Wind Angle: 72	 Sail, from RC: 1850  angle out: 87  Rudder, from RC: 1464  angle out: 90
+47233, Roll raw value: 1.18Roll in deg: 6.82,              Heading: 359.59
+47245, 
+47283, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1501  angle out: 96
+47296, Roll raw value: 1.02Roll in deg: 7.71,              Heading: 359.45
+47308, 
+47349, Wind Angle: 72	 Sail, from RC: 1878  angle out: 87  Rudder, from RC: 1494  angle out: 95
+47363, Roll raw value: 1.33Roll in deg: 7.42,              Heading: 0.79
+47375, 
+47414, Wind Angle: 80	 Sail, from RC: 1842  angle out: 93  Rudder, from RC: 1480  angle out: 92
+47428, Roll raw value: 1.06Roll in deg: 6.39,              Heading: 359.40
+47439, 
+47480, Wind Angle: 70	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1501  angle out: 96
+47495, Roll raw value: 1.18Roll in deg: 6.98,              Heading: 359.29
+47506, 
+47547, Wind Angle: 70	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1495  angle out: 95
+47560, Roll raw value: 0.98Roll in deg: 5.95,              Heading: 2.17
+47575, 
+47612, Wind Angle: 72	 Sail, from RC: 1872  angle out: 87  Rudder, from RC: 1494  angle out: 95
+47626, Roll raw value: 1.10Roll in deg: 6.49,              Heading: 358.98
+47638, 
+47678, Wind Angle: 72	 Sail, from RC: 1873  angle out: 87  Rudder, from RC: 1479  angle out: 92
+47692, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 358.96
+47704, 
+47744, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1495  angle out: 95
+47757, Roll raw value: 1.02Roll in deg: 6.26,              Heading: 359.49
+47772, 
+47810, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1495  angle out: 95
+47823, Roll raw value: 0.98Roll in deg: 6.12,              Heading: 359.82
+47836, 
+47877, Wind Angle: 72	 Sail, from RC: 1820  angle out: 87  Rudder, from RC: 1480  angle out: 92
+47890, Roll raw value: 1.18Roll in deg: 7.10,              Heading: 359.56
+47901, 
+47941, Wind Angle: 72	 Sail, from RC: 1872  angle out: 87  Rudder, from RC: 1495  angle out: 95
+47958, Roll raw value: 1.10Roll in deg: 6.34,              Heading: 359.65
+47970, 
+48008, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1501  angle out: 96
+48021, Roll raw value: 1.14Roll in deg: 6.86,              Heading: 0.24
+48033, 
+48073, Wind Angle: 82	 Sail, from RC: 1852  angle out: 95  Rudder, from RC: 1501  angle out: 96
+48087, Roll raw value: 1.10Roll in deg: 6.82,              Heading: 359.40
+48099, 
+48139, Wind Angle: 72	 Sail, from RC: 1872  angle out: 87  Rudder, from RC: 1495  angle out: 95
+48156, Roll raw value: 1.65Roll in deg: 8.00,              Heading: 0.83
+48167, 
+48205, Wind Angle: 69	 Sail, from RC: 1793  angle out: 85  Rudder, from RC: 1501  angle out: 96
+48219, Roll raw value: 1.06Roll in deg: 6.16,              Heading: 2.57
+48231, 
+48271, @manual command mode
+48283, Wind Angle: 70	 Sail, from RC: 1690  angle out: 110  Rudder, from RC: 1501  angle out: 96
+48294, Roll raw value: 0.94Roll in deg: 5.91,              Heading: 359.45
+48309, 
+48337, Wind Angle: 72	 Sail, from RC: 1589  angle out: 100  Rudder, from RC: 1465  angle out: 90
+48351, Roll raw value: 1.02Roll in deg: 6.48,              Heading: 357.42
+48362, 
+48402, Wind Angle: 72	 Sail, from RC: 1543  angle out: 97  Rudder, from RC: 1501  angle out: 96
+48416, Roll raw value: 1.06Roll in deg: 6.97,              Heading: 0.32
+48428, 
+48468, Wind Angle: 70	 Sail, from RC: 1511  angle out: 93  Rudder, from RC: 1501  angle out: 96
+48482, Roll raw value: 0.55Roll in deg: 6.72,              Heading: 0.61
+48496, 
+48534, Wind Angle: 72	 Sail, from RC: 1479  angle out: 90  Rudder, from RC: 1494  angle out: 95
+48547, Roll raw value: 0.98Roll in deg: 5.69,              Heading: 5.12
+48559, 
+48600, Wind Angle: 72	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1495  angle out: 95
+48614, Roll raw value: 1.22Roll in deg: 7.24,              Heading: 358.71
+48625, 
+48666, Wind Angle: 69	 Sail, from RC: 1494  angle out: 92  Rudder, from RC: 1501  angle out: 96
+48679, Roll raw value: 1.26Roll in deg: 7.32,              Heading: 359.24
+48695, 
+48732, Wind Angle: 77	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1495  angle out: 95
+48745, Roll raw value: 1.14Roll in deg: 6.67,              Heading: 0.28
+48757, 
+48798, Wind Angle: 72	 Sail, from RC: 1494  angle out: 92  Rudder, from RC: 1479  angle out: 92
+48812, Roll raw value: 1.14Roll in deg: 6.62,              Heading: 359.39
+48823, 
+48863, Wind Angle: 72	 Sail, from RC: 1494  angle out: 92  Rudder, from RC: 1501  angle out: 96
+48879, Roll raw value: 1.22Roll in deg: 7.18,              Heading: 359.28
+48891, 
+48929, Wind Angle: 69	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1495  angle out: 95
+48943, Roll raw value: 1.18Roll in deg: 7.13,              Heading: 0.06
+48955, 
+48996, Wind Angle: 72	 Sail, from RC: 1463  angle out: 89  Rudder, from RC: 1480  angle out: 92
+49009, Roll raw value: 1.10Roll in deg: 6.60,              Heading: 359.86
+49021, 
+49060, Wind Angle: 71	 Sail, from RC: 1494  angle out: 92  Rudder, from RC: 1501  angle out: 96
+49077, Roll raw value: 1.02Roll in deg: 6.39,              Heading: 359.03
+49089, 
+49127, Wind Angle: 72	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1495  angle out: 95
+49140, Roll raw value: 1.14Roll in deg: 7.22,              Heading: 359.15
+49153, 
+49192, Wind Angle: 70	 Sail, from RC: 1485  angle out: 91  Rudder, from RC: 1501  angle out: 96
+49206, Roll raw value: 1.10Roll in deg: 6.63,              Heading: 359.59
+49218, 
+49259, Wind Angle: 71	 Sail, from RC: 1494  angle out: 92  Rudder, from RC: 1479  angle out: 92
+49275, Roll raw value: 1.10Roll in deg: 6.82,              Heading: 358.71
+49287, 
+49325, Wind Angle: 72	 Sail, from RC: 1499  angle out: 93  Rudder, from RC: 1495  angle out: 95
+49339, Roll raw value: 1.22Roll in deg: 7.04,              Heading: 359.50
+49350, 
+49390, Wind Angle: 70	 Sail, from RC: 1493  angle out: 92  Rudder, from RC: 1501  angle out: 96
+49403, Roll raw value: 1.37Roll in deg: 7.91,              Heading: 359.65
+49419, 
+49457, Wind Angle: 69	 Sail, from RC: 1472  angle out: 90  Rudder, from RC: 1469  angle out: 91
+49470, Roll raw value: 0.98Roll in deg: 6.10,              Heading: 359.49
+49482, 
+49522, Wind Angle: 72	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1491  angle out: 94
+49536, Roll raw value: 1.18Roll in deg: 6.59,              Heading: 1.09
+49547, 
+49588, Wind Angle: 72	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1378  angle out: 78
+49602, Roll raw value: 1.22Roll in deg: 7.30,              Heading: 359.39
+49616, 
+49653, Wind Angle: 80	 Sail, from RC: 1479  angle out: 90  Rudder, from RC: 1071  angle out: 31
+49667, Roll raw value: 1.14Roll in deg: 7.09,              Heading: 1.56
+49679, 
+49697, Wind Angle: 69	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1049  angle out: 30
+49711, Roll raw value: 1.26Roll in deg: 4.45,              Heading: 0.38
+49723, 
+49764, Wind Angle: 70	 Sail, from RC: 1494  angle out: 92  Rudder, from RC: 1075  angle out: 32
+49780, Roll raw value: 1.10Roll in deg: 6.60,              Heading: 0.55
+49792, 
+49829, @registering a 0 bit
+49843, Wind Angle: 72	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1497  angle out: 95
+49854, Roll raw value: 0.75Roll in deg: 4.10,              Heading: 359.84
+49866, 
+49895, Wind Angle: 79	 Sail, from RC: 1463  angle out: 89  Rudder, from RC: 1479  angle out: 92
+49909, Roll raw value: 0.82Roll in deg: 4.78,              Heading: 0.17
+49921, 
+49961, Wind Angle: 70	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1493  angle out: 94
+50070, Roll raw value: 1.06Roll in deg: 7.50,              Heading: 0.02
+50246, 
+50401, Wind Angle: 72	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1496  angle out: 95
+50414, Roll raw value: 1.18Roll in deg: 7.01,              Heading: 359.45
+50425, 
+50466, Wind Angle: 71	 Sail, from RC: 1499  angle out: 93  Rudder, from RC: 1491  angle out: 94
+50481, Roll raw value: 1.02Roll in deg: 6.18,              Heading: 359.71
+50492, 
+50533, Wind Angle: 69	 Sail, from RC: 1493  angle out: 92  Rudder, from RC: 1498  angle out: 95
+50557, Roll raw value: 1.02Roll in deg: 6.70,              Heading: 359.29
+50570, 
+50598, Wind Angle: 71	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1475  angle out: 92
+50612, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 359.74
+50624, 
+50663, Wind Angle: 72	 Sail, from RC: 1494  angle out: 92  Rudder, from RC: 1069  angle out: 31
+50677, Roll raw value: 1.18Roll in deg: 7.10,              Heading: 0.04
+50692, 
+50729, Wind Angle: 71	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1066  angle out: 30
+50744, Roll raw value: 1.22Roll in deg: 7.84,              Heading: 359.56
+50755, 
+50796, Wind Angle: 69	 Sail, from RC: 1463  angle out: 89  Rudder, from RC: 1052  angle out: 30
+50809, Roll raw value: 0.82Roll in deg: 4.58,              Heading: 359.98
+50822, 
+50862, @registering a 0 bit
+50875, Wind Angle: 72	 Sail, from RC: 1499  angle out: 93  Rudder, from RC: 1489  angle out: 94
+50889, Roll raw value: -0.08Roll in deg: 6.01,              Heading: 359.93
+50900, 
+50927, Wind Angle: 71	 Sail, from RC: 1493  angle out: 92  Rudder, from RC: 1498  angle out: 95
+50941, Roll raw value: 1.45Roll in deg: 8.42,              Heading: 358.81
+50953, 
+50994, Wind Angle: 80	 Sail, from RC: 1479  angle out: 90  Rudder, from RC: 1492  angle out: 94
+51007, Roll raw value: 1.33Roll in deg: 7.96,              Heading: 358.95
+51019, 
+51059, Wind Angle: 70	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1492  angle out: 94
+51076, Roll raw value: 0.71Roll in deg: 6.51,              Heading: 359.37
+51087, 
+51126, Wind Angle: 71	 Sail, from RC: 1494  angle out: 92  Rudder, from RC: 1499  angle out: 95
+51139, Roll raw value: 1.26Roll in deg: 7.53,              Heading: 0.12
+51150, 
+51191, Wind Angle: 71	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1892  angle out: 150
+51206, Roll raw value: 1.14Roll in deg: 6.86,              Heading: 359.37
+51217, 
+51258, Wind Angle: 69	 Sail, from RC: 1472  angle out: 90  Rudder, from RC: 1862  angle out: 150
+51274, Roll raw value: 0.98Roll in deg: 5.90,              Heading: 0.23
+51286, 
+51323, Wind Angle: 71	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1891  angle out: 150
+51337, Roll raw value: 1.18Roll in deg: 7.87,              Heading: 359.04
+51349, 
+51389, @registering a 1 bit
+51410, Wind Angle: 72	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1493  angle out: 94
+51426, Roll raw value: 1.37Roll in deg: 8.47,              Heading: 359.24
+51440, 
+51477, Wind Angle: 71	 Sail, from RC: 1471  angle out: 90  Rudder, from RC: 1470  angle out: 91
+51490, Roll raw value: 0.39Roll in deg: 2.43,              Heading: 0.80
+51502, 
+51543, Wind Angle: 71	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1495  angle out: 95
+51557, Roll raw value: 1.29Roll in deg: 7.39,              Heading: 2.09
+51568, 
+51608, Wind Angle: 70	 Sail, from RC: 1494  angle out: 92  Rudder, from RC: 1501  angle out: 96
+51621, Roll raw value: 1.06Roll in deg: 5.93,              Heading: 0.18
+51637, 
+51675, Wind Angle: 69	 Sail, from RC: 1473  angle out: 90  Rudder, from RC: 1502  angle out: 96
+51688, Roll raw value: 1.06Roll in deg: 6.24,              Heading: 359.35
+51700, 
+51740, Wind Angle: 71	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1495  angle out: 95
+51753, Roll raw value: 1.18Roll in deg: 5.19,              Heading: 1.73
+51765, 
+51806, Wind Angle: 71	 Sail, from RC: 1493  angle out: 92  Rudder, from RC: 1502  angle out: 96
+51822, Roll raw value: 1.02Roll in deg: 6.26,              Heading: 0.36
+51834, 
+51872, Wind Angle: 75	 Sail, from RC: 1493  angle out: 92  Rudder, from RC: 1502  angle out: 96
+51886, Roll raw value: 1.14Roll in deg: 6.67,              Heading: 359.44
+51898, 
+51938, Wind Angle: 69	 Sail, from RC: 1478  angle out: 90  Rudder, from RC: 1465  angle out: 90
+51951, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 359.59
+51963, 
+52004, Wind Angle: 71	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1501  angle out: 96
+52021, Roll raw value: 1.37Roll in deg: 8.13,              Heading: 359.70
+52032, 
+52069, Wind Angle: 71	 Sail, from RC: 1493  angle out: 92  Rudder, from RC: 1502  angle out: 96
+52083, Roll raw value: 1.14Roll in deg: 7.56,              Heading: 359.83
+52094, 
+52135, Wind Angle: 69	 Sail, from RC: 1470  angle out: 90  Rudder, from RC: 1475  angle out: 92
+52149, Roll raw value: 1.10Roll in deg: 6.52,              Heading: 359.36
+52161, 
+52202, Wind Angle: 71	 Sail, from RC: 1493  angle out: 92  Rudder, from RC: 1502  angle out: 96
+52218, Roll raw value: 1.26Roll in deg: 7.85,              Heading: 0.16
+52230, 
+52267, Wind Angle: 71	 Sail, from RC: 1493  angle out: 92  Rudder, from RC: 1502  angle out: 96
+52281, Roll raw value: 1.22Roll in deg: 7.15,              Heading: 0.46
+52292, 
+52333, Wind Angle: 71	 Sail, from RC: 1500  angle out: 93  Rudder, from RC: 1496  angle out: 95
+52346, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 359.80
+52362, 
+52400, @returning to automatic command 0
+52412, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1479  angle out: 92
+52423, Roll raw value: 1.06Roll in deg: 6.55,              Heading: 359.61
+52435, 
+52464, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1501  angle out: 96
+52478, Roll raw value: 1.02Roll in deg: 6.06,              Heading: 359.93
+52490, 
+52532, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1495  angle out: 95
+52548, Roll raw value: 0.98Roll in deg: 5.29,              Heading: 359.44
+52559, 
+52597, Wind Angle: 69	 Sail, from RC: 1820  angle out: 85  Rudder, from RC: 1480  angle out: 92
+52612, Roll raw value: 1.26Roll in deg: 8.66,              Heading: 358.83
+52623, 
+52663, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1501  angle out: 96
+52676, Roll raw value: 0.71Roll in deg: 4.15,              Heading: 359.03
+52697, 
+52729, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1495  angle out: 95
+52746, Roll raw value: 1.22Roll in deg: 7.13,              Heading: 0.26
+52757, 
+52794, Wind Angle: 82	 Sail, from RC: 1851  angle out: 95  Rudder, from RC: 1501  angle out: 96
+52808, Roll raw value: 1.06Roll in deg: 6.21,              Heading: 359.92
+52819, 
+52860, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1502  angle out: 96
+52874, Roll raw value: 0.90Roll in deg: 5.74,              Heading: 359.65
+52886, 
+52927, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1495  angle out: 95
+52943, Roll raw value: 1.53Roll in deg: 8.97,              Heading: 2.25
+52955, 
+52993, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1501  angle out: 96
+53006, Roll raw value: 0.82Roll in deg: 4.88,              Heading: 359.01
+53017, 
+53058, Wind Angle: 71	 Sail, from RC: 1850  angle out: 86  Rudder, from RC: 1471  angle out: 91
+53072, Roll raw value: 0.98Roll in deg: 5.80,              Heading: 0.11
+53084, 
+53124, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1495  angle out: 95
+53137, Roll raw value: 1.10Roll in deg: 6.49,              Heading: 0.21
+53149, 
+53190, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1502  angle out: 96
+53203, Roll raw value: 0.98Roll in deg: 6.28,              Heading: 358.83
+53216, 
+53256, Wind Angle: 79	 Sail, from RC: 1821  angle out: 93  Rudder, from RC: 1500  angle out: 95
+53270, Roll raw value: 1.06Roll in deg: 6.50,              Heading: 0.16
+53284, 
+53321, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1495  angle out: 95
+53335, Roll raw value: 1.26Roll in deg: 6.94,              Heading: 359.56
+53347, 
+53388, Wind Angle: 69	 Sail, from RC: 1873  angle out: 85  Rudder, from RC: 1501  angle out: 96
+53401, Roll raw value: 1.18Roll in deg: 6.98,              Heading: 359.34
+53413, 
+53454, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1502  angle out: 96
+53468, Roll raw value: 0.90Roll in deg: 5.41,              Heading: 359.67
+53482, 
+53519, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1473  angle out: 91
+53533, Roll raw value: 1.06Roll in deg: 6.67,              Heading: 0.02
+53544, 
+53585, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1502  angle out: 96
+53599, Roll raw value: 1.06Roll in deg: 6.31,              Heading: 359.73
+53611, 
+53651, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1502  angle out: 96
+53667, Roll raw value: 1.10Roll in deg: 6.63,              Heading: 359.83
+53679, 
+53718, Wind Angle: 71	 Sail, from RC: 1842  angle out: 86  Rudder, from RC: 1474  angle out: 91
+53731, Roll raw value: 1.02Roll in deg: 6.16,              Heading: 359.61
+53742, 
+53783, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1501  angle out: 96
+53797, Roll raw value: 1.06Roll in deg: 6.37,              Heading: 0.07
+53809, 
+53849, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1502  angle out: 96
+53865, Roll raw value: 1.29Roll in deg: 7.67,              Heading: 0.09
+53876, 
+53915, Wind Angle: 82	 Sail, from RC: 1851  angle out: 95  Rudder, from RC: 1494  angle out: 95
+53928, Roll raw value: 1.02Roll in deg: 5.89,              Heading: 358.91
+53941, 
+53980, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1479  angle out: 92
+53994, Roll raw value: 1.80Roll in deg: 8.72,              Heading: 0.30
+54013, 
+54046, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1501  angle out: 96
+54063, Roll raw value: 1.02Roll in deg: 6.03,              Heading: 358.48
+54075, 
+54113, Wind Angle: 69	 Sail, from RC: 1849  angle out: 85  Rudder, from RC: 1494  angle out: 95
+54126, Roll raw value: 1.10Roll in deg: 6.29,              Heading: 359.56
+54138, 
+54177, @manual command mode
+54191, Wind Angle: 71	 Sail, from RC: 1720  angle out: 113  Rudder, from RC: 1472  angle out: 91
+54202, Roll raw value: 1.06Roll in deg: 6.53,              Heading: 359.37
+54216, 
+54244, Wind Angle: 71	 Sail, from RC: 1651  angle out: 107  Rudder, from RC: 1502  angle out: 96
+54258, Roll raw value: 1.14Roll in deg: 6.51,              Heading: 0.11
+54269, 
+54309, Wind Angle: 69	 Sail, from RC: 1627  angle out: 104  Rudder, from RC: 1495  angle out: 95
+54323, Roll raw value: 1.41Roll in deg: 8.71,              Heading: 359.88
+54335, 
+54376, Wind Angle: 69	 Sail, from RC: 1580  angle out: 100  Rudder, from RC: 1502  angle out: 96
+54389, Roll raw value: 1.10Roll in deg: 6.82,              Heading: 0.33
+54404, 
+54441, Wind Angle: 71	 Sail, from RC: 1588  angle out: 100  Rudder, from RC: 1502  angle out: 96
+54455, Roll raw value: 1.26Roll in deg: 7.79,              Heading: 359.70
+54466, 
+54507, Wind Angle: 71	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1495  angle out: 95
+54521, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 0.28
+54533, 
+54574, Wind Angle: 77	 Sail, from RC: 1595  angle out: 101  Rudder, from RC: 1501  angle out: 96
+54590, Roll raw value: 1.29Roll in deg: 7.96,              Heading: 359.58
+54602, 
+54639, Wind Angle: 71	 Sail, from RC: 1579  angle out: 100  Rudder, from RC: 1501  angle out: 96
+54652, Roll raw value: 1.49Roll in deg: 8.83,              Heading: 359.30
+54665, 
+54705, Wind Angle: 71	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1494  angle out: 95
+54719, Roll raw value: 1.18Roll in deg: 7.91,              Heading: 359.97
+54730, 
+54770, Wind Angle: 69	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1502  angle out: 96
+54787, Roll raw value: 0.47Roll in deg: 2.78,              Heading: 359.90
+54799, 
+54837, Wind Angle: 77	 Sail, from RC: 1571  angle out: 99  Rudder, from RC: 1480  angle out: 92
+54850, Roll raw value: 1.02Roll in deg: 7.41,              Heading: 0.54
+54862, 
+54903, Wind Angle: 71	 Sail, from RC: 1600  angle out: 102  Rudder, from RC: 1494  angle out: 95
+54917, Roll raw value: 1.29Roll in deg: 8.73,              Heading: 359.31
+54928, 
+54968, Wind Angle: 71	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1501  angle out: 96
+54984, Roll raw value: 1.02Roll in deg: 5.31,              Heading: 359.91
+54996, 
+55034, Wind Angle: 69	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1501  angle out: 96
+55048, Roll raw value: 1.06Roll in deg: 5.73,              Heading: 0.33
+55060, 
+55101, Wind Angle: 69	 Sail, from RC: 1600  angle out: 102  Rudder, from RC: 1474  angle out: 91
+55114, Roll raw value: 1.10Roll in deg: 6.52,              Heading: 359.06
+55129, 
+55166, Wind Angle: 71	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1501  angle out: 96
+55180, Roll raw value: 1.18Roll in deg: 6.71,              Heading: 359.07
+55191, 
+55232, Wind Angle: 71	 Sail, from RC: 1595  angle out: 101  Rudder, from RC: 1501  angle out: 96
+55246, Roll raw value: 1.41Roll in deg: 8.36,              Heading: 0.29
+55258, 
+55298, Wind Angle: 69	 Sail, from RC: 1579  angle out: 100  Rudder, from RC: 1466  angle out: 90
+55319, Roll raw value: 1.18Roll in deg: 6.71,              Heading: 359.84
+55339, 
+55364, Wind Angle: 71	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1501  angle out: 96
+55377, Roll raw value: 1.10Roll in deg: 6.74,              Heading: 359.43
+55390, 
+55431, Wind Angle: 71	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1495  angle out: 95
+55444, Roll raw value: 1.37Roll in deg: 8.00,              Heading: 0.28
+55455, 
+55495, Wind Angle: 82	 Sail, from RC: 1580  angle out: 100  Rudder, from RC: 1495  angle out: 95
+55512, Roll raw value: 0.82Roll in deg: 5.11,              Heading: 359.56
+55524, 
+55562, Wind Angle: 69	 Sail, from RC: 1595  angle out: 101  Rudder, from RC: 1501  angle out: 96
+55575, Roll raw value: 1.18Roll in deg: 6.93,              Heading: 359.06
+55587, 
+55627, Wind Angle: 71	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1495  angle out: 95
+55641, Roll raw value: 1.22Roll in deg: 7.04,              Heading: 358.70
+55653, 
+55693, Wind Angle: 71	 Sail, from RC: 1600  angle out: 102  Rudder, from RC: 1495  angle out: 95
+55709, Roll raw value: 1.14Roll in deg: 6.49,              Heading: 359.09
+55721, 
+55759, Wind Angle: 69	 Sail, from RC: 1573  angle out: 99  Rudder, from RC: 1465  angle out: 90
+55773, Roll raw value: 1.26Roll in deg: 6.91,              Heading: 359.56
+55785, 
+55825, Wind Angle: 69	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1070  angle out: 31
+55838, Roll raw value: 1.14Roll in deg: 8.29,              Heading: 359.45
+55851, 
+55890, Wind Angle: 71	 Sail, from RC: 1595  angle out: 101  Rudder, from RC: 1068  angle out: 30
+55907, Roll raw value: 0.94Roll in deg: 5.46,              Heading: 359.83
+55918, 
+55956, Wind Angle: 79	 Sail, from RC: 1550  angle out: 97  Rudder, from RC: 1067  angle out: 30
+55970, Roll raw value: 1.33Roll in deg: 7.31,              Heading: 0.19
+55982, 
+56023, @registering a 0 bit
+56035, Wind Angle: 69	 Sail, from RC: 1595  angle out: 101  Rudder, from RC: 1171  angle out: 46
+56046, Roll raw value: 1.61Roll in deg: 11.87,              Heading: 359.95
+56061, 
+56089, Wind Angle: 71	 Sail, from RC: 1595  angle out: 101  Rudder, from RC: 1493  angle out: 94
+56102, Roll raw value: 1.18Roll in deg: 7.43,              Heading: 1.92
+56115, 
+56154, Wind Angle: 79	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1498  angle out: 95
+56168, Roll raw value: 0.78Roll in deg: 4.97,              Heading: 359.38
+56179, 
+56220, Wind Angle: 71	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1477  angle out: 92
+56329, Roll raw value: 1.33Roll in deg: 7.65,              Heading: 0.18
+56505, 
+56659, Wind Angle: 71	 Sail, from RC: 1573  angle out: 99  Rudder, from RC: 1467  angle out: 90
+56673, Roll raw value: 1.18Roll in deg: 6.98,              Heading: 359.81
+56684, 
+56725, Wind Angle: 71	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1491  angle out: 94
+56739, Roll raw value: 1.26Roll in deg: 7.72,              Heading: 358.99
+56751, 
+56791, Wind Angle: 69	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1498  angle out: 95
+56807, Roll raw value: 1.29Roll in deg: 8.10,              Heading: 359.41
+56819, 
+56857, Wind Angle: 77	 Sail, from RC: 1565  angle out: 99  Rudder, from RC: 1458  angle out: 90
+56870, Roll raw value: 1.06Roll in deg: 6.52,              Heading: 0.32
+56883, 
+56923, Wind Angle: 71	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1066  angle out: 30
+56936, Roll raw value: 1.06Roll in deg: 6.45,              Heading: 359.25
+56947, 
+56988, Wind Angle: 71	 Sail, from RC: 1600  angle out: 102  Rudder, from RC: 1064  angle out: 30
+57018, Roll raw value: 1.49Roll in deg: 8.92,              Heading: 1.56
+57029, 
+57054, Wind Angle: 69	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1064  angle out: 30
+57067, Roll raw value: 0.98Roll in deg: 5.25,              Heading: 358.43
+57079, 
+57098, Wind Angle: 69	 Sail, from RC: 1572  angle out: 99  Rudder, from RC: 1053  angle out: 30
+57111, Roll raw value: 0.86Roll in deg: 5.05,              Heading: 358.43
+57126, 
+57164, @registering a 0 bit
+57177, Wind Angle: 69	 Sail, from RC: 1600  angle out: 102  Rudder, from RC: 1491  angle out: 94
+57188, Roll raw value: 1.92Roll in deg: 11.73,              Heading: 359.21
+57200, 
+57231, Wind Angle: 71	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1498  angle out: 95
+57244, Roll raw value: 1.37Roll in deg: 8.37,              Heading: 1.47
+57255, 
+57295, Wind Angle: 82	 Sail, from RC: 1574  angle out: 100  Rudder, from RC: 1499  angle out: 95
+57310, Roll raw value: 0.59Roll in deg: 3.65,              Heading: 1.62
+57324, 
+57362, Wind Angle: 69	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1488  angle out: 94
+57375, Roll raw value: 0.67Roll in deg: 4.84,              Heading: 359.33
+57388, 
+57427, Wind Angle: 71	 Sail, from RC: 1600  angle out: 102  Rudder, from RC: 1067  angle out: 30
+57441, Roll raw value: 1.06Roll in deg: 6.14,              Heading: 359.41
+57453, 
+57493, Wind Angle: 71	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1064  angle out: 30
+57510, Roll raw value: 1.37Roll in deg: 8.40,              Heading: 359.23
+57522, 
+57560, Wind Angle: 71	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1043  angle out: 30
+57574, Roll raw value: 0.82Roll in deg: 5.50,              Heading: 359.56
+57585, 
+57625, Wind Angle: 69	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1089  angle out: 34
+57638, Roll raw value: -0.20Roll in deg: -1.33,              Heading: 0.29
+57651, 
+57692, @registering a 0 bit
+57704, Wind Angle: 71	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1499  angle out: 95
+57718, Roll raw value: 1.53Roll in deg: 8.70,              Heading: 359.02
+57730, 
+57757, Wind Angle: 79	 Sail, from RC: 1570  angle out: 99  Rudder, from RC: 1471  angle out: 91
+57772, Roll raw value: 1.10Roll in deg: 6.42,              Heading: 359.88
+57783, 
+57823, Wind Angle: 69	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1499  angle out: 95
+57836, Roll raw value: 0.63Roll in deg: 4.07,              Heading: 359.40
+57851, 
+57889, Wind Angle: 69	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1498  angle out: 95
+57903, Roll raw value: 1.18Roll in deg: 7.41,              Heading: 359.34
+57915, 
+57956, Wind Angle: 71	 Sail, from RC: 1600  angle out: 102  Rudder, from RC: 1496  angle out: 95
+57969, Roll raw value: 1.10Roll in deg: 6.52,              Heading: 359.68
+57980, 
+58021, Wind Angle: 71	 Sail, from RC: 1595  angle out: 101  Rudder, from RC: 1878  angle out: 150
+58036, Roll raw value: 1.26Roll in deg: 7.53,              Heading: 359.92
+58050, 
+58087, Wind Angle: 69	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1891  angle out: 150
+58100, Roll raw value: 1.18Roll in deg: 6.79,              Heading: 1.26
+58113, 
+58153, Wind Angle: 71	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1883  angle out: 150
+58167, Roll raw value: 1.41Roll in deg: 8.43,              Heading: 0.38
+58179, 
+58218, @registering a 1 bit
+58231, Wind Angle: 71	 Sail, from RC: 1565  angle out: 99  Rudder, from RC: 1501  angle out: 96
+58258, Roll raw value: 1.14Roll in deg: 5.87,              Heading: 0.40
+58269, 
+58307, Wind Angle: 71	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1495  angle out: 95
+58320, Roll raw value: 1.37Roll in deg: 8.30,              Heading: 0.19
+58333, 
+58372, Wind Angle: 71	 Sail, from RC: 1595  angle out: 101  Rudder, from RC: 1501  angle out: 96
+58386, Roll raw value: 0.78Roll in deg: 5.04,              Heading: 359.73
+58397, 
+58438, Wind Angle: 71	 Sail, from RC: 1571  angle out: 99  Rudder, from RC: 1480  angle out: 92
+58455, Roll raw value: 0.86Roll in deg: 5.24,              Heading: 359.70
+58467, 
+58504, Wind Angle: 69	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1494  angle out: 95
+58517, Roll raw value: 1.41Roll in deg: 8.57,              Heading: 359.83
+58529, 
+58570, Wind Angle: 71	 Sail, from RC: 1595  angle out: 101  Rudder, from RC: 1501  angle out: 96
+58584, Roll raw value: 1.45Roll in deg: 5.96,              Heading: 0.01
+58598, 
+58636, Wind Angle: 82	 Sail, from RC: 1580  angle out: 100  Rudder, from RC: 1501  angle out: 96
+58650, Roll raw value: 1.02Roll in deg: 6.13,              Heading: 0.01
+58661, 
+58701, Wind Angle: 69	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1473  angle out: 91
+58715, Roll raw value: 1.18Roll in deg: 7.10,              Heading: 359.04
+58727, 
+58768, Wind Angle: 69	 Sail, from RC: 1594  angle out: 101  Rudder, from RC: 1501  angle out: 96
+58781, Roll raw value: 1.49Roll in deg: 8.64,              Heading: 358.80
+58796, 
+58833, Wind Angle: 71	 Sail, from RC: 1601  angle out: 102  Rudder, from RC: 1501  angle out: 96
+58847, Roll raw value: 1.26Roll in deg: 7.63,              Heading: 359.33
+58858, 
+58899, Wind Angle: 71	 Sail, from RC: 1579  angle out: 100  Rudder, from RC: 1464  angle out: 90
+58913, Roll raw value: 1.14Roll in deg: 6.83,              Heading: 359.46
+58925, 
+58966, @returning to automatic command 0
+58978, Wind Angle: 69	 Sail, from RC: 1834  angle out: 85  Rudder, from RC: 1501  angle out: 96
+58992, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.65
+59004, 
+59032, Wind Angle: 71	 Sail, from RC: 1878  angle out: 86  Rudder, from RC: 1495  angle out: 95
+59045, Roll raw value: 1.06Roll in deg: 7.26,              Heading: 358.26
+59058, 
+59097, Wind Angle: 71	 Sail, from RC: 1821  angle out: 86  Rudder, from RC: 1494  angle out: 95
+59111, Roll raw value: 1.14Roll in deg: 6.51,              Heading: 0.40
+59122, 
+59163, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1501  angle out: 96
+59180, Roll raw value: 1.06Roll in deg: 6.37,              Heading: 359.26
+59192, 
+59229, Wind Angle: 69	 Sail, from RC: 1878  angle out: 85  Rudder, from RC: 1495  angle out: 95
+59242, Roll raw value: 1.18Roll in deg: 7.18,              Heading: 359.49
+59254, 
+59295, Wind Angle: 79	 Sail, from RC: 1872  angle out: 93  Rudder, from RC: 1495  angle out: 95
+59309, Roll raw value: 1.37Roll in deg: 8.62,              Heading: 359.72
+59323, 
+59361, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1479  angle out: 92
+59375, Roll raw value: 0.78Roll in deg: 5.08,              Heading: 359.84
+59386, 
+59426, Wind Angle: 69	 Sail, from RC: 1879  angle out: 85  Rudder, from RC: 1494  angle out: 95
+59440, Roll raw value: 1.22Roll in deg: 8.24,              Heading: 0.14
+59452, 
+59493, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1495  angle out: 95
+59506, Roll raw value: 0.67Roll in deg: 5.17,              Heading: 0.76
+59529, 
+59557, Wind Angle: 79	 Sail, from RC: 1842  angle out: 93  Rudder, from RC: 1480  angle out: 92
+59572, Roll raw value: 1.80Roll in deg: 9.01,              Heading: 359.26
+59583, 
+59624, Wind Angle: 71	 Sail, from RC: 1878  angle out: 86  Rudder, from RC: 1495  angle out: 95
+59638, Roll raw value: 1.26Roll in deg: 7.32,              Heading: 359.13
+59650, 
+59691, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1495  angle out: 95
+59704, Roll raw value: 1.14Roll in deg: 6.18,              Heading: 1.75
+59719, 
+59756, Wind Angle: 71	 Sail, from RC: 1852  angle out: 86  Rudder, from RC: 1501  angle out: 96
+59769, Roll raw value: 1.10Roll in deg: 5.79,              Heading: 359.44
+59782, 
+59822, Wind Angle: 71	 Sail, from RC: 1879  angle out: 86  Rudder, from RC: 1473  angle out: 91
+59836, Roll raw value: 1.06Roll in deg: 5.65,              Heading: 359.48
+59847, 
+59887, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1495  angle out: 95
+59904, Roll raw value: 0.90Roll in deg: 6.22,              Heading: 1.57
+59916, 
+59954, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1501  angle out: 96
+59967, Roll raw value: 0.90Roll in deg: 5.15,              Heading: 0.25
+59979, 
+60020, Wind Angle: 71	 Sail, from RC: 1856  angle out: 86  Rudder, from RC: 1464  angle out: 90
+60034, Roll raw value: 0.75Roll in deg: 4.20,              Heading: 359.12
+60045, 
+60085, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1495  angle out: 95
+60101, Roll raw value: 1.41Roll in deg: 8.04,              Heading: 1.18
+60113, 
+60151, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1501  angle out: 96
+60165, Roll raw value: 1.18Roll in deg: 7.34,              Heading: 0.10
+60177, 
+60218, Wind Angle: 70	 Sail, from RC: 1858  angle out: 86  Rudder, from RC: 1495  angle out: 95
+60231, Roll raw value: 1.29Roll in deg: 7.37,              Heading: 359.19
+60243, 
+60283, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1495  angle out: 95
+60300, Roll raw value: 1.10Roll in deg: 7.00,              Heading: 359.67
+60311, 
+60349, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1501  angle out: 96
+60363, Roll raw value: 0.90Roll in deg: 5.32,              Heading: 359.00
+60375, 
+60414, Wind Angle: 69	 Sail, from RC: 1878  angle out: 85  Rudder, from RC: 1495  angle out: 95
+60428, Roll raw value: 1.10Roll in deg: 6.60,              Heading: 359.02
+60443, 
+60481, Wind Angle: 71	 Sail, from RC: 1851  angle out: 86  Rudder, from RC: 1464  angle out: 90
+60494, Roll raw value: 1.14Roll in deg: 6.59,              Heading: 1.42
+60507, 
+60548, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1500  angle out: 95
+60561, Roll raw value: 1.29Roll in deg: 7.70,              Heading: 0.87
+60572, 
+60612, Wind Angle: 69	 Sail, from RC: 1879  angle out: 85  Rudder, from RC: 1494  angle out: 95
+60626, Roll raw value: 1.06Roll in deg: 6.31,              Heading: 358.95
+60641, 
+60679, Wind Angle: 69	 Sail, from RC: 1842  angle out: 85  Rudder, from RC: 1474  angle out: 91
+60692, Roll raw value: 1.22Roll in deg: 7.01,              Heading: 0.50
+60704, 
+60744, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1501  angle out: 96
+60758, Roll raw value: 0.98Roll in deg: 5.76,              Heading: 0.48
+60769, 
+60810, Wind Angle: 71	 Sail, from RC: 1879  angle out: 86  Rudder, from RC: 1495  angle out: 95
+60824, Roll raw value: 1.18Roll in deg: 7.28,              Heading: 359.99
+60847, 
+60876, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1494  angle out: 95
+60890, Roll raw value: 1.10Roll in deg: 6.37,              Heading: 358.95
+60902, 
+60942, Wind Angle: 69	 Sail, from RC: 1872  angle out: 85  Rudder, from RC: 1479  angle out: 92
+60955, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 359.02
+60967, 
+61007, Wind Angle: 71	 Sail, from RC: 1878  angle out: 86  Rudder, from RC: 1494  angle out: 95
+61024, Roll raw value: 1.26Roll in deg: 7.10,              Heading: 359.84
+61036, 
+61073, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1495  angle out: 95
+61087, Roll raw value: 1.22Roll in deg: 7.21,              Heading: 359.03
+61099, 
+61139, Wind Angle: 69	 Sail, from RC: 1820  angle out: 85  Rudder, from RC: 1480  angle out: 92
+61153, Roll raw value: 1.14Roll in deg: 6.78,              Heading: 0.03
+61165, 
+61206, Wind Angle: 71	 Sail, from RC: 1879  angle out: 86  Rudder, from RC: 1494  angle out: 95
+61222, Roll raw value: 1.06Roll in deg: 6.42,              Heading: 359.67
+61234, 
+61271, Wind Angle: 71	 Sail, from RC: 1872  angle out: 86  Rudder, from RC: 1495  angle out: 95
+61285, Roll raw value: 1.18Roll in deg: 6.98,              Heading: 359.54
+61296, 
+61337, @manual command mode
+61349, Wind Angle: 69	 Sail, from RC: 1785  angle out: 119  Rudder, from RC: 1501  angle out: 96
+61361, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 359.56
+61376, 
+61403, Wind Angle: 69	 Sail, from RC: 1732  angle out: 114  Rudder, from RC: 1495  angle out: 95
+61416, Roll raw value: 1.29Roll in deg: 8.85,              Heading: 358.53
+61428, 
+61469, Wind Angle: 71	 Sail, from RC: 1647  angle out: 106  Rudder, from RC: 1495  angle out: 95
+61483, Roll raw value: 0.94Roll in deg: 5.91,              Heading: 0.20
+61494, 
+61534, Wind Angle: 71	 Sail, from RC: 1611  angle out: 103  Rudder, from RC: 1501  angle out: 96
+61548, Roll raw value: 0.47Roll in deg: 2.76,              Heading: 359.96
+61562, 
+61600, Wind Angle: 69	 Sail, from RC: 1585  angle out: 100  Rudder, from RC: 1465  angle out: 90
+61614, Roll raw value: 0.90Roll in deg: 5.71,              Heading: 359.69
+61626, 
+61667, Wind Angle: 69	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1495  angle out: 95
+61680, Roll raw value: 1.37Roll in deg: 8.44,              Heading: 359.74
+61692, 
+61731, Wind Angle: 71	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1500  angle out: 95
+61749, Roll raw value: 0.82Roll in deg: 4.65,              Heading: 359.92
+61760, 
+61798, Wind Angle: 71	 Sail, from RC: 1577  angle out: 100  Rudder, from RC: 1495  angle out: 95
+61812, Roll raw value: 1.06Roll in deg: 6.75,              Heading: 359.85
+61824, 
+61864, Wind Angle: 69	 Sail, from RC: 1612  angle out: 103  Rudder, from RC: 1495  angle out: 95
+61878, Roll raw value: 0.90Roll in deg: 5.00,              Heading: 359.58
+61890, 
+61930, Wind Angle: 71	 Sail, from RC: 1613  angle out: 103  Rudder, from RC: 1501  angle out: 96
+61946, Roll raw value: 0.98Roll in deg: 5.97,              Heading: 359.41
+61958, 
+61996, Wind Angle: 71	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1495  angle out: 95
+62010, Roll raw value: 0.90Roll in deg: 7.31,              Heading: 359.51
+62021, 
+62061, Wind Angle: 69	 Sail, from RC: 1613  angle out: 103  Rudder, from RC: 1473  angle out: 91
+62075, Roll raw value: 1.10Roll in deg: 6.82,              Heading: 359.46
+62087, 
+62128, Wind Angle: 69	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1501  angle out: 96
+62152, Roll raw value: 0.78Roll in deg: 5.04,              Heading: 0.19
+62169, 
+62194, Wind Angle: 71	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1495  angle out: 95
+62208, Roll raw value: 0.98Roll in deg: 4.58,              Heading: 359.63
+62219, 
+62259, Wind Angle: 71	 Sail, from RC: 1583  angle out: 100  Rudder, from RC: 1480  angle out: 92
+62273, Roll raw value: 0.55Roll in deg: 6.49,              Heading: 0.63
+62287, 
+62325, Wind Angle: 69	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1500  angle out: 95
+62339, Roll raw value: 1.06Roll in deg: 5.75,              Heading: 0.18
+62351, 
+62391, Wind Angle: 69	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1495  angle out: 95
+62404, Roll raw value: 1.18Roll in deg: 6.87,              Heading: 359.23
+62416, 
+62456, Wind Angle: 82	 Sail, from RC: 1593  angle out: 101  Rudder, from RC: 1501  angle out: 96
+62471, Roll raw value: 0.98Roll in deg: 6.05,              Heading: 359.73
+62577, 
+62765, Wind Angle: 71	 Sail, from RC: 1613  angle out: 103  Rudder, from RC: 1501  angle out: 96
+62910, Roll raw value: 1.14Roll in deg: 6.89,              Heading: 359.90
+62921, 
+62962, Wind Angle: 69	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1479  angle out: 92
+62976, Roll raw value: 1.10Roll in deg: 6.65,              Heading: 359.47
+62988, 
+63029, Wind Angle: 71	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1495  angle out: 95
+63053, Roll raw value: 1.26Roll in deg: 7.27,              Heading: 359.82
+63065, 
+63093, Wind Angle: 71	 Sail, from RC: 1613  angle out: 103  Rudder, from RC: 1493  angle out: 94
+63108, Roll raw value: 1.06Roll in deg: 6.16,              Heading: 0.94
+63119, 
+63160, Wind Angle: 69	 Sail, from RC: 1583  angle out: 100  Rudder, from RC: 1479  angle out: 92
+63173, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.72
+63185, 
+63225, Wind Angle: 71	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1491  angle out: 94
+63242, Roll raw value: 1.37Roll in deg: 7.73,              Heading: 359.76
+63253, 
+63291, Wind Angle: 71	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1489  angle out: 94
+63305, Roll raw value: 1.10Roll in deg: 6.55,              Heading: 359.79
+63316, 
+63356, Wind Angle: 69	 Sail, from RC: 1593  angle out: 101  Rudder, from RC: 1367  angle out: 76
+63370, Roll raw value: 1.14Roll in deg: 7.03,              Heading: 359.07
+63382, 
+63423, Wind Angle: 69	 Sail, from RC: 1612  angle out: 103  Rudder, from RC: 1066  angle out: 30
+63439, Roll raw value: 1.22Roll in deg: 7.07,              Heading: 359.24
+63451, 
+63489, Wind Angle: 71	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1065  angle out: 30
+63502, Roll raw value: 1.29Roll in deg: 7.80,              Heading: 0.79
+63513, 
+63533, Wind Angle: 71	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1069  angle out: 31
+63546, Roll raw value: 1.22Roll in deg: 7.61,              Heading: 0.08
+63560, 
+63598, @registering a 0 bit
+63611, Wind Angle: 79	 Sail, from RC: 1568  angle out: 99  Rudder, from RC: 1228  angle out: 55
+63623, Roll raw value: 1.53Roll in deg: 7.74,              Heading: 359.91
+63634, 
+63665, Wind Angle: 71	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1498  angle out: 95
+63679, Roll raw value: 1.14Roll in deg: 6.92,              Heading: 0.65
+63690, 
+63730, Wind Angle: 69	 Sail, from RC: 1619  angle out: 104  Rudder, from RC: 1492  angle out: 94
+63744, Roll raw value: 1.18Roll in deg: 8.02,              Heading: 359.95
+63759, 
+63797, Wind Angle: 71	 Sail, from RC: 1613  angle out: 103  Rudder, from RC: 1499  angle out: 95
+63822, Roll raw value: 1.29Roll in deg: 8.24,              Heading: 359.99
+63835, 
+63862, Wind Angle: 71	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1382  angle out: 78
+63877, Roll raw value: 1.26Roll in deg: 7.38,              Heading: 358.99
+63888, 
+63928, Wind Angle: 69	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1064  angle out: 30
+63944, Roll raw value: 1.49Roll in deg: 8.51,              Heading: 1.84
+63956, 
+63993, Wind Angle: 69	 Sail, from RC: 1618  angle out: 104  Rudder, from RC: 1063  angle out: 30
+64007, Roll raw value: 0.86Roll in deg: 5.46,              Heading: 359.68
+64019, 
+64037, Wind Angle: 69	 Sail, from RC: 1599  angle out: 102  Rudder, from RC: 1063  angle out: 30
+64051, Roll raw value: 1.33Roll in deg: 8.45,              Heading: 359.44
+64063, 
+64104, Wind Angle: 71	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1065  angle out: 30
+64120, Roll raw value: 1.49Roll in deg: 8.28,              Heading: 0.11
+64132, 
+64169, @registering a 0 bit
+64183, Wind Angle: 71	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1382  angle out: 78
+64194, Roll raw value: 1.26Roll in deg: 7.50,              Heading: 359.42
+64205, 
+64235, Wind Angle: 71	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1498  angle out: 95
+64249, Roll raw value: 1.18Roll in deg: 7.42,              Heading: 0.82
+64264, 
+64302, Wind Angle: 69	 Sail, from RC: 1590  angle out: 101  Rudder, from RC: 1468  angle out: 91
+64315, Roll raw value: 0.82Roll in deg: 5.08,              Heading: 359.81
+64327, 
+64368, Wind Angle: 71	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1492  angle out: 94
+64381, Roll raw value: 1.53Roll in deg: 9.23,              Heading: 359.01
+64394, 
+64433, Wind Angle: 71	 Sail, from RC: 1613  angle out: 103  Rudder, from RC: 1386  angle out: 79
+64447, Roll raw value: 1.18Roll in deg: 7.13,              Heading: 359.46
+64461, 
+64498, Wind Angle: 69	 Sail, from RC: 1563  angle out: 98  Rudder, from RC: 1063  angle out: 30
+64512, Roll raw value: 1.29Roll in deg: 7.70,              Heading: 0.26
+64524, 
+64542, Wind Angle: 71	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1055  angle out: 30
+64557, Roll raw value: 0.55Roll in deg: 3.11,              Heading: 0.56
+64568, 
+64609, Wind Angle: 69	 Sail, from RC: 1612  angle out: 103  Rudder, from RC: 1056  angle out: 30
+64625, Roll raw value: 1.53Roll in deg: 9.31,              Heading: 0.01
+64636, 
+64674, Wind Angle: 71	 Sail, from RC: 1619  angle out: 104  Rudder, from RC: 1061  angle out: 30
+64688, Roll raw value: 0.24Roll in deg: 1.68,              Heading: 359.04
+64700, 
+64740, @registering a 0 bit
+64753, Wind Angle: 71	 Sail, from RC: 1590  angle out: 101  Rudder, from RC: 1118  angle out: 38
+64764, Roll raw value: 1.37Roll in deg: 6.75,              Heading: 1.68
+64776, 
+64806, Wind Angle: 69	 Sail, from RC: 1619  angle out: 104  Rudder, from RC: 1492  angle out: 94
+64823, Roll raw value: 1.18Roll in deg: 6.68,              Heading: 359.43
+64835, 
+64873, Wind Angle: 69	 Sail, from RC: 1613  angle out: 103  Rudder, from RC: 1499  angle out: 95
+64886, Roll raw value: 0.71Roll in deg: 4.17,              Heading: 0.10
+64899, 
+64939, Wind Angle: 82	 Sail, from RC: 1592  angle out: 101  Rudder, from RC: 1498  angle out: 95
+64952, Roll raw value: 1.53Roll in deg: 9.08,              Heading: 358.88
+64966, 
+65004, Wind Angle: 71	 Sail, from RC: 1619  angle out: 104  Rudder, from RC: 1493  angle out: 94
+65018, Roll raw value: 1.14Roll in deg: 6.81,              Heading: 359.42
+65042, 
+65071, Wind Angle: 69	 Sail, from RC: 1612  angle out: 103  Rudder, from RC: 1895  angle out: 150
+65084, Roll raw value: 1.06Roll in deg: 5.76,              Heading: 359.22
+65096, 
+65136, Wind Angle: 69	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1885  angle out: 150
+65149, Roll raw value: 2.08Roll in deg: 12.98,              Heading: 0.21
+65164, 
+65203, Wind Angle: 71	 Sail, from RC: 1592  angle out: 101  Rudder, from RC: 1859  angle out: 150
+65216, Roll raw value: 0.98Roll in deg: 5.56,              Heading: 359.80
+65227, 
+65268, Wind Angle: 71	 Sail, from RC: 1613  angle out: 103  Rudder, from RC: 1892  angle out: 150
+65283, Roll raw value: 1.22Roll in deg: 7.27,              Heading: 358.93
+65294, 
+65334, @registering a 1 bit
+65346, @command 1 registered
+65356, @manual command mode
+65368, Wind Angle: 69	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1501  angle out: 96
+65381, Roll raw value: 1.10Roll in deg: 6.63,              Heading: 359.95
+65393, 
+65421, Wind Angle: 71	 Sail, from RC: 1592  angle out: 101  Rudder, from RC: 1469  angle out: 91
+65435, Roll raw value: 1.02Roll in deg: 4.60,              Heading: 0.14
+65446, 
+65487, Wind Angle: 69	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1501  angle out: 96
+65501, Roll raw value: 0.90Roll in deg: 5.45,              Heading: 359.41
+65516, 
+65554, Wind Angle: 71	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1495  angle out: 95
+65567, Roll raw value: 1.06Roll in deg: 6.90,              Heading: 359.32
+65580, 
+65618, Wind Angle: 71	 Sail, from RC: 1582  angle out: 100  Rudder, from RC: 1501  angle out: 96
+65633, Roll raw value: 1.10Roll in deg: 6.63,              Heading: 1.09
+65644, 
+65685, Wind Angle: 69	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1501  angle out: 96
+65699, Roll raw value: 0.94Roll in deg: 5.64,              Heading: 1.72
+65714, 
+65751, Wind Angle: 69	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1495  angle out: 95
+65764, Roll raw value: 1.18Roll in deg: 6.93,              Heading: 359.77
+65776, 
+65817, Wind Angle: 79	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1502  angle out: 96
+65830, Roll raw value: 1.10Roll in deg: 6.37,              Heading: 359.46
+65842, 
+65883, Wind Angle: 71	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1480  angle out: 92
+65899, Roll raw value: 1.18Roll in deg: 7.10,              Heading: 359.32
+65911, 
+65948, Wind Angle: 69	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1494  angle out: 95
+65961, Roll raw value: 1.14Roll in deg: 7.01,              Heading: 359.44
+65974, 
+66015, Wind Angle: 69	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1501  angle out: 96
+66028, Roll raw value: 1.22Roll in deg: 7.27,              Heading: 359.88
+66040, 
+66080, Wind Angle: 79	 Sail, from RC: 1583  angle out: 100  Rudder, from RC: 1481  angle out: 93
+66097, Roll raw value: 1.06Roll in deg: 6.26,              Heading: 359.23
+66108, 
+66146, Wind Angle: 71	 Sail, from RC: 1620  angle out: 104  Rudder, from RC: 1495  angle out: 95
+66160, Roll raw value: 1.02Roll in deg: 6.29,              Heading: 358.97
+66171, 
+66212, Wind Angle: 69	 Sail, from RC: 1614  angle out: 103  Rudder, from RC: 1501  angle out: 96
+66226, Roll raw value: 1.14Roll in deg: 6.64,              Heading: 359.98
+66238, 
+66278, Wind Angle: 71	 Sail, from RC: 1728  angle out: 114  Rudder, from RC: 1501  angle out: 96
+66294, Roll raw value: 1.10Roll in deg: 6.63,              Heading: 359.12
+66319, 
+66343, @returning to automatic command 1
